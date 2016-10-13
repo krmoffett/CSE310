@@ -1,0 +1,944 @@
+Please enter table size: Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+Please enter number of commands: Enter command:
+
+index: 0, linked list size: 7
+
+discipline:	Archery
+gender:		F
+team_or_ind:	TEAM
+event:		Archery
+venue:		Lord's Cricket Ground
+medal:		1. GOLD
+athlete:	team KOR
+country:	South Korea
+
+discipline:	Swimming
+gender:		F
+team_or_ind:	TEAM
+event:		Freestyle
+venue:		Aquatics Centre
+medal:		3. BRONZE
+athlete:	team USA
+country:	United States
+
+discipline:	Swimming
+gender:		F
+team_or_ind:	TEAM
+event:		Freestyle
+venue:		Aquatics Centre
+medal:		1. GOLD
+athlete:	team AUS
+country:	Australia
+
+discipline:	Swimming
+gender:		M
+team_or_ind:	IND
+event:		Freestyle
+venue:		Aquatics Centre
+medal:		2. SILVER
+athlete:	Tehwan Park
+country:	South Korea
+
+discipline:	Shooting
+gender:		F
+team_or_ind:	IND
+event:		Rifle
+venue:		Royal Artillery Barracks
+medal:		3. BRONZE
+athlete:	Dan Yu
+country:	China
+
+discipline:	Shooting
+gender:		F
+team_or_ind:	IND
+event:		Rifle
+venue:		Royal Artillery Barracks
+medal:		2. SILVER
+athlete:	Sylwia Bogacka
+country:	Poland
+
+discipline:	Cycling
+gender:		M
+team_or_ind:	IND
+event:		Road
+venue:		Regent's Park
+medal:		1. GOLD
+athlete:	Aleksander Winokurow
+country:	Kazakhstan
+
+index: 1, linked list size: 4
+
+discipline:	Cycling
+gender:		F
+team_or_ind:	IND
+event:		Road
+venue:		Regent's Park
+medal:		1. GOLD
+athlete:	Marianne Vos
+country:	Netherlands
+
+discipline:	Swimming
+gender:		F
+team_or_ind:	IND
+event:		Medley
+venue:		Aquatics Centre
+medal:		2. SILVER
+athlete:	Elizabeth Beisel
+country:	United States
+
+discipline:	Judo
+gender:		M
+team_or_ind:	IND
+event:		60
+venue:		ExCeL
+medal:		1. GOLD
+athlete:	Arsen Galstjan
+country:	Russia
+
+discipline:	Judo
+gender:		F
+team_or_ind:	IND
+event:		48
+venue:		ExCeL
+medal:		1. GOLD
+athlete:	Sarah Menezes
+country:	Brazil
+
+index: 2, linked list size: 3
+
+discipline:	Weightlifting
+gender:		F
+team_or_ind:	IND
+event:		48
+venue:		ExCeL
+medal:		1. GOLD
+athlete:	Mingjuan Wang
+country:	China
+
+discipline:	Swimming
+gender:		M
+team_or_ind:	IND
+event:		Medley
+venue:		Aquatics Centre
+medal:		3. BRONZE
+athlete:	Kosuke Hagino
+country:	Japan
+
+discipline:	Shooting
+gender:		F
+team_or_ind:	IND
+event:		Rifle
+venue:		Royal Artillery Barracks
+medal:		1. GOLD
+athlete:	Siling Yi
+country:	China
+
+index: 3, linked list size: 3
+
+discipline:	Swimming
+gender:		M
+team_or_ind:	IND
+event:		Medley
+venue:		Aquatics Centre
+medal:		2. SILVER
+athlete:	Thiago Pereira
+country:	Brazil
+
+discipline:	Swimming
+gender:		M
+team_or_ind:	IND
+event:		Medley
+venue:		Aquatics Centre
+medal:		1. GOLD
+athlete:	Ryan Lochte
+country:	United States
+
+discipline:	Shooting
+gender:		F
+team_or_ind:	IND
+event:		Pistol
+venue:		Royal Artillery Barracks
+medal:		2. SILVER
+athlete:	Luca Tesconi
+country:	Italy
+
+index: 4, linked list size: 7
+
+discipline:	Cycling
+gender:		F
+team_or_ind:	IND
+event:		Road
+venue:		Regent's Park
+medal:		3. BRONZE
+athlete:	Olga Zabelinskaya
+country:	Russia
+
+discipline:	Cycling
+gender:		F
+team_or_ind:	IND
+event:		Road
+venue:		Regent's Park
+medal:		2. SILVER
+athlete:	Elizabeth Armitstead
+country:	Great Britain
+
+discipline:	Weightlifting
+gender:		F
+team_or_ind:	IND
+event:		48
+venue:		ExCeL
+medal:		2. SILVER
+athlete:	Hiromi Miyake
+country:	Japan
+
+discipline:	Swimming
+gender:		F
+team_or_ind:	IND
+event:		Medley
+venue:		Aquatics Centre
+medal:		3. BRONZE
+athlete:	Xuanxu Li
+country:	China
+
+discipline:	Fencing
+gender:		F
+team_or_ind:	IND
+event:		Foil
+venue:		ExCeL
+medal:		1. GOLD
+athlete:	Elisa Di Francisca
+country:	Italy
+
+discipline:	Cycling
+gender:		M
+team_or_ind:	IND
+event:		Road
+venue:		Regent's Park
+medal:		3. BRONZE
+athlete:	Alexander Kristoff
+country:	Norway
+
+discipline:	Archery
+gender:		M
+team_or_ind:	TEAM
+event:		Archery
+venue:		Lord's Cricket Ground
+medal:		2. SILVER
+athlete:	team USA
+country:	United States
+
+index: 5, linked list size: 1
+
+discipline:	Fencing
+gender:		F
+team_or_ind:	IND
+event:		Foil
+venue:		ExCeL
+medal:		3. BRONZE
+athlete:	Valentina Vezzali
+country:	Italy
+
+index: 6, linked list size: 2
+
+discipline:	Shooting
+gender:		F
+team_or_ind:	IND
+event:		Pistol
+venue:		Royal Artillery Barracks
+medal:		3. BRONZE
+athlete:	Andrija Zlatic
+country:	Serbia
+
+discipline:	Archery
+gender:		M
+team_or_ind:	TEAM
+event:		Archery
+venue:		Lord's Cricket Ground
+medal:		1. GOLD
+athlete:	team ITA
+country:	Italy
+
+index: 7, linked list size: 4
+
+discipline:	Archery
+gender:		F
+team_or_ind:	TEAM
+event:		Archery
+venue:		Lord's Cricket Ground
+medal:		2. SILVER
+athlete:	team CHN
+country:	China
+
+discipline:	Judo
+gender:		M
+team_or_ind:	IND
+event:		60
+venue:		ExCeL
+medal:		3. BRONZE
+athlete:	Rishod Sobirov
+country:	Uzbekistan
+
+discipline:	Judo
+gender:		M
+team_or_ind:	IND
+event:		60
+venue:		ExCeL
+medal:		3. BRONZE
+athlete:	Felipe Kitadai
+country:	Brazil
+
+discipline:	Archery
+gender:		M
+team_or_ind:	TEAM
+event:		Archery
+venue:		Lord's Cricket Ground
+medal:		3. BRONZE
+athlete:	team KOR
+country:	South Korea
+
+index: 8, linked list size: 2
+
+discipline:	Swimming
+gender:		F
+team_or_ind:	TEAM
+event:		Freestyle
+venue:		Aquatics Centre
+medal:		2. SILVER
+athlete:	team NED
+country:	Netherlands
+
+discipline:	Swimming
+gender:		M
+team_or_ind:	IND
+event:		Freestyle
+venue:		Aquatics Centre
+medal:		1. GOLD
+athlete:	Yang Sun
+country:	China
+
+index: 9, linked list size: 2
+
+discipline:	Archery
+gender:		F
+team_or_ind:	TEAM
+event:		Archery
+venue:		Lord's Cricket Ground
+medal:		3. BRONZE
+athlete:	team JAP
+country:	Japan
+
+discipline:	Swimming
+gender:		M
+team_or_ind:	IND
+event:		Freestyle
+venue:		Aquatics Centre
+medal:		3. BRONZE
+athlete:	Peter Vanderkaay
+country:	United States
+
+index: 10, linked list size: 1
+
+discipline:	Judo
+gender:		F
+team_or_ind:	IND
+event:		48
+venue:		ExCeL
+medal:		2. SILVER
+athlete:	Alina Dumitru
+country:	Romania
+
+index: 11, linked list size: 3
+
+discipline:	Weightlifting
+gender:		F
+team_or_ind:	IND
+event:		48
+venue:		ExCeL
+medal:		3. BRONZE
+athlete:	Chun Hwa Ryang
+country:	North Korea
+
+discipline:	Judo
+gender:		F
+team_or_ind:	IND
+event:		48
+venue:		ExCeL
+medal:		3. BRONZE
+athlete:	Chrline van Snick
+country:	Belgium
+
+discipline:	Cycling
+gender:		M
+team_or_ind:	IND
+event:		Road
+venue:		Regent's Park
+medal:		2. SILVER
+athlete:	Rigoberto Uran
+country:	Colombia
+
+index: 12, linked list size: 5
+
+discipline:	Swimming
+gender:		F
+team_or_ind:	IND
+event:		Medley
+venue:		Aquatics Centre
+medal:		1. GOLD
+athlete:	Shiwen Ye
+country:	China
+
+discipline:	Shooting
+gender:		F
+team_or_ind:	IND
+event:		Pistol
+venue:		Royal Artillery Barracks
+medal:		1. GOLD
+athlete:	Jongoh Jin
+country:	South Korea
+
+discipline:	Judo
+gender:		M
+team_or_ind:	IND
+event:		60
+venue:		ExCeL
+medal:		2. SILVER
+athlete:	Hiroaki Hiraoka
+country:	Japan
+
+discipline:	Judo
+gender:		F
+team_or_ind:	IND
+event:		48
+venue:		ExCeL
+medal:		3. BRONZE
+athlete:	Eva Csernoviczki
+country:	Hungary
+
+discipline:	Fencing
+gender:		F
+team_or_ind:	IND
+event:		Foil
+venue:		ExCeL
+medal:		2. SILVER
+athlete:	Arianna Errigo
+country:	Italy
+Enter command:
+
+The medal recipient Thiago Pereira for Swimming with event Medley deleted
+Enter command:
+
+The medal recipient Jongoh Jin has the medal of 1. GOLD
+Enter command:
+
+Alina Dumitru for Fencing with event Foil not found
+Enter command:
+
+The medal recipient Aleksander Winokurow for Cycling with event Road deleted
+Enter command:
+
+Australia for Swimming with event Freestyle not found
+Enter command:
+
+The medal recipient Rishod Sobirov for Judo with event 60 deleted
+Enter command:
+
+index: 0, linked list size: 7
+
+discipline:	Archery
+gender:		F
+team_or_ind:	TEAM
+event:		Archery
+venue:		Lord's Cricket Ground
+medal:		1. GOLD
+athlete:	team KOR
+country:	South Korea
+
+discipline:	Swimming
+gender:		F
+team_or_ind:	TEAM
+event:		Freestyle
+venue:		Aquatics Centre
+medal:		3. BRONZE
+athlete:	team USA
+country:	United States
+
+discipline:	Swimming
+gender:		F
+team_or_ind:	TEAM
+event:		Freestyle
+venue:		Aquatics Centre
+medal:		1. GOLD
+athlete:	team AUS
+country:	Australia
+
+discipline:	Swimming
+gender:		M
+team_or_ind:	IND
+event:		Freestyle
+venue:		Aquatics Centre
+medal:		2. SILVER
+athlete:	Tehwan Park
+country:	South Korea
+
+discipline:	Shooting
+gender:		F
+team_or_ind:	IND
+event:		Rifle
+venue:		Royal Artillery Barracks
+medal:		3. BRONZE
+athlete:	Dan Yu
+country:	China
+
+discipline:	Shooting
+gender:		F
+team_or_ind:	IND
+event:		Rifle
+venue:		Royal Artillery Barracks
+medal:		2. SILVER
+athlete:	Sylwia Bogacka
+country:	Poland
+
+discipline:	Cycling
+gender:		M
+team_or_ind:	IND
+event:		Road
+venue:		Regent's Park
+medal:		1. GOLD
+athlete:	Aleksander Winokurow
+country:	Kazakhstan
+
+index: 1, linked list size: 4
+
+discipline:	Cycling
+gender:		F
+team_or_ind:	IND
+event:		Road
+venue:		Regent's Park
+medal:		1. GOLD
+athlete:	Marianne Vos
+country:	Netherlands
+
+discipline:	Swimming
+gender:		F
+team_or_ind:	IND
+event:		Medley
+venue:		Aquatics Centre
+medal:		2. SILVER
+athlete:	Elizabeth Beisel
+country:	United States
+
+discipline:	Judo
+gender:		M
+team_or_ind:	IND
+event:		60
+venue:		ExCeL
+medal:		1. GOLD
+athlete:	Arsen Galstjan
+country:	Russia
+
+discipline:	Judo
+gender:		F
+team_or_ind:	IND
+event:		48
+venue:		ExCeL
+medal:		1. GOLD
+athlete:	Sarah Menezes
+country:	Brazil
+
+index: 2, linked list size: 3
+
+discipline:	Weightlifting
+gender:		F
+team_or_ind:	IND
+event:		48
+venue:		ExCeL
+medal:		1. GOLD
+athlete:	Mingjuan Wang
+country:	China
+
+discipline:	Swimming
+gender:		M
+team_or_ind:	IND
+event:		Medley
+venue:		Aquatics Centre
+medal:		3. BRONZE
+athlete:	Kosuke Hagino
+country:	Japan
+
+discipline:	Shooting
+gender:		F
+team_or_ind:	IND
+event:		Rifle
+venue:		Royal Artillery Barracks
+medal:		1. GOLD
+athlete:	Siling Yi
+country:	China
+
+index: 3, linked list size: 2
+
+discipline:	Swimming
+gender:		M
+team_or_ind:	IND
+event:		Medley
+venue:		Aquatics Centre
+medal:		1. GOLD
+athlete:	Ryan Lochte
+country:	United States
+
+discipline:	Shooting
+gender:		F
+team_or_ind:	IND
+event:		Pistol
+venue:		Royal Artillery Barracks
+medal:		2. SILVER
+athlete:	Luca Tesconi
+country:	Italy
+
+index: 4, linked list size: 7
+
+discipline:	Cycling
+gender:		F
+team_or_ind:	IND
+event:		Road
+venue:		Regent's Park
+medal:		3. BRONZE
+athlete:	Olga Zabelinskaya
+country:	Russia
+
+discipline:	Cycling
+gender:		F
+team_or_ind:	IND
+event:		Road
+venue:		Regent's Park
+medal:		2. SILVER
+athlete:	Elizabeth Armitstead
+country:	Great Britain
+
+discipline:	Weightlifting
+gender:		F
+team_or_ind:	IND
+event:		48
+venue:		ExCeL
+medal:		2. SILVER
+athlete:	Hiromi Miyake
+country:	Japan
+
+discipline:	Swimming
+gender:		F
+team_or_ind:	IND
+event:		Medley
+venue:		Aquatics Centre
+medal:		3. BRONZE
+athlete:	Xuanxu Li
+country:	China
+
+discipline:	Fencing
+gender:		F
+team_or_ind:	IND
+event:		Foil
+venue:		ExCeL
+medal:		1. GOLD
+athlete:	Elisa Di Francisca
+country:	Italy
+
+discipline:	Cycling
+gender:		M
+team_or_ind:	IND
+event:		Road
+venue:		Regent's Park
+medal:		3. BRONZE
+athlete:	Alexander Kristoff
+country:	Norway
+
+discipline:	Archery
+gender:		M
+team_or_ind:	TEAM
+event:		Archery
+venue:		Lord's Cricket Ground
+medal:		2. SILVER
+athlete:	team USA
+country:	United States
+
+index: 5, linked list size: 1
+
+discipline:	Fencing
+gender:		F
+team_or_ind:	IND
+event:		Foil
+venue:		ExCeL
+medal:		3. BRONZE
+athlete:	Valentina Vezzali
+country:	Italy
+
+index: 6, linked list size: 2
+
+discipline:	Shooting
+gender:		F
+team_or_ind:	IND
+event:		Pistol
+venue:		Royal Artillery Barracks
+medal:		3. BRONZE
+athlete:	Andrija Zlatic
+country:	Serbia
+
+discipline:	Archery
+gender:		M
+team_or_ind:	TEAM
+event:		Archery
+venue:		Lord's Cricket Ground
+medal:		1. GOLD
+athlete:	team ITA
+country:	Italy
+
+index: 7, linked list size: 4
+
+discipline:	Archery
+gender:		F
+team_or_ind:	TEAM
+event:		Archery
+venue:		Lord's Cricket Ground
+medal:		2. SILVER
+athlete:	team CHN
+country:	China
+
+discipline:	Judo
+gender:		M
+team_or_ind:	IND
+event:		60
+venue:		ExCeL
+medal:		3. BRONZE
+athlete:	Rishod Sobirov
+country:	Uzbekistan
+
+discipline:	Judo
+gender:		M
+team_or_ind:	IND
+event:		60
+venue:		ExCeL
+medal:		3. BRONZE
+athlete:	Felipe Kitadai
+country:	Brazil
+
+discipline:	Archery
+gender:		M
+team_or_ind:	TEAM
+event:		Archery
+venue:		Lord's Cricket Ground
+medal:		3. BRONZE
+athlete:	team KOR
+country:	South Korea
+
+index: 8, linked list size: 2
+
+discipline:	Swimming
+gender:		F
+team_or_ind:	TEAM
+event:		Freestyle
+venue:		Aquatics Centre
+medal:		2. SILVER
+athlete:	team NED
+country:	Netherlands
+
+discipline:	Swimming
+gender:		M
+team_or_ind:	IND
+event:		Freestyle
+venue:		Aquatics Centre
+medal:		1. GOLD
+athlete:	Yang Sun
+country:	China
+
+index: 9, linked list size: 2
+
+discipline:	Archery
+gender:		F
+team_or_ind:	TEAM
+event:		Archery
+venue:		Lord's Cricket Ground
+medal:		3. BRONZE
+athlete:	team JAP
+country:	Japan
+
+discipline:	Swimming
+gender:		M
+team_or_ind:	IND
+event:		Freestyle
+venue:		Aquatics Centre
+medal:		3. BRONZE
+athlete:	Peter Vanderkaay
+country:	United States
+
+index: 10, linked list size: 1
+
+discipline:	Judo
+gender:		F
+team_or_ind:	IND
+event:		48
+venue:		ExCeL
+medal:		2. SILVER
+athlete:	Alina Dumitru
+country:	Romania
+
+index: 11, linked list size: 3
+
+discipline:	Weightlifting
+gender:		F
+team_or_ind:	IND
+event:		48
+venue:		ExCeL
+medal:		3. BRONZE
+athlete:	Chun Hwa Ryang
+country:	North Korea
+
+discipline:	Judo
+gender:		F
+team_or_ind:	IND
+event:		48
+venue:		ExCeL
+medal:		3. BRONZE
+athlete:	Chrline van Snick
+country:	Belgium
+
+discipline:	Cycling
+gender:		M
+team_or_ind:	IND
+event:		Road
+venue:		Regent's Park
+medal:		2. SILVER
+athlete:	Rigoberto Uran
+country:	Colombia
+
+index: 12, linked list size: 5
+
+discipline:	Swimming
+gender:		F
+team_or_ind:	IND
+event:		Medley
+venue:		Aquatics Centre
+medal:		1. GOLD
+athlete:	Shiwen Ye
+country:	China
+
+discipline:	Shooting
+gender:		F
+team_or_ind:	IND
+event:		Pistol
+venue:		Royal Artillery Barracks
+medal:		1. GOLD
+athlete:	Jongoh Jin
+country:	South Korea
+
+discipline:	Judo
+gender:		M
+team_or_ind:	IND
+event:		60
+venue:		ExCeL
+medal:		2. SILVER
+athlete:	Hiroaki Hiraoka
+country:	Japan
+
+discipline:	Judo
+gender:		F
+team_or_ind:	IND
+event:		48
+venue:		ExCeL
+medal:		3. BRONZE
+athlete:	Eva Csernoviczki
+country:	Hungary
+
+discipline:	Fencing
+gender:		F
+team_or_ind:	IND
+event:		Foil
+venue:		ExCeL
+medal:		2. SILVER
+athlete:	Arianna Errigo
+country:	Italy
