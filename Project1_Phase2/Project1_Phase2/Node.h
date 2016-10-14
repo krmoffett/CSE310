@@ -13,16 +13,16 @@ struct Node {
 	string medal;
 	string athlete;
 	string country;
+	string color;
 	Node * parent;
 	Node * left;
 	Node * right;
 
-	int getKey(Node x);
+	string getKey(Node x);
 };
 
-Node::getKey(Node x)
+string Node::getKey(Node x)
 {
-	string str = x.discipline + x.gender + x.event + x.athlete;
-	int key = (int)str;
+	string key = x.discipline + x.gender + x.event + x.athlete;
 	return key;
 }
