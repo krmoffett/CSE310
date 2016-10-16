@@ -19,6 +19,7 @@ struct Node {
 
 	string getKey();
 	void display();
+	
 };
 
 string Node::getKey()
@@ -26,6 +27,8 @@ string Node::getKey()
 	string key = discipline + "," + gender + "," + event + "," + athlete;
 	return key;
 }
+
+
 
 void Node::display()
 {
