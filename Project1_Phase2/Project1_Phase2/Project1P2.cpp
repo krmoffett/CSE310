@@ -8,7 +8,7 @@ using namespace std;
 int main()
 {
 	RBTree tree1;
-	string input, command, discipline, gender, team_or_ind, event, venue, medal, athlete, country;
+	string input, command, key, discipline, gender, team_or_ind, event, venue, medal, athlete, country;
 	Node * x = new Node;
 
 	while (input != "quit")
@@ -59,6 +59,22 @@ int main()
 				x->parent = NULL;
 
 				tree1.treeInsert(x);
+			}
+			else if (command == "tree_search")
+			{
+				getline(ss, key);
+				stringstream ks(key);
+				x = tree1.treeSearch(tree1.getRoot(), key);
+				if (x != NULL)
+					cout << "\nThe medal recipient " << x->athlete << " has the medal of " << x->medal << endl;
+				else
+				{
+					getline(ks, discipline, ',');
+					getline(ks, gender, ',');
+					getline(ks, event, ',');
+					getline(ks, athlete);
+					cout << endl << athlete << " for " << discipline << " with event " << event << " not found\n";
+				}
 			}
 		}
 
