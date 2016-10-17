@@ -24,8 +24,10 @@ public:
 	Node* treePredecessor(Node * x);
 	void treeInsert(Node * x);
 	void bsTreeInsert(Node * z);
-	int rightRotate(Node * x);
-	int leftRotate(Node * x);
+	void rightRotate(Node * x);
+	void leftRotate(Node * x);
+
+	Node * getRoot() { return root; }
 };
 
 RBTree::RBTree()	// Constructor
@@ -185,9 +187,58 @@ Node* RBTree::treePredecessor(Node * x)
 
 void RBTree::treeInsert(Node * x)
 {
+	Node * y = new Node;
 	bsTreeInsert(x);
 	x->color = "RED";
-	while(x != root && x->parent->color == "RED")
+	while (x != root && x->parent->color == "RED")
+	{
+		if (x->parent = x->parent->parent->left)
+		{
+			y = x->parent->parent->right;
+			if (y->color == "RED")
+			{
+				x->parent->color = "BLACK";
+				y->color = "BLACK";
+				x->parent->parent->color = "RED";
+				x = x->parent->parent;
+			}
+			else
+			{
+				if (x = x->parent->right)
+				{
+					x = x->parent;
+					leftRotate(x);
+				}
+				x->parent->color = "BLACK";
+				x->parent->parent->color = "RED";
+				rightRotate(x->parent->parent);
+			}
+		}
+	    else
+		{
+			y = x->parent->parent->left;
+			if (y->color == "RED")
+			{
+				x->parent->color = "BLACK";
+				y->color = "BLACK";
+				x->parent->parent->color = "RED";
+				x = x->parent->parent;
+			}
+			else
+			{
+				if (x = x->parent->left)
+				{
+					x = x->parent;
+					rightRotate(x);
+				}
+				x->parent->color = "BLACK";
+				x->parent->parent->color = "RED";
+				leftRotate(x->parent->parent);
+			}
+		}
+		
+	}
+	root->color = "BLACK";
 }
 
 void RBTree::bsTreeInsert(Node * z)
@@ -199,11 +250,9 @@ void RBTree::bsTreeInsert(Node * z)
 	{
 		y = x;
 		if (z->getKey().compare(y->getKey()) < 0)
-		{
 			x = x->left;
 		else
 			x = x->right;
-		}
 	}
 	z->parent = y;
 	if (y == NULL)
@@ -215,4 +264,48 @@ void RBTree::bsTreeInsert(Node * z)
 		else
 			y->right = z;
 	}
+}
+
+void RBTree::leftRotate(Node * x)
+{
+	Node * y = x->right;
+	x->right = y->left;
+	if (y->left != NULL)
+		y->left->parent = x;
+	y->parent = x->parent;
+	if (x->parent == NULL)
+	{
+		root = y;
+	}
+	else
+	{
+		if (x == x->parent->left)
+			x->parent->left = y;
+		else
+			x->parent->right = y;
+	}
+	y->left = x;
+	x->parent = y;
+}
+
+void RBTree::rightRotate(Node * x)
+{
+	Node * y = x->left;
+	x->left = y->right;
+	if (y->right != NULL)
+		y->right->parent = x;
+	y->parent = x->parent;
+	if (x->parent == NULL)
+	{
+		root = y;
+	}
+	else
+	{
+		if (x == x->parent->right)
+			x->parent->right = y;
+		else
+			x->parent->left = y;
+	}
+	y->right = x;
+	x->parent = y;
 }
