@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string>
 #include <sstream>
-//#include <cstring>
 #include "Node.h"
 
 using namespace std;
@@ -249,7 +248,7 @@ void RBTree::bsTreeInsert(Node * z)
 	while (x != NULL)
 	{
 		y = x;
-		if (z->getKey().compare(y->getKey()) < 0)
+		if (keyComp(z->getKey(), y->getKey()) < 0)
 			x = x->left;
 		else
 			x = x->right;
@@ -259,7 +258,7 @@ void RBTree::bsTreeInsert(Node * z)
 		root = z;
 	else
 	{
-		if (z->getKey().compare(y->getKey()) < 0)
+		if (keyComp(z->getKey(), y->getKey()) < 0)
 			y->left = z;
 		else
 			y->right = z;
