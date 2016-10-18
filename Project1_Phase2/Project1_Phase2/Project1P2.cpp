@@ -26,8 +26,10 @@ int main()
 			tree1.postorderTreeWalk(tree1.getRoot());
 
 		else if (input == "tree_maximum")
-			tree1.treeMaximum(tree1.getRoot());
-
+		{
+			x = tree1.treeMaximum(tree1.getRoot());
+			x->display();
+		}
 		else if (input == "tree_minimum")
 			tree1.treeMinimum(tree1.getRoot());
 
