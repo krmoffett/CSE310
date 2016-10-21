@@ -13,9 +13,9 @@ public:
 	RBTree();
 	~RBTree();
 	int keyComp(string key1, string key2);
-	int inorderTreeWalk(Node * x);
-	int preorderTreeWalk(Node * x);
-	int postorderTreeWalk(Node * x);
+	void inorderTreeWalk(Node * x);
+	void preorderTreeWalk(Node * x);
+	void postorderTreeWalk(Node * x);
 	Node* treeSearch(Node * x, string k);
 	Node* treeMinimum(Node * x);
 	Node* treeMaximum(Node * x);
@@ -83,43 +83,34 @@ int RBTree::keyComp(string key1, string key2)	// Used to compare two node keys. 
 	}
 }
 
-int RBTree::inorderTreeWalk(Node * x)
+void RBTree::inorderTreeWalk(Node * x)
 {
 	if (x != NULL)
 	{
 		inorderTreeWalk(x->left);
 		x->display();
 		inorderTreeWalk(x->right);
-		return 0;
 	}
-	else
-		return 1;
 }
 
-int RBTree::preorderTreeWalk(Node * x)
+void RBTree::preorderTreeWalk(Node * x)
 {
 	if (x != NULL)
 	{
 		x->display();
 		preorderTreeWalk(x->left);
 		preorderTreeWalk(x->right);
-		return 0;
 	}
-	else
-		return 1;
 }
 
-int RBTree::postorderTreeWalk(Node * x)
+void RBTree::postorderTreeWalk(Node * x)
 {
 	if (x != NULL)
 	{
 		postorderTreeWalk(x->left);
 		postorderTreeWalk(x->right);
 		x->display();
-		return 0;
 	}
-	else
-		return 1;
 }
 
 Node* RBTree::treeSearch(Node * x, string k)
