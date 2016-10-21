@@ -39,7 +39,7 @@ RBTree::~RBTree()	// Destructor
 
 }
 
-int RBTree::keyComp(string key1, string key2)	// Used to compare to node keys. If comp returns < 0, key1 < key2
+int RBTree::keyComp(string key1, string key2)	// Used to compare two node keys. If comp returns < 0, key1 < key2
 												// If comp returns > 0, key1 > key2
 												// If comp returns = 0, keys are the same
 {

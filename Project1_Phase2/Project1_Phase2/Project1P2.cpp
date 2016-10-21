@@ -13,7 +13,7 @@ int main()
 
 	while (input != "quit")
 	{
-		cout << "\nPlease enter a command:\n";
+		cout << "Please enter a command:\n";
 		getline(cin, input);
 
 		if (input == "tree_inorder")
