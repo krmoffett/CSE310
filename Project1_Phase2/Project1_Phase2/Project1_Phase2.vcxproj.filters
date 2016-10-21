@@ -31,5 +31,11 @@
     <Text Include="sampleinput.txt">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="testinput.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="testoutput.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>

@@ -186,8 +186,8 @@ Node* RBTree::treePredecessor(Node * x)
 
 void RBTree::treeInsert(Node * x)
 {
-	Node * y = NULL;
 	bsTreeInsert(x);
+	Node * y = NULL;
 	x->color = "RED";
 	while (x != root && x->parent->color == "RED")
 	{

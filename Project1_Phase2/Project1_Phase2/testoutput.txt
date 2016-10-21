@@ -1,0 +1,20 @@
+Please enter a command:
+Please enter a command:
+
+discipline:	1
+gender:		2
+team_or_ind	3
+event:		4
+venue:		5
+medal:		6
+athlete:	7
+country:	8
+color:		BLACK
+Please enter a command:
+Please enter a command:
+
+The medal recipient 2 has the medal of 3
+Please enter a command:
+
+7 for 1 with event 4 not found
+Please enter a command:

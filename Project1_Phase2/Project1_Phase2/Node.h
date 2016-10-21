@@ -34,5 +34,5 @@ void Node::display()
 {
 	cout << "\ndiscipline:\t" << discipline << "\ngender:\t\t" << gender << "\nteam_or_ind\t" << team_or_ind
 		<< "\nevent:\t\t" << event << "\nvenue:\t\t" << venue << "\nmedal:\t\t" << medal << "\nathlete:\t"
-		<< athlete << "\ncountry:\t" << country << "\ncolor:\t\t" << color;
+		<< athlete << "\ncountry:\t" << country << "\ncolor:\t\t" << color << endl;
 }

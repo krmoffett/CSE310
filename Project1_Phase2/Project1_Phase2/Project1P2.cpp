@@ -59,7 +59,7 @@ int main()
 				x->left = NULL;
 				x->right = NULL;
 				x->parent = NULL;
-
+				
 				tree1.treeInsert(x);
 			}
 			else if (command == "tree_search")
