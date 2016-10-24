@@ -1,0 +1,956 @@
+Please enter table size: Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+
+Please enter medal information: 
+Please enter number of commands: Enter command:
+Enter command:
+
+index: 0, linked list size: 4
+
+discipline:	
+gender:		F
+team_or_ind:	IND
+event:		Fly
+venue:		ExCel
+medal:		3. BRONZE
+athlete:	Marlen Esparza
+country:	United States
+
+discipline:	Equestrian
+gender:		MIX
+team_or_ind:	TEAM
+event:		Jumping
+venue:		Greenwich Park
+medal:		3. BRONZE
+athlete:	team KSA
+country:	Saudi Arabia
+
+discipline:	Weightlifting
+gender:		F
+team_or_ind:	IND
+event:		69
+venue:		ExCeL
+medal:		1. GOLD
+athlete:	Jong Sim Rim
+country:	North Korea
+
+discipline:	
+gender:		
+team_or_ind:	
+event:		
+venue:		
+medal:		
+athlete:	
+country:	
+
+index: 1, linked list size: 5
+
+discipline:	
+gender:		F
+team_or_ind:	TEAM
+event:		Beach
+venue:		Horse Guards Parade
+medal:		2. SILVER
+athlete:	team USA
+country:	United States
+
+discipline:	
+gender:		F
+team_or_ind:	TEAM
+event:		Beach
+venue:		Horse Guards Parade
+medal:		1. GOLD
+athlete:	team USA
+country:	United States
+
+discipline:	
+gender:		F
+team_or_ind:	IND
+event:		Triathlon
+venue:		Hyde Park
+medal:		2. SILVER
+athlete:	Lisa Norden
+country:	Sweden
+
+discipline:	
+gender:		M
+team_or_ind:	IND
+event:		Shot Put
+venue:		Olympic Stadium
+medal:		2. SILVER
+athlete:	David Storl
+country:	Germany
+
+discipline:	Weightlifting
+gender:		F
+team_or_ind:	IND
+event:		69
+venue:		ExCeL
+medal:		3. BRONZE
+athlete:	Maryna Shkermankova
+country:	Belarus
+
+index: 2, linked list size: 7
+
+discipline:	Water Polo
+gender:		F
+team_or_ind:	TEAM
+event:		Water Polo
+venue:		Aquatics Centre
+medal:		2. SILVER
+athlete:	team ESP
+country:	Spain
+
+discipline:	
+gender:		F
+team_or_ind:	IND
+event:		Light
+venue:		ExCel
+medal:		3. BRONZE
+athlete:	Mavzuna Chorieva
+country:	Tajikistan
+
+discipline:	Sailing
+gender:		M
+team_or_ind:	TEAM
+event:		Star
+venue:		Weymouth & Portland
+medal:		2. SILVER
+athlete:	team GBR
+country:	Great Britain
+
+discipline:	
+gender:		F
+team_or_ind:	IND
+event:		Springboard
+venue:		Aquatics Centre
+medal:		2. SILVER
+athlete:	Zi He
+country:	China
+
+discipline:	Badminton
+gender:		MIX
+team_or_ind:	TEAM
+event:		Badminton
+venue:		Wembley Arena
+medal:		3. BRONZE
+athlete:	team DEN
+country:	Denmark
+
+discipline:	
+gender:		F
+team_or_ind:	IND
+event:		Artistic
+venue:		Wembley Arena
+medal:		2. SILVER
+athlete:	Viktoria Komova
+country:	Russia
+
+discipline:	
+gender:		F
+team_or_ind:	IND
+event:		Slalom
+venue:		Lee Valley White Water Centre
+medal:		1. GOLD
+athlete:	Emilie Fer
+country:	France
+
+index: 3, linked list size: 5
+
+discipline:	Water Polo
+gender:		F
+team_or_ind:	TEAM
+event:		Water Polo
+venue:		Aquatics Centre
+medal:		3. BRONZE
+athlete:	team AUS
+country:	Australia
+
+discipline:	Water Polo
+gender:		F
+team_or_ind:	TEAM
+event:		Water Polo
+venue:		Aquatics Centre
+medal:		1. GOLD
+athlete:	team USA
+country:	United States
+
+discipline:	
+gender:		F
+team_or_ind:	IND
+event:		Fly
+venue:		ExCel
+medal:		3. BRONZE
+athlete:	Chungneijang Mery Kom Hmangte
+country:	India
+
+discipline:	Boxing
+gender:		F
+team_or_ind:	IND
+event:		Fly
+venue:		ExCel
+medal:		3. BRONZE
+athlete:	Marlen Esparza
+country:	United States
+
+discipline:	Weightlifting
+gender:		m
+team_or_ind:	IND
+event:		105
+venue:		ExCeL
+medal:		2. SILVER
+athlete:	Sajjad Anoushiravani Hamlabad
+country:	Iran
+
+index: 4, linked list size: 4
+
+discipline:	Weightlifting
+gender:		m
+team_or_ind:	IND
+event:		105
+venue:		ExCeL
+medal:		1. GOLD
+athlete:	Behdad Salimikordasiabi
+country:	Iran
+
+discipline:	Badminton
+gender:		MIX
+team_or_ind:	TEAM
+event:		Badminton
+venue:		Wembley Arena
+medal:		2. SILVER
+athlete:	team CHN
+country:	China
+
+discipline:	Badminton
+gender:		MIX
+team_or_ind:	TEAM
+event:		Badminton
+venue:		Wembley Arena
+medal:		1. GOLD
+athlete:	team CHN
+country:	China
+
+discipline:	
+gender:		M
+team_or_ind:	IND
+event:		Shot Put
+venue:		Olympic Stadium
+medal:		1. GOLD
+athlete:	Tomasz Majewski
+country:	Poland
+
+index: 5, linked list size: 3
+
+discipline:	Boxing
+gender:		F
+team_or_ind:	IND
+event:		Light
+venue:		ExCel
+medal:		3. BRONZE
+athlete:	Mavzuna Chorieva
+country:	Tajikistan
+
+discipline:	
+gender:		M
+team_or_ind:	TEAM
+event:		Star
+venue:		Weymouth & Portland
+medal:		2. SILVER
+athlete:	team GBR
+country:	Great Britain
+
+discipline:	Sailing
+gender:		M
+team_or_ind:	TEAM
+event:		Star
+venue:		Weymouth & Portland
+medal:		1. GOLD
+athlete:	team SWE
+country:	Sweden
+
+index: 6, linked list size: 5
+
+discipline:	Boxing
+gender:		F
+team_or_ind:	IND
+event:		Fly
+venue:		ExCel
+medal:		3. BRONZE
+athlete:	Chungneijang Mery Kom Hmangte
+country:	India
+
+discipline:	
+gender:		F
+team_or_ind:	IND
+event:		Artistic
+venue:		Wembley Arena
+medal:		3. BRONZE
+athlete:	Aliya Mustafina
+country:	Russia
+
+discipline:	Gymnastics
+gender:		F
+team_or_ind:	IND
+event:		Artistic
+venue:		Wembley Arena
+medal:		2. SILVER
+athlete:	Viktoria Komova
+country:	Russia
+
+discipline:	
+gender:		F
+team_or_ind:	IND
+event:		Table Tennis
+venue:		ExCeL
+medal:		3. BRONZE
+athlete:	Feng Tianwei
+country:	Singapore
+
+discipline:	
+gender:		F
+team_or_ind:	IND
+event:		Table Tennis
+venue:		ExCeL
+medal:		2. SILVER
+athlete:	Ning Ding
+country:	China
+
+index: 7, linked list size: 5
+
+discipline:	Volleyball
+gender:		F
+team_or_ind:	TEAM
+event:		Beach
+venue:		Horse Guards Parade
+medal:		3. BRONZE
+athlete:	team BRA
+country:	Brazil
+
+discipline:	Diving
+gender:		F
+team_or_ind:	IND
+event:		Springboard
+venue:		Aquatics Centre
+medal:		1. GOLD
+athlete:	Minxia Wu
+country:	China
+
+discipline:	Triathlon
+gender:		F
+team_or_ind:	IND
+event:		Triathlon
+venue:		Hyde Park
+medal:		1. GOLD
+athlete:	Nicola Spirig
+country:	Switzerland
+
+discipline:	
+gender:		F
+team_or_ind:	IND
+event:		Slalom
+venue:		Lee Valley White Water Centre
+medal:		3. BRONZE
+athlete:	Maialen Chourraut
+country:	Spain
+
+discipline:	Canoeing
+gender:		F
+team_or_ind:	IND
+event:		Slalom
+venue:		Lee Valley White Water Centre
+medal:		1. GOLD
+athlete:	Emilie Fer
+country:	France
+
+index: 8, linked list size: 3
+
+discipline:	
+gender:		M
+team_or_ind:	TEAM
+event:		Star
+venue:		Weymouth & Portland
+medal:		1. GOLD
+athlete:	team SWE
+country:	Sweden
+
+discipline:	Triathlon
+gender:		F
+team_or_ind:	IND
+event:		Triathlon
+venue:		Hyde Park
+medal:		3. BRONZE
+athlete:	Erin Densham
+country:	Australia
+
+discipline:	
+gender:		F
+team_or_ind:	IND
+event:		Slalom
+venue:		Lee Valley White Water Centre
+medal:		2. SILVER
+athlete:	Jessica Fox
+country:	Australia
+
+index: 9, linked list size: 5
+
+discipline:	
+gender:		m
+team_or_ind:	IND
+event:		105
+venue:		ExCeL
+medal:		3. BRONZE
+athlete:	Ruslan Albegov
+country:	Russia
+
+discipline:	Equestrian
+gender:		MIX
+team_or_ind:	TEAM
+event:		Jumping
+venue:		Greenwich Park
+medal:		2. SILVER
+athlete:	team NED
+country:	Netherlands
+
+discipline:	Diving
+gender:		F
+team_or_ind:	IND
+event:		Springboard
+venue:		Aquatics Centre
+medal:		3. BRONZE
+athlete:	Laura Sanchez Soto
+country:	Mexico
+
+discipline:	
+gender:		F
+team_or_ind:	IND
+event:		Artistic
+venue:		Wembley Arena
+medal:		1. GOLD
+athlete:	Gabrielle Douglas
+country:	United States
+
+discipline:	
+gender:		F
+team_or_ind:	IND
+event:		Table Tennis
+venue:		ExCeL
+medal:		1. GOLD
+athlete:	Xiaoxia Li
+country:	China
+
+index: 10, linked list size: 6
+
+discipline:	Volleyball
+gender:		F
+team_or_ind:	TEAM
+event:		Beach
+venue:		Horse Guards Parade
+medal:		2. SILVER
+athlete:	team USA
+country:	United States
+
+discipline:	Volleyball
+gender:		F
+team_or_ind:	TEAM
+event:		Beach
+venue:		Horse Guards Parade
+medal:		1. GOLD
+athlete:	team USA
+country:	United States
+
+discipline:	
+gender:		F
+team_or_ind:	IND
+event:		Springboard
+venue:		Aquatics Centre
+medal:		1. GOLD
+athlete:	Minxia Wu
+country:	China
+
+discipline:	
+gender:		F
+team_or_ind:	IND
+event:		Triathlon
+venue:		Hyde Park
+medal:		1. GOLD
+athlete:	Nicola Spirig
+country:	Switzerland
+
+discipline:	Athletics
+gender:		M
+team_or_ind:	IND
+event:		Shot Put
+venue:		Olympic Stadium
+medal:		3. BRONZE
+athlete:	Reese Hoffa
+country:	United States
+
+discipline:	Gymnastics
+gender:		F
+team_or_ind:	IND
+event:		Artistic
+venue:		Wembley Arena
+medal:		3. BRONZE
+athlete:	Aliya Mustafina
+country:	Russia
+
+index: 11, linked list size: 2
+
+discipline:	
+gender:		F
+team_or_ind:	IND
+event:		Triathlon
+venue:		Hyde Park
+medal:		3. BRONZE
+athlete:	Erin Densham
+country:	Australia
+
+discipline:	
+gender:		F
+team_or_ind:	IND
+event:		69
+venue:		ExCeL
+medal:		2. SILVER
+athlete:	Roxana Daniela Cocos
+country:	Romania
+
+index: 12, linked list size: 6
+
+discipline:	
+gender:		F
+team_or_ind:	IND
+event:		Springboard
+venue:		Aquatics Centre
+medal:		3. BRONZE
+athlete:	Laura Sanchez Soto
+country:	Mexico
+
+discipline:	Athletics
+gender:		M
+team_or_ind:	IND
+event:		Shot Put
+venue:		Olympic Stadium
+medal:		2. SILVER
+athlete:	David Storl
+country:	Germany
+
+discipline:	Canoeing
+gender:		F
+team_or_ind:	IND
+event:		Slalom
+venue:		Lee Valley White Water Centre
+medal:		3. BRONZE
+athlete:	Maialen Chourraut
+country:	Spain
+
+discipline:	
+gender:		F
+team_or_ind:	IND
+event:		69
+venue:		ExCeL
+medal:		1. GOLD
+athlete:	Jong Sim Rim
+country:	North Korea
+
+discipline:	Table Tennis
+gender:		F
+team_or_ind:	IND
+event:		Table Tennis
+venue:		ExCeL
+medal:		3. BRONZE
+athlete:	Feng Tianwei
+country:	Singapore
+
+discipline:	Table Tennis
+gender:		F
+team_or_ind:	IND
+event:		Table Tennis
+venue:		ExCeL
+medal:		2. SILVER
+athlete:	Ning Ding
+country:	China
+
+index: 13, linked list size: 6
+
+discipline:	Equestrian
+gender:		MIX
+team_or_ind:	TEAM
+event:		Jumping
+venue:		Greenwich Park
+medal:		1. GOLD
+athlete:	team GBR
+country:	Great Britain
+
+discipline:	Sailing
+gender:		M
+team_or_ind:	TEAM
+event:		Star
+venue:		Weymouth & Portland
+medal:		3. BRONZE
+athlete:	team BRA
+country:	Brazil
+
+discipline:	
+gender:		MIX
+team_or_ind:	TEAM
+event:		Badminton
+venue:		Wembley Arena
+medal:		3. BRONZE
+athlete:	team DEN
+country:	Denmark
+
+discipline:	Gymnastics
+gender:		F
+team_or_ind:	IND
+event:		Artistic
+venue:		Wembley Arena
+medal:		1. GOLD
+athlete:	Gabrielle Douglas
+country:	United States
+
+discipline:	Canoeing
+gender:		F
+team_or_ind:	IND
+event:		Slalom
+venue:		Lee Valley White Water Centre
+medal:		2. SILVER
+athlete:	Jessica Fox
+country:	Australia
+
+discipline:	
+gender:		F
+team_or_ind:	IND
+event:		69
+venue:		ExCeL
+medal:		3. BRONZE
+athlete:	Maryna Shkermankova
+country:	Belarus
+
+index: 14, linked list size: 3
+
+discipline:	
+gender:		F
+team_or_ind:	TEAM
+event:		Water Polo
+venue:		Aquatics Centre
+medal:		2. SILVER
+athlete:	team ESP
+country:	Spain
+
+discipline:	Weightlifting
+gender:		m
+team_or_ind:	IND
+event:		105
+venue:		ExCeL
+medal:		3. BRONZE
+athlete:	Ruslan Albegov
+country:	Russia
+
+discipline:	
+gender:		MIX
+team_or_ind:	TEAM
+event:		Jumping
+venue:		Greenwich Park
+medal:		3. BRONZE
+athlete:	team KSA
+country:	Saudi Arabia
+
+index: 15, linked list size: 9
+
+discipline:	
+gender:		F
+team_or_ind:	TEAM
+event:		Water Polo
+venue:		Aquatics Centre
+medal:		3. BRONZE
+athlete:	team AUS
+country:	Australia
+
+discipline:	
+gender:		F
+team_or_ind:	TEAM
+event:		Water Polo
+venue:		Aquatics Centre
+medal:		1. GOLD
+athlete:	team USA
+country:	United States
+
+discipline:	
+gender:		F
+team_or_ind:	TEAM
+event:		Beach
+venue:		Horse Guards Parade
+medal:		3. BRONZE
+athlete:	team BRA
+country:	Brazil
+
+discipline:	
+gender:		m
+team_or_ind:	IND
+event:		105
+venue:		ExCeL
+medal:		2. SILVER
+athlete:	Sajjad Anoushiravani Hamlabad
+country:	Iran
+
+discipline:	Triathlon
+gender:		F
+team_or_ind:	IND
+event:		Triathlon
+venue:		Hyde Park
+medal:		2. SILVER
+athlete:	Lisa Norden
+country:	Sweden
+
+discipline:	
+gender:		MIX
+team_or_ind:	TEAM
+event:		Badminton
+venue:		Wembley Arena
+medal:		2. SILVER
+athlete:	team CHN
+country:	China
+
+discipline:	
+gender:		MIX
+team_or_ind:	TEAM
+event:		Badminton
+venue:		Wembley Arena
+medal:		1. GOLD
+athlete:	team CHN
+country:	China
+
+discipline:	Athletics
+gender:		M
+team_or_ind:	IND
+event:		Shot Put
+venue:		Olympic Stadium
+medal:		1. GOLD
+athlete:	Tomasz Majewski
+country:	Poland
+
+discipline:	Table Tennis
+gender:		F
+team_or_ind:	IND
+event:		Table Tennis
+venue:		ExCeL
+medal:		1. GOLD
+athlete:	Xiaoxia Li
+country:	China
+
+index: 16, linked list size: 5
+
+discipline:	
+gender:		m
+team_or_ind:	IND
+event:		105
+venue:		ExCeL
+medal:		1. GOLD
+athlete:	Behdad Salimikordasiabi
+country:	Iran
+
+discipline:	
+gender:		M
+team_or_ind:	TEAM
+event:		Star
+venue:		Weymouth & Portland
+medal:		3. BRONZE
+athlete:	team BRA
+country:	Brazil
+
+discipline:	Diving
+gender:		F
+team_or_ind:	IND
+event:		Springboard
+venue:		Aquatics Centre
+medal:		2. SILVER
+athlete:	Zi He
+country:	China
+
+discipline:	
+gender:		M
+team_or_ind:	IND
+event:		Shot Put
+venue:		Olympic Stadium
+medal:		3. BRONZE
+athlete:	Reese Hoffa
+country:	United States
+
+discipline:	Weightlifting
+gender:		F
+team_or_ind:	IND
+event:		69
+venue:		ExCeL
+medal:		2. SILVER
+athlete:	Roxana Daniela Cocos
+country:	Romania
+Enter command:
+Enter command:
+
+The medal recipient team AUS has the medal of 3. BRONZE
+Enter command:
+Enter command:

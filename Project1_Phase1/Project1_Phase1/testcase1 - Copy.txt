@@ -1,0 +1,110 @@
+17
+
+Table Tennis,F,IND,Table Tennis,ExCeL,1. GOLD,Xiaoxia Li,China
+
+Table Tennis,F,IND,Table Tennis,ExCeL,2. SILVER,Ning Ding,China
+
+Table Tennis,F,IND,Table Tennis,ExCeL,3. BRONZE,Feng Tianwei,Singapore
+
+Weightlifting,F,IND,69,ExCeL,1. GOLD,Jong Sim Rim,North Korea
+
+Weightlifting,F,IND,69,ExCeL,2. SILVER,Roxana Daniela Cocos,Romania
+
+Weightlifting,F,IND,69,ExCeL,3. BRONZE,Maryna Shkermankova,Belarus
+
+Canoeing,F,IND,Slalom,Lee Valley White Water Centre,1. GOLD,Emilie Fer,France
+
+Canoeing,F,IND,Slalom,Lee Valley White Water Centre,2. SILVER,Jessica Fox,Australia
+
+Canoeing,F,IND,Slalom,Lee Valley White Water Centre,3. BRONZE,Maialen Chourraut,Spain
+
+Gymnastics,F,IND,Artistic,Wembley Arena,1. GOLD,Gabrielle Douglas,United States
+
+Gymnastics,F,IND,Artistic,Wembley Arena,2. SILVER,Viktoria Komova,Russia
+
+Gymnastics,F,IND,Artistic,Wembley Arena,3. BRONZE,Aliya Mustafina,Russia
+
+Athletics,M,IND,Shot Put,Olympic Stadium,1. GOLD,Tomasz Majewski,Poland
+
+Athletics,M,IND,Shot Put,Olympic Stadium,2. SILVER,David Storl,Germany
+
+Athletics,M,IND,Shot Put,Olympic Stadium,3. BRONZE,Reese Hoffa,United States
+
+Badminton,MIX,TEAM,Badminton,Wembley Arena,1. GOLD,team CHN,China
+
+Badminton,MIX,TEAM,Badminton,Wembley Arena,2. SILVER,team CHN,China
+
+Badminton,MIX,TEAM,Badminton,Wembley Arena,3. BRONZE,team DEN,Denmark
+
+Triathlon,F,IND,Triathlon,Hyde Park,1. GOLD,Nicola Spirig,Switzerland
+
+Triathlon,F,IND,Triathlon,Hyde Park,2. SILVER,Lisa Norden,Sweden
+
+Triathlon,F,IND,Triathlon,Hyde Park,3. BRONZE,Erin Densham,Australia
+
+Diving,F,IND,Springboard,Aquatics Centre,1. GOLD,Minxia Wu,China
+
+Diving,F,IND,Springboard,Aquatics Centre,2. SILVER,Zi He,China
+
+Diving,F,IND,Springboard,Aquatics Centre,3. BRONZE,Laura Sanchez Soto,Mexico
+
+Sailing,M,TEAM,Star,Weymouth & Portland,1. GOLD,team SWE,Sweden
+
+Sailing,M,TEAM,Star,Weymouth & Portland,2. SILVER,team GBR,Great Britain
+
+Sailing,M,TEAM,Star,Weymouth & Portland,3. BRONZE,team BRA,Brazil
+
+Equestrian,MIX,TEAM,Jumping,Greenwich Park,1. GOLD,team GBR,Great Britain
+Equestrian,MIX,TEAM,Jumping,Greenwich Park,2. SILVER,team NED,Netherlands
+Equestrian,MIX,TEAM,Jumping,Greenwich Park,3. BRONZE,team KSA,Saudi Arabia
+
+Weightlifting,m,IND,105,ExCeL,1. GOLD,Behdad Salimikordasiabi,Iran
+
+Weightlifting,m,IND,105,ExCeL,2. SILVER,Sajjad Anoushiravani Hamlabad,Iran
+
+Weightlifting,m,IND,105,ExCeL,3. BRONZE,Ruslan Albegov,Russia
+
+Boxing,F,IND,Fly,ExCel,3. BRONZE,Marlen Esparza,United States
+
+Boxing,F,IND,Fly,ExCel,3. BRONZE,Chungneijang Mery Kom Hmangte,India
+
+Boxing,F,IND,Light,ExCel,3. BRONZE,Mavzuna Chorieva,Tajikistan
+
+Volleyball,F,TEAM,Beach,Horse Guards Parade,1. GOLD,team USA,United States
+
+Volleyball,F,TEAM,Beach,Horse Guards Parade,2. SILVER,team USA,United States
+
+Volleyball,F,TEAM,Beach,Horse Guards Parade,3. BRONZE,team BRA,Brazil
+
+Water Polo,F,TEAM,Water Polo,Aquatics Centre,1. GOLD,team USA,United States
+
+Water Polo,F,TEAM,Water Polo,Aquatics Centre,2. SILVER,team ESP,Spain
+
+Water Polo,F,TEAM,Water Polo,Aquatics Centre,3. BRONZE,team AUS,Australia
+
+InsertionEnd
+
+11
+
+hash_display
+
+hash_search,Water Polo,F,Water Polo,team AUS
+
+hash_delete,Swimming,M,Medley,Thiago Pereira
+
+hash_search,Diving,F,Springboard,Laura Sanchez Soto
+
+hash_delete,Water Polo,F,Water Polo,team AUS
+
+hash_search,Water Polo,F,Water Polo,team AUS
+
+hash_search,Fencing,F,Foil,Alina Dumitru
+
+hash_delete,Gymnastics,F,Artistic,Erin Densham
+
+hash_delete,Table Tennis,F,Table Tennis,Feng Tianwei
+
+hash_delete,Judo,M,60,Rishod Sobirov
+
+hash_display
+

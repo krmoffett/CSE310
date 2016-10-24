@@ -75,6 +75,7 @@ int HashTable::removeAthlete(string discipline, string gender, string event, str
 		return 0;
 
 	}
+	else
 	cout << name << " for " << discipline << " with event " << event << " not found\n";
 	return 1;
 }
