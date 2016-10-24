@@ -27,11 +27,17 @@ int main()
 
 		else if (input == "tree_maximum")
 		{
-			x = tree1.treeMaximum(tree1.getRoot());
-			x->display();
+			Node * y = new Node;
+			y = tree1.treeMaximum(tree1.getRoot());
+			cout << "The last athlete is:\n";
+			y->display();
 		}
 		else if (input == "tree_minimum")
-			tree1.treeMinimum(tree1.getRoot());
+		{
+			Node * y = new Node;
+			y = tree1.treeMinimum(tree1.getRoot());
+			y->display();
+		}
 
 		else
 		{
@@ -47,20 +53,20 @@ int main()
 				getline(ss, medal, ',');
 				getline(ss, athlete, ',');
 				getline(ss, country);
-
-				x->discipline = discipline;
-				x->gender = gender;
-				x->team_or_ind = team_or_ind;
-				x->event = event;
-				x->venue = venue;
-				x->medal = medal;
-				x->athlete = athlete;
-				x->country = country;
-				x->left = NULL;
-				x->right = NULL;
-				x->parent = NULL;
+				Node * y = new Node;
+				y->discipline = discipline;
+				y->gender = gender;
+				y->team_or_ind = team_or_ind;
+				y->event = event;
+				y->venue = venue;
+				y->medal = medal;
+				y->athlete = athlete;
+				y->country = country;
+				y->left = NULL;
+				y->right = NULL;
+				y->parent = NULL;
 				
-				tree1.treeInsert(x);
+				tree1.treeInsert(y);
 			}
 			else if (command == "tree_search")
 			{

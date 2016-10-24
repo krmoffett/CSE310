@@ -10,6 +10,7 @@ private:
 	Node * root;
 
 public:
+
 	RBTree();
 	~RBTree();
 	int keyComp(string key1, string key2);
@@ -182,10 +183,10 @@ void RBTree::treeInsert(Node * x)
 	x->color = "RED";
 	while (x != root && x->parent->color == "RED")
 	{
-		if (x->parent = x->parent->parent->left)
+		if (x->parent == x->parent->parent->left)
 		{
 			y = x->parent->parent->right;
-			if (y->color == "RED")
+			if (y != NULL && y->color == "RED")
 			{
 				x->parent->color = "BLACK";
 				y->color = "BLACK";
@@ -194,7 +195,7 @@ void RBTree::treeInsert(Node * x)
 			}
 			else
 			{
-				if (x = x->parent->right)
+				if (x == x->parent->right)
 				{
 					x = x->parent;
 					leftRotate(x);
@@ -207,7 +208,7 @@ void RBTree::treeInsert(Node * x)
 	    else
 		{
 			y = x->parent->parent->left;
-			if (y->color == "RED")
+			if (y != NULL && y->color == "RED")
 			{
 				x->parent->color = "BLACK";
 				y->color = "BLACK";
@@ -216,7 +217,7 @@ void RBTree::treeInsert(Node * x)
 			}
 			else
 			{
-				if (x = x->parent->left)
+				if (x == x->parent->left)
 				{
 					x = x->parent;
 					rightRotate(x);
