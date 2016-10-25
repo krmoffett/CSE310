@@ -1,3 +1,8 @@
+// Project 1 Phase 2
+// Name: Kyle Moffett
+// ASU Email Address: krmoffet@asu.edu
+// Description: Defines the node struct
+
 #include <iostream>
 #include <string>
 

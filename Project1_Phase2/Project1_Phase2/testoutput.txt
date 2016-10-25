@@ -1,31 +1,36 @@
+
 Please enter a command:
+next command: tree_inorder
 
 tree is empty
+
 Please enter a command:
+next command: tree_preorder
 
 tree is empty
+
 Please enter a command:
+next command: tree_postorder
 
 tree is empty
-Please enter a command:
 
-tree is empty
 Please enter a command:
-
-tree is empty
-Please enter a command:
+next command: tree_insert,Cycling,M,IND,Road,Regent's Park,1. GOLD,Aleksander Winokurow,Kazakhstan
 
 The medal recipient Aleksander Winokurow for Cycling with event Road inserted
+
 Please enter a command:
+next command: tree_insert,Cycling,M,IND,Road,Regent's Park,2. SILVER,Rigoberto Uran,Colombia
 
 The medal recipient Rigoberto Uran for Cycling with event Road inserted
+
 Please enter a command:
+next command: tree_insert,Cycling,M,IND,Road,Regent's Park,3. BRONZE,Alexander Kristoff,Norway
 
 The medal recipient Alexander Kristoff for Cycling with event Road inserted
-Please enter a command:
 
-The medal recipient Alexander Kristoff for Cycling with event Road NOT inserted
 Please enter a command:
+next command: tree_inorder
 
 discipline:	Cycling
 gender:		M
@@ -56,7 +61,9 @@ medal:		2. SILVER
 athlete:	Rigoberto Uran
 country:	Colombia
 color:		RED
+
 Please enter a command:
+next command: tree_preorder
 
 discipline:	Cycling
 gender:		M
@@ -87,7 +94,9 @@ medal:		2. SILVER
 athlete:	Rigoberto Uran
 country:	Colombia
 color:		RED
+
 Please enter a command:
+next command: tree_postorder
 
 discipline:	Cycling
 gender:		M
@@ -118,580 +127,27 @@ medal:		3. BRONZE
 athlete:	Alexander Kristoff
 country:	Norway
 color:		BLACK
+
 Please enter a command:
-
-The medal recipient Shiwen Ye for Swimming with event Medley inserted
-Please enter a command:
-
-The medal recipient Elizabeth Beisel for Swimming with event Medley inserted
-Please enter a command:
-
-The medal recipient Xuanxu Li for Swimming with event Medley inserted
-Please enter a command:
-
-discipline:	Cycling
-gender:		M
-team_or_ind	IND
-event:		Road
-venue:		Regent's Park
-medal:		1. GOLD
-athlete:	Aleksander Winokurow
-country:	Kazakhstan
-color:		BLACK
-
-discipline:	Cycling
-gender:		M
-team_or_ind	IND
-event:		Road
-venue:		Regent's Park
-medal:		3. BRONZE
-athlete:	Alexander Kristoff
-country:	Norway
-color:		BLACK
-
-discipline:	Cycling
-gender:		M
-team_or_ind	IND
-event:		Road
-venue:		Regent's Park
-medal:		2. SILVER
-athlete:	Rigoberto Uran
-country:	Colombia
-color:		BLACK
-
-discipline:	Swimming
-gender:		F
-team_or_ind	IND
-event:		Medley
-venue:		Aquatics Centre
-medal:		2. SILVER
-athlete:	Elizabeth Beisel
-country:	United States
-color:		RED
-
-discipline:	Swimming
-gender:		F
-team_or_ind	IND
-event:		Medley
-venue:		Aquatics Centre
-medal:		1. GOLD
-athlete:	Shiwen Ye
-country:	China
-color:		BLACK
-
-discipline:	Swimming
-gender:		F
-team_or_ind	IND
-event:		Medley
-venue:		Aquatics Centre
-medal:		3. BRONZE
-athlete:	Xuanxu Li
-country:	China
-color:		RED
-Please enter a command:
-
-discipline:	Cycling
-gender:		M
-team_or_ind	IND
-event:		Road
-venue:		Regent's Park
-medal:		3. BRONZE
-athlete:	Alexander Kristoff
-country:	Norway
-color:		BLACK
-
-discipline:	Cycling
-gender:		M
-team_or_ind	IND
-event:		Road
-venue:		Regent's Park
-medal:		1. GOLD
-athlete:	Aleksander Winokurow
-country:	Kazakhstan
-color:		BLACK
-
-discipline:	Swimming
-gender:		F
-team_or_ind	IND
-event:		Medley
-venue:		Aquatics Centre
-medal:		2. SILVER
-athlete:	Elizabeth Beisel
-country:	United States
-color:		RED
-
-discipline:	Cycling
-gender:		M
-team_or_ind	IND
-event:		Road
-venue:		Regent's Park
-medal:		2. SILVER
-athlete:	Rigoberto Uran
-country:	Colombia
-color:		BLACK
-
-discipline:	Swimming
-gender:		F
-team_or_ind	IND
-event:		Medley
-venue:		Aquatics Centre
-medal:		1. GOLD
-athlete:	Shiwen Ye
-country:	China
-color:		BLACK
-
-discipline:	Swimming
-gender:		F
-team_or_ind	IND
-event:		Medley
-venue:		Aquatics Centre
-medal:		3. BRONZE
-athlete:	Xuanxu Li
-country:	China
-color:		RED
-Please enter a command:
-
-discipline:	Cycling
-gender:		M
-team_or_ind	IND
-event:		Road
-venue:		Regent's Park
-medal:		1. GOLD
-athlete:	Aleksander Winokurow
-country:	Kazakhstan
-color:		BLACK
-
-discipline:	Cycling
-gender:		M
-team_or_ind	IND
-event:		Road
-venue:		Regent's Park
-medal:		2. SILVER
-athlete:	Rigoberto Uran
-country:	Colombia
-color:		BLACK
-
-discipline:	Swimming
-gender:		F
-team_or_ind	IND
-event:		Medley
-venue:		Aquatics Centre
-medal:		3. BRONZE
-athlete:	Xuanxu Li
-country:	China
-color:		RED
-
-discipline:	Swimming
-gender:		F
-team_or_ind	IND
-event:		Medley
-venue:		Aquatics Centre
-medal:		1. GOLD
-athlete:	Shiwen Ye
-country:	China
-color:		BLACK
-
-discipline:	Swimming
-gender:		F
-team_or_ind	IND
-event:		Medley
-venue:		Aquatics Centre
-medal:		2. SILVER
-athlete:	Elizabeth Beisel
-country:	United States
-color:		RED
-
-discipline:	Cycling
-gender:		M
-team_or_ind	IND
-event:		Road
-venue:		Regent's Park
-medal:		3. BRONZE
-athlete:	Alexander Kristoff
-country:	Norway
-color:		BLACK
-Please enter a command:
-
-The medal recipient team ITA for Archery with event Archery inserted
-Please enter a command:
-
-The medal recipient team USA for Archery with event Archery inserted
-Please enter a command:
-
-The medal recipient team KOR for Archery with event Archery inserted
-Please enter a command:
-
-discipline:	Archery
-gender:		M
-team_or_ind	TEAM
-event:		Archery
-venue:		Lord's Cricket Ground
-medal:		1. GOLD
-athlete:	team ITA
-country:	Italy
-color:		BLACK
-
-discipline:	Archery
-gender:		M
-team_or_ind	TEAM
-event:		Archery
-venue:		Lord's Cricket Ground
-medal:		3. BRONZE
-athlete:	team KOR
-country:	South Korea
-color:		RED
-
-discipline:	Archery
-gender:		M
-team_or_ind	TEAM
-event:		Archery
-venue:		Lord's Cricket Ground
-medal:		2. SILVER
-athlete:	team USA
-country:	United States
-color:		RED
-
-discipline:	Cycling
-gender:		M
-team_or_ind	IND
-event:		Road
-venue:		Regent's Park
-medal:		1. GOLD
-athlete:	Aleksander Winokurow
-country:	Kazakhstan
-color:		BLACK
-
-discipline:	Cycling
-gender:		M
-team_or_ind	IND
-event:		Road
-venue:		Regent's Park
-medal:		3. BRONZE
-athlete:	Alexander Kristoff
-country:	Norway
-color:		BLACK
-
-discipline:	Cycling
-gender:		M
-team_or_ind	IND
-event:		Road
-venue:		Regent's Park
-medal:		2. SILVER
-athlete:	Rigoberto Uran
-country:	Colombia
-color:		BLACK
-
-discipline:	Swimming
-gender:		F
-team_or_ind	IND
-event:		Medley
-venue:		Aquatics Centre
-medal:		2. SILVER
-athlete:	Elizabeth Beisel
-country:	United States
-color:		RED
-
-discipline:	Swimming
-gender:		F
-team_or_ind	IND
-event:		Medley
-venue:		Aquatics Centre
-medal:		1. GOLD
-athlete:	Shiwen Ye
-country:	China
-color:		BLACK
-
-discipline:	Swimming
-gender:		F
-team_or_ind	IND
-event:		Medley
-venue:		Aquatics Centre
-medal:		3. BRONZE
-athlete:	Xuanxu Li
-country:	China
-color:		RED
-Please enter a command:
-
-discipline:	Cycling
-gender:		M
-team_or_ind	IND
-event:		Road
-venue:		Regent's Park
-medal:		3. BRONZE
-athlete:	Alexander Kristoff
-country:	Norway
-color:		BLACK
-
-discipline:	Archery
-gender:		M
-team_or_ind	TEAM
-event:		Archery
-venue:		Lord's Cricket Ground
-medal:		2. SILVER
-athlete:	team USA
-country:	United States
-color:		RED
-
-discipline:	Archery
-gender:		M
-team_or_ind	TEAM
-event:		Archery
-venue:		Lord's Cricket Ground
-medal:		1. GOLD
-athlete:	team ITA
-country:	Italy
-color:		BLACK
-
-discipline:	Archery
-gender:		M
-team_or_ind	TEAM
-event:		Archery
-venue:		Lord's Cricket Ground
-medal:		3. BRONZE
-athlete:	team KOR
-country:	South Korea
-color:		RED
-
-discipline:	Cycling
-gender:		M
-team_or_ind	IND
-event:		Road
-venue:		Regent's Park
-medal:		1. GOLD
-athlete:	Aleksander Winokurow
-country:	Kazakhstan
-color:		BLACK
-
-discipline:	Swimming
-gender:		F
-team_or_ind	IND
-event:		Medley
-venue:		Aquatics Centre
-medal:		2. SILVER
-athlete:	Elizabeth Beisel
-country:	United States
-color:		RED
-
-discipline:	Cycling
-gender:		M
-team_or_ind	IND
-event:		Road
-venue:		Regent's Park
-medal:		2. SILVER
-athlete:	Rigoberto Uran
-country:	Colombia
-color:		BLACK
-
-discipline:	Swimming
-gender:		F
-team_or_ind	IND
-event:		Medley
-venue:		Aquatics Centre
-medal:		1. GOLD
-athlete:	Shiwen Ye
-country:	China
-color:		BLACK
-
-discipline:	Swimming
-gender:		F
-team_or_ind	IND
-event:		Medley
-venue:		Aquatics Centre
-medal:		3. BRONZE
-athlete:	Xuanxu Li
-country:	China
-color:		RED
-Please enter a command:
-
-discipline:	Archery
-gender:		M
-team_or_ind	TEAM
-event:		Archery
-venue:		Lord's Cricket Ground
-medal:		3. BRONZE
-athlete:	team KOR
-country:	South Korea
-color:		RED
-
-discipline:	Archery
-gender:		M
-team_or_ind	TEAM
-event:		Archery
-venue:		Lord's Cricket Ground
-medal:		1. GOLD
-athlete:	team ITA
-country:	Italy
-color:		BLACK
-
-discipline:	Cycling
-gender:		M
-team_or_ind	IND
-event:		Road
-venue:		Regent's Park
-medal:		1. GOLD
-athlete:	Aleksander Winokurow
-country:	Kazakhstan
-color:		BLACK
-
-discipline:	Archery
-gender:		M
-team_or_ind	TEAM
-event:		Archery
-venue:		Lord's Cricket Ground
-medal:		2. SILVER
-athlete:	team USA
-country:	United States
-color:		RED
-
-discipline:	Cycling
-gender:		M
-team_or_ind	IND
-event:		Road
-venue:		Regent's Park
-medal:		2. SILVER
-athlete:	Rigoberto Uran
-country:	Colombia
-color:		BLACK
-
-discipline:	Swimming
-gender:		F
-team_or_ind	IND
-event:		Medley
-venue:		Aquatics Centre
-medal:		3. BRONZE
-athlete:	Xuanxu Li
-country:	China
-color:		RED
-
-discipline:	Swimming
-gender:		F
-team_or_ind	IND
-event:		Medley
-venue:		Aquatics Centre
-medal:		1. GOLD
-athlete:	Shiwen Ye
-country:	China
-color:		BLACK
-
-discipline:	Swimming
-gender:		F
-team_or_ind	IND
-event:		Medley
-venue:		Aquatics Centre
-medal:		2. SILVER
-athlete:	Elizabeth Beisel
-country:	United States
-color:		RED
-
-discipline:	Cycling
-gender:		M
-team_or_ind	IND
-event:		Road
-venue:		Regent's Park
-medal:		3. BRONZE
-athlete:	Alexander Kristoff
-country:	Norway
-color:		BLACK
-Please enter a command:
+next command: tree_maximum
 
 The last athlete is:
 
-discipline:	Swimming
-gender:		F
+discipline:	Cycling
+gender:		M
 team_or_ind	IND
-event:		Medley
-venue:		Aquatics Centre
-medal:		3. BRONZE
-athlete:	Xuanxu Li
-country:	China
+event:		Road
+venue:		Regent's Park
+medal:		2. SILVER
+athlete:	Rigoberto Uran
+country:	Colombia
 color:		RED
+
 Please enter a command:
+next command: tree_minimum
 
 The first athlete is:
 
-discipline:	Archery
-gender:		M
-team_or_ind	TEAM
-event:		Archery
-venue:		Lord's Cricket Ground
-medal:		1. GOLD
-athlete:	team ITA
-country:	Italy
-color:		BLACK
-Please enter a command:
-
-Jongoh Jin for Shooting with event Pistol not found
-Please enter a command:
-
-The medal recipient team USA has the medal of 2. SILVER
-Please enter a command:
-
-Arianna Errigo for Fencing with event Foil not found
-Please enter a command:
-
-The predecessor of the medal recipient Rigoberto Uran for Cycling with event Road is 
-discipline:	Cycling
-gender:		M
-team_or_ind	IND
-event:		Road
-venue:		Regent's Park
-medal:		2. SILVER
-athlete:	Rigoberto Uran
-country:	Colombia
-color:		BLACK
-Please enter a command:
-
-The successor of the medal recipient Rigoberto Uran for Cycling with event Road is 
-discipline:	Cycling
-gender:		M
-team_or_ind	IND
-event:		Road
-venue:		Regent's Park
-medal:		2. SILVER
-athlete:	Rigoberto Uran
-country:	Colombia
-color:		BLACK
-Please enter a command:
-
-The medal recipient team AUS for Swimming with event Freestyle inserted
-Please enter a command:
-
-The medal recipient team NED for Swimming with event Freestyle inserted
-Please enter a command:
-
-The medal recipient team USA for Swimming with event Freestyle inserted
-Please enter a command:
-
-discipline:	Archery
-gender:		M
-team_or_ind	TEAM
-event:		Archery
-venue:		Lord's Cricket Ground
-medal:		1. GOLD
-athlete:	team ITA
-country:	Italy
-color:		BLACK
-
-discipline:	Archery
-gender:		M
-team_or_ind	TEAM
-event:		Archery
-venue:		Lord's Cricket Ground
-medal:		3. BRONZE
-athlete:	team KOR
-country:	South Korea
-color:		RED
-
-discipline:	Archery
-gender:		M
-team_or_ind	TEAM
-event:		Archery
-venue:		Lord's Cricket Ground
-medal:		2. SILVER
-athlete:	team USA
-country:	United States
-color:		BLACK
-
 discipline:	Cycling
 gender:		M
 team_or_ind	IND
@@ -700,129 +156,27 @@ venue:		Regent's Park
 medal:		1. GOLD
 athlete:	Aleksander Winokurow
 country:	Kazakhstan
-color:		BLACK
-
-discipline:	Cycling
-gender:		M
-team_or_ind	IND
-event:		Road
-venue:		Regent's Park
-medal:		3. BRONZE
-athlete:	Alexander Kristoff
-country:	Norway
-color:		BLACK
-
-discipline:	Cycling
-gender:		M
-team_or_ind	IND
-event:		Road
-venue:		Regent's Park
-medal:		2. SILVER
-athlete:	Rigoberto Uran
-country:	Colombia
-color:		BLACK
-
-discipline:	Swimming
-gender:		F
-team_or_ind	TEAM
-event:		Freestyle
-venue:		Aquatics Centre
-medal:		1. GOLD
-athlete:	team AUS
-country:	Australia
 color:		RED
 
-discipline:	Swimming
-gender:		F
-team_or_ind	TEAM
-event:		Freestyle
-venue:		Aquatics Centre
-medal:		2. SILVER
-athlete:	team NED
-country:	Netherlands
-color:		BLACK
-
-discipline:	Swimming
-gender:		F
-team_or_ind	TEAM
-event:		Freestyle
-venue:		Aquatics Centre
-medal:		3. BRONZE
-athlete:	team USA
-country:	United States
-color:		RED
-
-discipline:	Swimming
-gender:		F
-team_or_ind	IND
-event:		Medley
-venue:		Aquatics Centre
-medal:		2. SILVER
-athlete:	Elizabeth Beisel
-country:	United States
-color:		BLACK
-
-discipline:	Swimming
-gender:		F
-team_or_ind	IND
-event:		Medley
-venue:		Aquatics Centre
-medal:		1. GOLD
-athlete:	Shiwen Ye
-country:	China
-color:		BLACK
-
-discipline:	Swimming
-gender:		F
-team_or_ind	IND
-event:		Medley
-venue:		Aquatics Centre
-medal:		3. BRONZE
-athlete:	Xuanxu Li
-country:	China
-color:		RED
 Please enter a command:
+next command: tree_search,Cycling,M,Road,Alexander Kristoff
 
-discipline:	Cycling
-gender:		M
-team_or_ind	IND
-event:		Road
-venue:		Regent's Park
-medal:		3. BRONZE
-athlete:	Alexander Kristoff
-country:	Norway
-color:		BLACK
+The medal recipient Alexander Kristoff has the medal of 3. BRONZE
 
-discipline:	Archery
-gender:		M
-team_or_ind	TEAM
-event:		Archery
-venue:		Lord's Cricket Ground
-medal:		2. SILVER
-athlete:	team USA
-country:	United States
-color:		BLACK
+Please enter a command:
+next command: tree_search,Archery,M,Archery,team USA
 
-discipline:	Archery
-gender:		M
-team_or_ind	TEAM
-event:		Archery
-venue:		Lord's Cricket Ground
-medal:		1. GOLD
-athlete:	team ITA
-country:	Italy
-color:		BLACK
+team USA for Archery with event Archery not found
 
-discipline:	Archery
-gender:		M
-team_or_ind	TEAM
-event:		Archery
-venue:		Lord's Cricket Ground
-medal:		3. BRONZE
-athlete:	team KOR
-country:	South Korea
-color:		RED
+Please enter a command:
+next command: tree_successor,Fencing,F,Foil,Arianna Errigo
 
+The medal recipient Arianna Errigo for Fencing with event Foil does not have any successor
+
+Please enter a command:
+next command: tree_predecessor,Cycling,M,Road,Alexander Kristoff
+
+The predecessor of the medal recipient Aleksander Winokurow for Cycling with event Road is 
 discipline:	Cycling
 gender:		M
 team_or_ind	IND
@@ -831,224 +185,9 @@ venue:		Regent's Park
 medal:		1. GOLD
 athlete:	Aleksander Winokurow
 country:	Kazakhstan
-color:		BLACK
-
-discipline:	Swimming
-gender:		F
-team_or_ind	IND
-event:		Medley
-venue:		Aquatics Centre
-medal:		2. SILVER
-athlete:	Elizabeth Beisel
-country:	United States
-color:		BLACK
-
-discipline:	Swimming
-gender:		F
-team_or_ind	TEAM
-event:		Freestyle
-venue:		Aquatics Centre
-medal:		1. GOLD
-athlete:	team AUS
-country:	Australia
 color:		RED
 
-discipline:	Cycling
-gender:		M
-team_or_ind	IND
-event:		Road
-venue:		Regent's Park
-medal:		2. SILVER
-athlete:	Rigoberto Uran
-country:	Colombia
-color:		BLACK
-
-discipline:	Swimming
-gender:		F
-team_or_ind	TEAM
-event:		Freestyle
-venue:		Aquatics Centre
-medal:		2. SILVER
-athlete:	team NED
-country:	Netherlands
-color:		BLACK
-
-discipline:	Swimming
-gender:		F
-team_or_ind	TEAM
-event:		Freestyle
-venue:		Aquatics Centre
-medal:		3. BRONZE
-athlete:	team USA
-country:	United States
-color:		RED
-
-discipline:	Swimming
-gender:		F
-team_or_ind	IND
-event:		Medley
-venue:		Aquatics Centre
-medal:		1. GOLD
-athlete:	Shiwen Ye
-country:	China
-color:		BLACK
-
-discipline:	Swimming
-gender:		F
-team_or_ind	IND
-event:		Medley
-venue:		Aquatics Centre
-medal:		3. BRONZE
-athlete:	Xuanxu Li
-country:	China
-color:		RED
 Please enter a command:
+next command: quit
 
-discipline:	Archery
-gender:		M
-team_or_ind	TEAM
-event:		Archery
-venue:		Lord's Cricket Ground
-medal:		3. BRONZE
-athlete:	team KOR
-country:	South Korea
-color:		RED
-
-discipline:	Archery
-gender:		M
-team_or_ind	TEAM
-event:		Archery
-venue:		Lord's Cricket Ground
-medal:		1. GOLD
-athlete:	team ITA
-country:	Italy
-color:		BLACK
-
-discipline:	Cycling
-gender:		M
-team_or_ind	IND
-event:		Road
-venue:		Regent's Park
-medal:		1. GOLD
-athlete:	Aleksander Winokurow
-country:	Kazakhstan
-color:		BLACK
-
-discipline:	Archery
-gender:		M
-team_or_ind	TEAM
-event:		Archery
-venue:		Lord's Cricket Ground
-medal:		2. SILVER
-athlete:	team USA
-country:	United States
-color:		BLACK
-
-discipline:	Cycling
-gender:		M
-team_or_ind	IND
-event:		Road
-venue:		Regent's Park
-medal:		2. SILVER
-athlete:	Rigoberto Uran
-country:	Colombia
-color:		BLACK
-
-discipline:	Swimming
-gender:		F
-team_or_ind	TEAM
-event:		Freestyle
-venue:		Aquatics Centre
-medal:		3. BRONZE
-athlete:	team USA
-country:	United States
-color:		RED
-
-discipline:	Swimming
-gender:		F
-team_or_ind	TEAM
-event:		Freestyle
-venue:		Aquatics Centre
-medal:		2. SILVER
-athlete:	team NED
-country:	Netherlands
-color:		BLACK
-
-discipline:	Swimming
-gender:		F
-team_or_ind	TEAM
-event:		Freestyle
-venue:		Aquatics Centre
-medal:		1. GOLD
-athlete:	team AUS
-country:	Australia
-color:		RED
-
-discipline:	Swimming
-gender:		F
-team_or_ind	IND
-event:		Medley
-venue:		Aquatics Centre
-medal:		3. BRONZE
-athlete:	Xuanxu Li
-country:	China
-color:		RED
-
-discipline:	Swimming
-gender:		F
-team_or_ind	IND
-event:		Medley
-venue:		Aquatics Centre
-medal:		1. GOLD
-athlete:	Shiwen Ye
-country:	China
-color:		BLACK
-
-discipline:	Swimming
-gender:		F
-team_or_ind	IND
-event:		Medley
-venue:		Aquatics Centre
-medal:		2. SILVER
-athlete:	Elizabeth Beisel
-country:	United States
-color:		BLACK
-
-discipline:	Cycling
-gender:		M
-team_or_ind	IND
-event:		Road
-venue:		Regent's Park
-medal:		3. BRONZE
-athlete:	Alexander Kristoff
-country:	Norway
-color:		BLACK
-Please enter a command:
-
-The first athlete is:
-
-discipline:	Archery
-gender:		M
-team_or_ind	TEAM
-event:		Archery
-venue:		Lord's Cricket Ground
-medal:		1. GOLD
-athlete:	team ITA
-country:	Italy
-color:		BLACK
-Please enter a command:
-
-The last athlete is:
-
-discipline:	Swimming
-gender:		F
-team_or_ind	IND
-event:		Medley
-venue:		Aquatics Centre
-medal:		3. BRONZE
-athlete:	Xuanxu Li
-country:	China
-color:		RED
-Please enter a command:
-
-The number nodes deleted: 12
+The number nodes deleted: 3

@@ -20,8 +20,9 @@ int main()
 		// ****************
 		// BEGIN INPUT READ
 		// ****************
-		cout << "Please enter a command:\n";
+		cout << "\nPlease enter a command:\n";
 		getline(cin, input);
+		cout << "next command: " << input << endl;
 
 		if (input == "tree_inorder")	// INORDER COMMAND
 			if (tree1.getRoot() == NULL)
@@ -136,8 +137,13 @@ int main()
 					if (y != NULL)
 					{
 						Node * x = tree1.treePredecessor(y);
-						cout << "\nThe predecessor of the medal recipient " << x->athlete << " for " << x->discipline << " with event " << x->event << " is ";
-						x->display();
+						if (x != NULL)
+						{
+							cout << "\nThe predecessor of the medal recipient " << x->athlete << " for " << x->discipline << " with event " << x->event << " is ";
+							x->display();
+						}
+						else
+							cout << "\nThe medal recipient " << y->athlete << " for " << y->discipline << " with event " << y->event << " does not have any predecessor\n";
 					}
 					else
 					{
@@ -145,7 +151,7 @@ int main()
 						getline(ks, gender, ',');
 						getline(ks, event, ',');
 						getline(ks, athlete);
-						cout << endl << athlete << " for " << discipline << " with event " << event << " not found\n";
+						cout << "\nThe medal recipient "<< athlete << " for " << discipline << " with event " << event << " does not have any predecessor\n";
 					}
 				}
 			}
@@ -161,8 +167,13 @@ int main()
 					if (y != NULL)
 					{
 						Node * x = tree1.treeSuccessor(y);
-						cout << "\nThe successor of the medal recipient " << x->athlete << " for " << x->discipline << " with event " << x->event << " is ";
-						x->display();
+						if (x != NULL)
+						{
+							cout << "\nThe successor of the medal recipient " << x->athlete << " for " << x->discipline << " with event " << x->event << " is ";
+							x->display();
+						}
+						else
+							cout << "\nThe medal recipient " << y->athlete << " for " << y->discipline << " with event " << y->event << " does not have any successor\n";
 					}
 					else
 					{
@@ -170,7 +181,7 @@ int main()
 						getline(ks, gender, ',');
 						getline(ks, event, ',');
 						getline(ks, athlete);
-						cout << endl << athlete << " for " << discipline << " with event " << event << " not found\n";
+						cout << "\nThe medal recipient " << athlete << " for " << discipline << " with event " << event << " does not have any successor\n";
 					}
 				}
 			}
