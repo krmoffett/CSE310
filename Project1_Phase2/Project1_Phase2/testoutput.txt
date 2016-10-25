@@ -1,9 +1,30 @@
 Please enter a command:
+
+tree is empty
 Please enter a command:
+
+tree is empty
 Please enter a command:
+
+tree is empty
 Please enter a command:
+
+tree is empty
 Please enter a command:
+
+tree is empty
 Please enter a command:
+
+The medal recipient Aleksander Winokurow for Cycling with event Road inserted
+Please enter a command:
+
+The medal recipient Rigoberto Uran for Cycling with event Road inserted
+Please enter a command:
+
+The medal recipient Alexander Kristoff for Cycling with event Road inserted
+Please enter a command:
+
+The medal recipient Alexander Kristoff for Cycling with event Road NOT inserted
 Please enter a command:
 
 discipline:	Cycling
@@ -98,8 +119,14 @@ athlete:	Alexander Kristoff
 country:	Norway
 color:		BLACK
 Please enter a command:
+
+The medal recipient Shiwen Ye for Swimming with event Medley inserted
 Please enter a command:
+
+The medal recipient Elizabeth Beisel for Swimming with event Medley inserted
 Please enter a command:
+
+The medal recipient Xuanxu Li for Swimming with event Medley inserted
 Please enter a command:
 
 discipline:	Cycling
@@ -284,8 +311,14 @@ athlete:	Alexander Kristoff
 country:	Norway
 color:		BLACK
 Please enter a command:
+
+The medal recipient team ITA for Archery with event Archery inserted
 Please enter a command:
+
+The medal recipient team USA for Archery with event Archery inserted
 Please enter a command:
+
+The medal recipient team KOR for Archery with event Archery inserted
 Please enter a command:
 
 discipline:	Archery
@@ -560,6 +593,7 @@ athlete:	Alexander Kristoff
 country:	Norway
 color:		BLACK
 Please enter a command:
+
 The last athlete is:
 
 discipline:	Swimming
@@ -573,16 +607,59 @@ country:	China
 color:		RED
 Please enter a command:
 
+The first athlete is:
+
+discipline:	Archery
+gender:		M
+team_or_ind	TEAM
+event:		Archery
+venue:		Lord's Cricket Ground
+medal:		1. GOLD
+athlete:	team ITA
+country:	Italy
+color:		BLACK
+Please enter a command:
+
 Jongoh Jin for Shooting with event Pistol not found
 Please enter a command:
 
 The medal recipient team USA has the medal of 2. SILVER
 Please enter a command:
+
+Arianna Errigo for Fencing with event Foil not found
 Please enter a command:
+
+The predecessor of the medal recipient Rigoberto Uran for Cycling with event Road is 
+discipline:	Cycling
+gender:		M
+team_or_ind	IND
+event:		Road
+venue:		Regent's Park
+medal:		2. SILVER
+athlete:	Rigoberto Uran
+country:	Colombia
+color:		BLACK
 Please enter a command:
+
+The successor of the medal recipient Rigoberto Uran for Cycling with event Road is 
+discipline:	Cycling
+gender:		M
+team_or_ind	IND
+event:		Road
+venue:		Regent's Park
+medal:		2. SILVER
+athlete:	Rigoberto Uran
+country:	Colombia
+color:		BLACK
 Please enter a command:
+
+The medal recipient team AUS for Swimming with event Freestyle inserted
 Please enter a command:
+
+The medal recipient team NED for Swimming with event Freestyle inserted
 Please enter a command:
+
+The medal recipient team USA for Swimming with event Freestyle inserted
 Please enter a command:
 
 discipline:	Archery
@@ -947,3 +1024,31 @@ athlete:	Alexander Kristoff
 country:	Norway
 color:		BLACK
 Please enter a command:
+
+The first athlete is:
+
+discipline:	Archery
+gender:		M
+team_or_ind	TEAM
+event:		Archery
+venue:		Lord's Cricket Ground
+medal:		1. GOLD
+athlete:	team ITA
+country:	Italy
+color:		BLACK
+Please enter a command:
+
+The last athlete is:
+
+discipline:	Swimming
+gender:		F
+team_or_ind	IND
+event:		Medley
+venue:		Aquatics Centre
+medal:		3. BRONZE
+athlete:	Xuanxu Li
+country:	China
+color:		RED
+Please enter a command:
+
+The number nodes deleted: 12

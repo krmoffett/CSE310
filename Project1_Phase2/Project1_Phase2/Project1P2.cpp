@@ -1,3 +1,8 @@
+// Project 1 Phase 2
+// Name: Kyle Moffett
+// ASU Email Address: krmoffet@asu.edu
+// Description: Executes commands from a user to insert, search, and print from a red black tree
+
 #include <iostream>
 #include <string>
 #include <sstream>
@@ -9,41 +14,63 @@ int main()
 {
 	RBTree tree1;
 	string input, command, key, discipline, gender, team_or_ind, event, venue, medal, athlete, country;
-	Node * x = new Node;
-
+	
 	while (input != "quit")
 	{
+		// ****************
+		// BEGIN INPUT READ
+		// ****************
 		cout << "Please enter a command:\n";
 		getline(cin, input);
 
-		if (input == "tree_inorder")
-			tree1.inorderTreeWalk(tree1.getRoot());
+		if (input == "tree_inorder")	// INORDER COMMAND
+			if (tree1.getRoot() == NULL)
+				cout << "\ntree is empty\n";
+			else
+				tree1.inorderTreeWalk(tree1.getRoot());
 
-		else if (input == "tree_preorder")
-			tree1.preorderTreeWalk(tree1.getRoot());
+		else if (input == "tree_preorder")	// PREORDER COMMAND
+			if (tree1.getRoot() == NULL)
+				cout << "\ntree is empty\n";
+			else
+				tree1.preorderTreeWalk(tree1.getRoot());
 
-		else if (input == "tree_postorder")
-			tree1.postorderTreeWalk(tree1.getRoot());
+		else if (input == "tree_postorder")	// POSTORDER COMMAND
+			if (tree1.getRoot() == NULL)
+				cout << "\ntree is empty\n";
+			else
+				tree1.postorderTreeWalk(tree1.getRoot());
 
-		else if (input == "tree_maximum")
+		else if (input == "tree_maximum")	// FIND TREE MAXIMUM
 		{
 			Node * y = new Node;
-			y = tree1.treeMaximum(tree1.getRoot());
-			cout << "The last athlete is:\n";
-			y->display();
+			if (tree1.getRoot() == NULL)
+				cout << "\ntree is empty\n";
+			else
+			{
+				y = tree1.treeMaximum(tree1.getRoot());
+				cout << "\nThe last athlete is:\n";
+				y->display();
+			}
 		}
-		else if (input == "tree_minimum")
+		else if (input == "tree_minimum")	// FIND TREE MINIMUM
 		{
 			Node * y = new Node;
-			y = tree1.treeMinimum(tree1.getRoot());
-			y->display();
+			if (tree1.getRoot() == NULL)
+				cout << "\ntree is empty\n";
+			else
+			{
+				y = tree1.treeMinimum(tree1.getRoot());
+				cout << "\nThe first athlete is:\n";
+				y->display();
+			}
 		}
 
 		else
 		{
 			stringstream ss(input);
 			getline(ss, command, ',');
-			if (command == "tree_insert")
+			if (command == "tree_insert")	// INSERT COMMAND
 			{
 				getline(ss, discipline, ',');
 				getline(ss, gender, ',');
@@ -53,7 +80,10 @@ int main()
 				getline(ss, medal, ',');
 				getline(ss, athlete, ',');
 				getline(ss, country);
+
 				Node * y = new Node;
+				Node * x = new Node;
+
 				y->discipline = discipline;
 				y->gender = gender;
 				y->team_or_ind = team_or_ind;
@@ -66,14 +96,24 @@ int main()
 				y->right = NULL;
 				y->parent = NULL;
 				
-				tree1.treeInsert(y);
+				x = tree1.treeSearch(tree1.getRoot(), y->getKey());
+				if (x == NULL) // medal data is not already in the tree
+				{
+					tree1.treeInsert(y);
+					cout << "\nThe medal recipient " << y->athlete << " for " << y->discipline << " with event " << y->event << " inserted\n";
+				}
+				else	// medal data already in tree
+					cout << "\nThe medal recipient " << y->athlete << " for " << y->discipline << " with event " << y->event << " NOT inserted\n";
 			}
-			else if (command == "tree_search")
+			else if (command == "tree_search")	// SEARCH FOR MEDAL INFO
 			{
 				getline(ss, key);
 				stringstream ks(key);
+				Node * x = new Node;
 				x = tree1.treeSearch(tree1.getRoot(), key);
-				if (x != NULL)
+				if (tree1.getRoot() == NULL)
+					cout << "\ntree is empty\n";
+				else if (x != NULL)
 					cout << "\nThe medal recipient " << x->athlete << " has the medal of " << x->medal << endl;
 				else
 				{
@@ -82,6 +122,56 @@ int main()
 					getline(ks, event, ',');
 					getline(ks, athlete);
 					cout << endl << athlete << " for " << discipline << " with event " << event << " not found\n";
+				}
+			}
+			else if (command == "tree_predecessor")		// FIND PREDECESSOR
+			{
+				getline(ss, key);
+				stringstream ks(key);
+				if (tree1.getRoot() == NULL)		// tree is empty
+					cout << "tree is empty";
+				else		// tree is not empty
+				{
+					Node * y = tree1.treeSearch(tree1.getRoot(), key);
+					if (y != NULL)
+					{
+						Node * x = tree1.treePredecessor(y);
+						cout << "\nThe predecessor of the medal recipient " << x->athlete << " for " << x->discipline << " with event " << x->event << " is ";
+						x->display();
+					}
+					else
+					{
+						getline(ks, discipline, ',');
+						getline(ks, gender, ',');
+						getline(ks, event, ',');
+						getline(ks, athlete);
+						cout << endl << athlete << " for " << discipline << " with event " << event << " not found\n";
+					}
+				}
+			}
+			else if (command == "tree_successor")	// FIND SUCCESSOR
+			{
+				getline(ss, key);
+				stringstream ks(key);
+				if (tree1.getRoot() == NULL)		// tree is empty
+					cout << "tree is empty";
+				else		// tree is not empty
+				{
+					Node * y = tree1.treeSearch(tree1.getRoot(), key);
+					if (y != NULL)
+					{
+						Node * x = tree1.treeSuccessor(y);
+						cout << "\nThe successor of the medal recipient " << x->athlete << " for " << x->discipline << " with event " << x->event << " is ";
+						x->display();
+					}
+					else
+					{
+						getline(ks, discipline, ',');
+						getline(ks, gender, ',');
+						getline(ks, event, ',');
+						getline(ks, athlete);
+						cout << endl << athlete << " for " << discipline << " with event " << event << " not found\n";
+					}
 				}
 			}
 		}

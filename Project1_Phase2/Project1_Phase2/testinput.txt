@@ -1,8 +1,11 @@
 tree_inorder
 tree_preorder
 tree_postorder
+tree_maximum
+tree_minimum
 tree_insert,Cycling,M,IND,Road,Regent's Park,1. GOLD,Aleksander Winokurow,Kazakhstan
 tree_insert,Cycling,M,IND,Road,Regent's Park,2. SILVER,Rigoberto Uran,Colombia
+tree_insert,Cycling,M,IND,Road,Regent's Park,3. BRONZE,Alexander Kristoff,Norway
 tree_insert,Cycling,M,IND,Road,Regent's Park,3. BRONZE,Alexander Kristoff,Norway
 tree_inorder
 tree_preorder
@@ -20,6 +23,7 @@ tree_inorder
 tree_preorder
 tree_postorder
 tree_maximum
+tree_minimum
 tree_search,Shooting,F,Pistol,Jongoh Jin
 tree_search,Archery,M,Archery,team USA
 tree_predecessor,Fencing,F,Foil,Arianna Errigo
@@ -31,4 +35,6 @@ tree_insert,Swimming,F,TEAM,Freestyle,Aquatics Centre,3. BRONZE,team USA,United 
 tree_inorder
 tree_preorder
 tree_postorder
+tree_minimum
+tree_maximum
 quit

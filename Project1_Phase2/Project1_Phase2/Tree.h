@@ -4,6 +4,7 @@
 #include "Node.h"
 
 using namespace std;
+int delcount = 0;
 
 class RBTree {
 private:
@@ -26,6 +27,7 @@ public:
 	void bsTreeInsert(Node * z);
 	void rightRotate(Node * x);
 	void leftRotate(Node * x);
+	int deleteTree(Node * x);
 
 	Node * getRoot() { return root; }
 };
@@ -38,10 +40,21 @@ RBTree::RBTree()	// Constructor
 RBTree::~RBTree()	// Destructor
 {
 	Node * x = root;
+	int nodes = deleteTree(x);
+	
+	cout << "\nThe number nodes deleted: " << nodes;
+}
+
+int RBTree::deleteTree(Node * x)
+{
 	if (x != NULL)
 	{
-		// TBC
+		deleteTree(x->left);
+		deleteTree(x->right);
+		delete x;
+		delcount++;
 	}
+	return delcount;
 }
 
 int RBTree::keyComp(string key1, string key2)	// Used to compare two node keys. If comp returns < 0, key1 < key2
