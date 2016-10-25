@@ -129,14 +129,14 @@ Node* RBTree::treeSearch(Node * x, string k)
 
 Node* RBTree::treeMinimum(Node * x)
 {
-	while (x != NULL)
+	while (x->left != NULL)
 		x = x->left;
 	return x;
 }
 
 Node* RBTree::treeMaximum(Node * x)
 {
-	while (x != NULL)
+	while (x->right != NULL)
 		x = x->right;
 	return x;
 }
