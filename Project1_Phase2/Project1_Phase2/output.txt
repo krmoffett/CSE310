@@ -1,10 +1,36 @@
+
 Please enter a command:
+next command: tree_inorder
+
+tree is empty
+
 Please enter a command:
+next command: tree_preorder
+
+tree is empty
+
 Please enter a command:
+next command: tree_postorder
+
+tree is empty
+
 Please enter a command:
+next command: tree_insert,Cycling,M,IND,Road,Regent's Park,1. GOLD,Aleksander Winokurow,Kazakhstan
+
+The medal recipient Aleksander Winokurow for Cycling with event Road inserted
+
 Please enter a command:
+next command: tree_insert,Cycling,M,IND,Road,Regent's Park,2. SILVER,Rigoberto Uran,Colombia
+
+The medal recipient Rigoberto Uran for Cycling with event Road inserted
+
 Please enter a command:
+next command: tree_insert,Cycling,M,IND,Road,Regent's Park,3. BRONZE,Alexander Kristoff,Norway
+
+The medal recipient Alexander Kristoff for Cycling with event Road inserted
+
 Please enter a command:
+next command: tree_inorder
 
 discipline:	Cycling
 gender:		M
@@ -35,7 +61,9 @@ medal:		2. SILVER
 athlete:	Rigoberto Uran
 country:	Colombia
 color:		RED
+
 Please enter a command:
+next command: tree_preorder
 
 discipline:	Cycling
 gender:		M
@@ -66,7 +94,9 @@ medal:		2. SILVER
 athlete:	Rigoberto Uran
 country:	Colombia
 color:		RED
+
 Please enter a command:
+next command: tree_postorder
 
 discipline:	Cycling
 gender:		M
@@ -97,10 +127,24 @@ medal:		3. BRONZE
 athlete:	Alexander Kristoff
 country:	Norway
 color:		BLACK
+
 Please enter a command:
+next command: tree_insert,Swimming,F,IND,Medley,Aquatics Centre,1. GOLD,Shiwen Ye,China
+
+The medal recipient Shiwen Ye for Swimming with event Medley inserted
+
 Please enter a command:
+next command: tree_insert,Swimming,F,IND,Medley,Aquatics Centre,2. SILVER,Elizabeth Beisel,United States
+
+The medal recipient Elizabeth Beisel for Swimming with event Medley inserted
+
 Please enter a command:
+next command: tree_insert,Swimming,F,IND,Medley,Aquatics Centre,3. BRONZE,Xuanxu Li,China
+
+The medal recipient Xuanxu Li for Swimming with event Medley inserted
+
 Please enter a command:
+next command: tree_inorder
 
 discipline:	Cycling
 gender:		M
@@ -161,7 +205,9 @@ medal:		3. BRONZE
 athlete:	Xuanxu Li
 country:	China
 color:		RED
+
 Please enter a command:
+next command: tree_preorder
 
 discipline:	Cycling
 gender:		M
@@ -222,7 +268,9 @@ medal:		3. BRONZE
 athlete:	Xuanxu Li
 country:	China
 color:		RED
+
 Please enter a command:
+next command: tree_postorder
 
 discipline:	Cycling
 gender:		M
@@ -283,10 +331,24 @@ medal:		3. BRONZE
 athlete:	Alexander Kristoff
 country:	Norway
 color:		BLACK
+
 Please enter a command:
+next command: tree_insert,Archery,M,TEAM,Archery,Lord's Cricket Ground,1. GOLD,team ITA,Italy
+
+The medal recipient team ITA for Archery with event Archery inserted
+
 Please enter a command:
+next command: tree_insert,Archery,M,TEAM,Archery,Lord's Cricket Ground,2. SILVER,team USA,United States
+
+The medal recipient team USA for Archery with event Archery inserted
+
 Please enter a command:
+next command: tree_insert,Archery,M,TEAM,Archery,Lord's Cricket Ground,3. BRONZE,team KOR,South Korea
+
+The medal recipient team KOR for Archery with event Archery inserted
+
 Please enter a command:
+next command: tree_inorder
 
 discipline:	Archery
 gender:		M
@@ -377,7 +439,9 @@ medal:		3. BRONZE
 athlete:	Xuanxu Li
 country:	China
 color:		RED
+
 Please enter a command:
+next command: tree_preorder
 
 discipline:	Cycling
 gender:		M
@@ -468,7 +532,9 @@ medal:		3. BRONZE
 athlete:	Xuanxu Li
 country:	China
 color:		RED
+
 Please enter a command:
+next command: tree_postorder
 
 discipline:	Archery
 gender:		M
@@ -559,7 +625,10 @@ medal:		3. BRONZE
 athlete:	Alexander Kristoff
 country:	Norway
 color:		BLACK
+
 Please enter a command:
+next command: tree_maximum
+
 The last athlete is:
 
 discipline:	Swimming
@@ -571,7 +640,11 @@ medal:		3. BRONZE
 athlete:	Xuanxu Li
 country:	China
 color:		RED
+
 Please enter a command:
+next command: tree_minimum
+
+The first athlete is:
 
 discipline:	Archery
 gender:		M
@@ -582,19 +655,67 @@ medal:		1. GOLD
 athlete:	team ITA
 country:	Italy
 color:		BLACK
+
 Please enter a command:
+next command: tree_search,Shooting,F,Pistol,Jongoh Jin
 
 Jongoh Jin for Shooting with event Pistol not found
+
 Please enter a command:
+next command: tree_search,Archery,M,Archery,team USA
 
 The medal recipient team USA has the medal of 2. SILVER
+
 Please enter a command:
+next command: tree_predecessor,Fencing,F,Foil,Arianna Errigo
+
+The medal recipient Arianna Errigo for Fencing with event Foil does not have any predecessor
+
 Please enter a command:
+next command: tree_predecessor,Swimming,F,Medley,Elizabeth Beisel
+
+The predecessor of the medal recipient Rigoberto Uran for Cycling with event Road is 
+discipline:	Cycling
+gender:		M
+team_or_ind	IND
+event:		Road
+venue:		Regent's Park
+medal:		2. SILVER
+athlete:	Rigoberto Uran
+country:	Colombia
+color:		BLACK
+
 Please enter a command:
+next command: tree_successor,Cycling,M,Road,Alexander Kristoff
+
+The successor of the medal recipient Rigoberto Uran for Cycling with event Road is 
+discipline:	Cycling
+gender:		M
+team_or_ind	IND
+event:		Road
+venue:		Regent's Park
+medal:		2. SILVER
+athlete:	Rigoberto Uran
+country:	Colombia
+color:		BLACK
+
 Please enter a command:
+next command: tree_insert,Swimming,F,TEAM,Freestyle,Aquatics Centre,1. GOLD,team AUS,Australia
+
+The medal recipient team AUS for Swimming with event Freestyle inserted
+
 Please enter a command:
+next command: tree_insert,Swimming,F,TEAM,Freestyle,Aquatics Centre,2. SILVER,team NED,Netherlands
+
+The medal recipient team NED for Swimming with event Freestyle inserted
+
 Please enter a command:
+next command: tree_insert,Swimming,F,TEAM,Freestyle,Aquatics Centre,3. BRONZE,team USA,United States
+
+The medal recipient team USA for Swimming with event Freestyle inserted
+
 Please enter a command:
+next command: tree_inorder
 
 discipline:	Archery
 gender:		M
@@ -715,7 +836,9 @@ medal:		3. BRONZE
 athlete:	Xuanxu Li
 country:	China
 color:		RED
+
 Please enter a command:
+next command: tree_preorder
 
 discipline:	Cycling
 gender:		M
@@ -836,7 +959,9 @@ medal:		3. BRONZE
 athlete:	Xuanxu Li
 country:	China
 color:		RED
+
 Please enter a command:
+next command: tree_postorder
 
 discipline:	Archery
 gender:		M
@@ -957,7 +1082,11 @@ medal:		3. BRONZE
 athlete:	Alexander Kristoff
 country:	Norway
 color:		BLACK
+
 Please enter a command:
+next command: tree_minimum
+
+The first athlete is:
 
 discipline:	Archery
 gender:		M
@@ -968,7 +1097,10 @@ medal:		1. GOLD
 athlete:	team ITA
 country:	Italy
 color:		BLACK
+
 Please enter a command:
+next command: tree_maximum
+
 The last athlete is:
 
 discipline:	Swimming
@@ -980,4 +1112,8 @@ medal:		3. BRONZE
 athlete:	Xuanxu Li
 country:	China
 color:		RED
+
 Please enter a command:
+next command: quit
+
+The number nodes deleted: 12
