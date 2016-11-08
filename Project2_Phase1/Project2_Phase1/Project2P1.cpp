@@ -6,6 +6,7 @@
 #include <iostream>	
 #include <string>
 #include <fstream>
+#include <sstream>
 #include "AdjacencyList.h"
 
 using namespace std;
@@ -24,20 +25,33 @@ int main(int argc, char *argv[])
 	g1.addEdge("ASU", "FSU(522-8)");
 	g1.addEdge("FSU", "UofA(53-3)");
 	g1.printGraph();*/
+
 	ifstream commands(argv[1]), edges(argv[2]);
-	string input;
-	while (!commands.eof())
+	string command, fill, start, finish, edge;
+	int begin, end;
+
+	while (command != "quit")
 	{
-		getline(commands, input);
-		cout << input << endl;
-	}
-	cout << "end of commands\n";
-	while (!edges.eof())
-	{
-		getline(edges, input);
-		cout << input << endl;
+		getline(commands, command);
+		cout << "next command: " << command << endl;
+
+		if (command == "print_graph")
+		{
+		}
+		else
+		{
+			stringstream ss(command);
+			getline(ss, fill, ',');
+			getline(ss, start, ',');
+			getline(ss, finish);
+			begin = stoi(start);
+			end = stoi(finish);
+
+			
+		}
 	}
 
+	
 
 
 	system("pause");
