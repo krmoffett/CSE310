@@ -96,4 +96,9 @@ public:
 			cout << endl << endl;
 		}
 	}
+
+	void deleteList()
+	{
+	}
+
 };
