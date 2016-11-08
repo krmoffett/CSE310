@@ -15,6 +15,27 @@ next command: tree_postorder
 tree is empty
 
 Please enter a command:
+next command: tree_maximum
+
+tree is empty
+
+Please enter a command:
+next command: tree_minimum
+
+tree is empty
+
+Please enter a command:
+next command: tree_search,Cycling,M,Road,Alexander Kristoff
+
+tree is empty
+
+Please enter a command:
+next command: tree_successor,Fencing,F,Foil,Arianna Errigo
+tree is empty
+Please enter a command:
+next command: tree_predecessor,Cycling,M,Road,Alexander Kristoff
+tree is empty
+Please enter a command:
 next command: tree_insert,Cycling,M,IND,Road,Regent's Park,1. GOLD,Aleksander Winokurow,Kazakhstan
 
 The medal recipient Aleksander Winokurow for Cycling with event Road inserted
@@ -28,6 +49,11 @@ Please enter a command:
 next command: tree_insert,Cycling,M,IND,Road,Regent's Park,3. BRONZE,Alexander Kristoff,Norway
 
 The medal recipient Alexander Kristoff for Cycling with event Road inserted
+
+Please enter a command:
+next command: tree_insert,Cycling,M,IND,Road,Regent's Park,1. GOLD,Aleksander Winokurow,Kazakhstan
+
+The medal recipient Aleksander Winokurow for Cycling with event Road NOT inserted
 
 Please enter a command:
 next command: tree_inorder

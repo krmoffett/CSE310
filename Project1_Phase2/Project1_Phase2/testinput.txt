@@ -1,9 +1,15 @@
 tree_inorder
 tree_preorder
 tree_postorder
+tree_maximum
+tree_minimum
+tree_search,Cycling,M,Road,Alexander Kristoff
+tree_successor,Fencing,F,Foil,Arianna Errigo
+tree_predecessor,Cycling,M,Road,Alexander Kristoff
 tree_insert,Cycling,M,IND,Road,Regent's Park,1. GOLD,Aleksander Winokurow,Kazakhstan
 tree_insert,Cycling,M,IND,Road,Regent's Park,2. SILVER,Rigoberto Uran,Colombia
 tree_insert,Cycling,M,IND,Road,Regent's Park,3. BRONZE,Alexander Kristoff,Norway
+tree_insert,Cycling,M,IND,Road,Regent's Park,1. GOLD,Aleksander Winokurow,Kazakhstan
 tree_inorder
 tree_preorder
 tree_postorder

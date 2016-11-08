@@ -142,6 +142,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Project2P1.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="commands1.txt" />
+    <Text Include="commands2.txt" />
+    <Text Include="edges1.txt" />
+    <Text Include="edges2.txt" />
+    <Text Include="output1.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AdjacencyList.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

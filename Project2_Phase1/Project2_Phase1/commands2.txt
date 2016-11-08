@@ -1,0 +1,12 @@
+graph,500,900
+print_graph
+depth_first_search
+end_graph
+graph,100,459
+print_graph
+depth_first_search
+print_graph
+graph,200,2000
+depth_first_search
+print_graph
+quit

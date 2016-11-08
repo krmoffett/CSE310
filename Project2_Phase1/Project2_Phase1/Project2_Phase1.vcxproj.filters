@@ -14,4 +14,31 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Project2P1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="commands1.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="edges1.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="commands2.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="edges2.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="output1.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AdjacencyList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
