@@ -22,11 +22,12 @@ int main(int argc, char *argv[])
 	int begin, end;
 	Graph g1;
 	bool nameInArray(string name, string array[]);
+	void sortArray(string names[], int size);
 
 	while (command != "quit")
 	{
 		getline(commandsFile, command);
-		cout << "next command: " << command << endl;
+		cout << "\nnext command: " << command << endl;
 
 		if (command == "print_graph")
 		{
@@ -50,29 +51,37 @@ int main(int argc, char *argv[])
 			begin = stoi(start);
 			end = stoi(finish);
 			numEdges = end - begin + 1;
-			string names[100];
+			string nodes[100], nameStage;
 			string text[100];
 
+			//	EXTRACT NODE NAMES
 			for (int i = 0; i < begin; i++)
 			{
 				getline(edgesFile, fill);
 			}
+			int index = 0;
 			for (int i = begin; i <= end; i++)
 			{
-				getline(edgesFile, winner, ',');
-				getline(edgesFile, wScore, ',');
-				getline(edgesFile, loser, ',');
-				getline(edgesFile, lScore);
-				if (nameInArray(winner, names) == false)
-					names[i] = winner;
 				
-				text[i] = loser + "(" + wScore + "-" + lScore + ")";
-			}			
-			g1.buildGraph(numEdges, names);
-			for (int i = 0; i < numEdges; i++)
+				getline(edgesFile, nameStage, ',');
+				if (nameInArray(nameStage, nodes) == false)
+				{
+					nodes[index] = nameStage;
+					index++;
+				}
+				else
+					end--;
+				getline(edgesFile, fill);
+			}	
+			string * nodesToInsert = new string[index];
+			for (int i = 0; i < index; i++)
 			{
-				g1.addEdge(names[i], text[i]);
+				nodesToInsert[i] = nodes[i];
 			}
+			sortArray(nodesToInsert, index);
+			g1.buildGraph(index, nodesToInsert);
+
+
 		}
 	}
 	
@@ -91,7 +100,28 @@ bool nameInArray(string name, string array[])
 	{
 		if (name == array[i])
 			return true;
-		else
-			return false;
 	}
+	return false;
+}
+
+void sortArray(string names[], int size)
+{
+
+	bool flag;
+
+	do
+	{
+		flag = 0;
+		for (int count = 0; count < (size - 1); count++)
+		{
+			if (names[count] > names[count + 1])
+			{
+				names[count].swap(names[count + 1]);
+				flag = 1;
+
+			}
+
+		}
+
+	} while (flag == 1);
 }
