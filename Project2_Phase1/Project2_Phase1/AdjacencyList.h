@@ -51,6 +51,11 @@ private:
 	int v;
 	List * array;
 public:
+	Graph()
+	{
+		v = 0;
+		array = NULL;
+	}
 	Graph(int v, string names[])
 	{
 		this->v = v;
@@ -74,26 +79,33 @@ public:
 			cout << "cannot find source";
 		else
 		{
-			//Node * p = array[count].head;			//For alph order???
-			/*Node * q = NULL;
-			while (p != NULL && text > p->text)
-			{
-				q = p;
-				p = p->next;
-			}*/
-	
 			newNode->next = array[count].head;
 			array[count].head = newNode;
-	
 		}
 	}
 
 	void printGraph()
 	{
-		for (int i = 0; i < v; i++)
+		if (v == 0)
+			cout << "graph is empty" << endl;
+		else
 		{
-			array[i].printList();
-			cout << endl << endl;
+			for (int i = 0; i < v; i++)
+			{
+				array[i].printList();
+				cout << endl << endl;
+			}
+		}
+	}
+
+	void buildGraph(int v, string names[])
+	{
+		this->v = v;
+		array = new List[v];
+		for (int i = 0; i < v; ++i)
+		{
+			array[i].head = NULL;
+			array[i].name = names[i];
 		}
 	}
 
