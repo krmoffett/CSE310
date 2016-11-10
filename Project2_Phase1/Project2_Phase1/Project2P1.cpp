@@ -11,10 +11,6 @@
 
 using namespace std;
 
-/*NOTES
-make sure to construct name array in alph order
-*/
-
 int main(int argc, char *argv[])
 {
 	ifstream commandsFile(argv[1]), edgesFile(argv[2]);
@@ -27,61 +23,76 @@ int main(int argc, char *argv[])
 	while (command != "quit")
 	{
 		getline(commandsFile, command);
-		cout << "\nnext command: " << command << endl;
+		cout << "next command: " << command << endl;
 
-		if (command == "print_graph")
+		if (command == "print_graph")	// PRINT COMAND
 		{
 			g1.printGraph();
 		}
-		else if (command == "end_graph")
+		else if (command == "end_graph")	// FREE MEMORY
 		{
 
 		}
-		else if (command == "depth_first_search")
+		else if (command == "depth_first_search")	// DFS COMMAND
 		{
 
 		}
-		else
+		else		// GRAPH COMMAND
 		{
 			int numEdges;
 			stringstream ss(command);
 			getline(ss, fill, ',');
-			getline(ss, start, ',');
-			getline(ss, finish);
-			begin = stoi(start);
-			end = stoi(finish);
-			numEdges = end - begin + 1;
-			string nodes[100], nameStage;
-			string text[100];
+			if (fill == "graph")
+			{
+				getline(ss, start, ',');
+				getline(ss, finish);
+				begin = stoi(start);
+				end = stoi(finish);
+				numEdges = end - begin + 1;
+				string nodes[100], nameStage;
+				string text[100];
 
-			//	EXTRACT NODE NAMES
-			for (int i = 0; i < begin; i++)
-			{
-				getline(edgesFile, fill);
-			}
-			int index = 0;
-			for (int i = begin; i <= end; i++)
-			{
-				
-				getline(edgesFile, nameStage, ',');
-				if (nameInArray(nameStage, nodes) == false)
+				//	EXTRACT NODE NAMES
+				for (int i = 0; i < begin; i++)
 				{
-					nodes[index] = nameStage;
-					index++;
+					getline(edgesFile, fill);
 				}
-				else
-					end--;
-				getline(edgesFile, fill);
-			}	
-			string * nodesToInsert = new string[index];
-			for (int i = 0; i < index; i++)
-			{
-				nodesToInsert[i] = nodes[i];
+				int index = 0;
+				for (int i = begin; i <= end; i++)
+				{
+
+					getline(edgesFile, nameStage, ',');
+					if (nameInArray(nameStage, nodes) == false)
+					{
+						nodes[index] = nameStage;
+						index++;
+					}
+					else
+						end--;
+					getline(edgesFile, fill);
+				}
+				string * nodesToInsert = new string[index];
+				for (int i = 0; i < index; i++)
+				{
+					nodesToInsert[i] = nodes[i];
+				}
+				sortArray(nodesToInsert, index);
+				g1.buildGraph(index, nodesToInsert);
+
+				// EXTRACT EDGES
+				edgesFile.clear();
+				edgesFile.seekg(0, ios::beg);
+				for (int i = 0; i < numEdges; i++)
+				{
+					getline(edgesFile, winner, ',');
+					getline(edgesFile, wScore, ',');
+					getline(edgesFile, loser, ',');
+					getline(edgesFile, lScore);
+
+					string scoreStr = "(" + wScore + "-" + lScore + ")";
+					g1.addEdge(winner, loser, scoreStr);
+				}
 			}
-			sortArray(nodesToInsert, index);
-			g1.buildGraph(index, nodesToInsert);
-
-
 		}
 	}
 	

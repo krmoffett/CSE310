@@ -9,11 +9,12 @@
 using namespace std;
 
 struct Node {
-	string text;
+	string loser;
+	string score;
 	Node * next;
 	void printNode()
 	{
-		cout << text;
+		cout << loser << score;
 		if (next != NULL)
 			cout << ", ";
 	}
@@ -67,10 +68,11 @@ public:
 		}
 	}
 
-	void addEdge(string winner, string text)
+	void addEdge(string winner, string loser, string score)
 	{
 		Node * newNode = new Node;
-		newNode->text = text;
+		newNode->loser = loser;
+		newNode->score = score;
 		newNode->next = NULL;
 		int count = 0;
 		while (array[count].name != winner && count < v)
