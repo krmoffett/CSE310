@@ -78,7 +78,6 @@ int main(int argc, char *argv[])
 				}
 				sortArray(nodesToInsert, index);
 				g1.buildGraph(index, nodesToInsert);
-
 				// EXTRACT EDGES
 				edgesFile.clear();
 				edgesFile.seekg(0, ios::beg);

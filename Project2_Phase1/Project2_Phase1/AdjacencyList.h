@@ -75,7 +75,7 @@ public:
 		newNode->score = score;
 		newNode->next = NULL;
 		int count = 0;
-		while (array[count].name != winner && count < v)
+		while (array[count].name != winner || count < v)
 			count++;
 		if (count >= v)
 			cout << "cannot find source";
