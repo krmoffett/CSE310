@@ -81,8 +81,24 @@ public:
 			cout << "cannot find source";
 		else
 		{
-			newNode->next = array[count].head;
-			array[count].head = newNode;
+			Node * current = array[count].head;
+			Node * previous = NULL;
+
+			while (current != NULL && current->loser < newNode->loser)
+			{
+				previous = current;
+				current = current->next;
+			}
+			if (previous == NULL)
+			{
+				newNode->next = array[count].head;
+				array[count].head = newNode;
+			}
+			else
+			{
+				previous->next = newNode;
+				newNode->next = current;
+			}
 		}
 	}
 
