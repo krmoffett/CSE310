@@ -4,7 +4,7 @@ next command: graph,0,10
 
 next command: print_graph
 
-Graph (Adjacency List) content
+Graph (Adjacency Node) content
 
 Arizona State beat: Florida State(43-14), New Mexico(58-23), Oregon(12-9)
 
@@ -69,7 +69,7 @@ next command: graph,2,25
 
 next command: print_graph
 
-Graph (Adjacency List) content
+Graph (Adjacency Node) content
 
 Arizona State beat: Florida State(43-14), New Mexico(58-23), Oregon(12-9)
 

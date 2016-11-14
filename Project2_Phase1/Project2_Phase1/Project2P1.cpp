@@ -49,11 +49,11 @@ int main(int argc, char *argv[])
 				begin = stoi(start);
 				end = stoi(finish);
 				numEdges = end - begin + 1;
-				string * nodes = new string[numEdges];
+				string * Edges = new string[numEdges];
 				string nameStage;
 				string text[100];
 
-				//	EXTRACT NODE NAMES
+				//	EXTRACT Edge NAMES
 				for (int i = 0; i < begin; i++)
 				{
 					getline(edgesFile, fill);
@@ -64,9 +64,9 @@ int main(int argc, char *argv[])
 				{
 
 					getline(edgesFile, nameStage, ',');
-					if (nameInArray(nameStage, nodes, numEdges) == false)
+					if (nameInArray(nameStage, Edges, numEdges) == false)
 					{
-						nodes[index] = nameStage;
+						Edges[index] = nameStage;
 						index++;
 					}
 					/*else
@@ -74,15 +74,15 @@ int main(int argc, char *argv[])
 
 					getline(edgesFile, fill);
 				}
-				string * nodesToInsert = new string[index];
+				string * EdgesToInsert = new string[index];
 				
 				for (int i = 0; i < index; i++)
 				{
-					nodesToInsert[i] = nodes[i];
+					EdgesToInsert[i] = Edges[i];
 				}
 				
-				sortArray(nodesToInsert, index);
-				g1.buildGraph(index, nodesToInsert);
+				sortArray(EdgesToInsert, index);
+				g1.buildGraph(index, EdgesToInsert);
 				// EXTRACT EDGES
 				edgesFile.clear();
 				edgesFile.seekg(0, ios::beg);

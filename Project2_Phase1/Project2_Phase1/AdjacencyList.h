@@ -8,11 +8,11 @@
 
 using namespace std;
 
-struct Node {
+struct Edge {
 	string loser;
 	string score;
-	Node * next;
-	void printNode()
+	Edge * next;
+	void printEdge()
 	{
 		cout << loser << score;
 		if (next != NULL)
@@ -21,20 +21,20 @@ struct Node {
 
 };
 
-struct List {
+struct Node {
 	string name;
 	string color;
-	List * parent;
+	Node * parent;
 	int d, f;
-	Node * head;
-	List()
+	Edge * head;
+	Node()
 	{
 		head = NULL;
 	}
 
-	void printList()
+	void printNode()
 	{
-		Node * p = head;
+		Edge * p = head;
 		cout << name << " beat: ";
 		if (p == NULL)
 			cout << "none";
@@ -42,7 +42,7 @@ struct List {
 		{
 			while (p != NULL)
 			{
-				p->printNode();
+				p->printEdge();
 				p = p->next;
 			}
 		}
@@ -53,7 +53,7 @@ class Graph
 {
 private:
 	int v;
-	List * array;
+	Node * array;
 	int time;
 public:
 	Graph()
@@ -64,7 +64,7 @@ public:
 	Graph(int v, string names[])
 	{
 		this->v = v;
-		array = new List[v];
+		array = new Node[v];
 		for (int i = 0; i < v; i++)
 		{
 			array[i].head = NULL;
@@ -74,10 +74,10 @@ public:
 
 	void addEdge(string winner, string loser, string score)
 	{
-		Node * newNode = new Node;
-		newNode->loser = loser;
-		newNode->score = score;
-		newNode->next = NULL;
+		Edge * newEdge = new Edge;
+		newEdge->loser = loser;
+		newEdge->score = score;
+		newEdge->next = NULL;
 		int count = 0;
 		while (array[count].name != winner && count < v)
 			count++;
@@ -85,23 +85,23 @@ public:
 			cout << "cannot find source";
 		else
 		{
-			Node * current = array[count].head;
-			Node * previous = NULL;
+			Edge * current = array[count].head;
+			Edge * previous = NULL;
 
-			while (current != NULL && current->loser < newNode->loser)
+			while (current != NULL && current->loser < newEdge->loser)
 			{
 				previous = current;
 				current = current->next;
 			}
 			if (previous == NULL)
 			{
-				newNode->next = array[count].head;
-				array[count].head = newNode;
+				newEdge->next = array[count].head;
+				array[count].head = newEdge;
 			}
 			else
 			{
-				previous->next = newNode;
-				newNode->next = current;
+				previous->next = newEdge;
+				newEdge->next = current;
 			}
 		}
 	}
@@ -114,7 +114,7 @@ public:
 		{
 			for (int i = 0; i < v; i++)
 			{
-				array[i].printList();
+				array[i].printNode();
 				cout << endl << endl;
 			}
 		}
@@ -123,7 +123,7 @@ public:
 	void buildGraph(int v, string names[])
 	{
 		this->v = v;
-		array = new List[v];
+		array = new Node[v];
 		for (int i = 0; i < v; ++i)
 		{
 			array[i].head = NULL;
@@ -133,50 +133,62 @@ public:
 
 	void DFS()
 	{
-		List * u = array;
-		for (int i = 0; i < v; i++)		// Initialize all nodes to white and NULL parent
+		Node * u = array;
+		for (int i = 0; i < v; i++)		// Initialize all Edges to white and NULL parent
 		{
 			u[i].color = "white";
 			u[i].parent = NULL;
 		}
 
 		time = 0;
+
 		for (int i = 0; i < v; i++)		// Perform visit on undiscovered edges
 		{
 			if (u[i].color == "white")
+			{
 				DFSVISIT(&u[i]);
+			}
 		}
 
 	}
 
-	void DFSVISIT(List * u)
+	void DFSVISIT(Node * u)
 	{
 		u->color = "gray";
 		time++;
 		u->d = time;
-		Node * vee = u->head;
-		int count = 0;
-		do
+		Edge * edge = u->head;
+
+		if (edge != NULL)
 		{
-			List node = u[count];
-			while (node.name != vee->loser && count < v)
+			do
 			{
-				count++;
-				node = u[count];
-			}
-			if (node.color == "white")
-			{
-				node.parent = u;
-				DFSVISIT(&node);
-			}
-		} while (vee->next != NULL);
+				int count = 0;
+				Node * vee = &array[0];
+				while (vee->name != edge->loser)
+				{
+					count++;
+					vee = &array[count];
+				}
+				if (vee->color == "white")
+				{
+					vee->parent = u;
+					DFSVISIT(vee);
+				}
+				edge = edge->next;
+			} while (edge != NULL);
+		}
+
+		cout << "check";
+
 		u->color = "black";
 		time++;
 		u->f = time;
 	}
 
-	void deleteList()
+	void deleteNode()
 	{
 	}
+
 
 };
