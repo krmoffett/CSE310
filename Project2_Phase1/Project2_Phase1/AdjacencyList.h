@@ -61,7 +61,7 @@ public:
 	{
 		this->v = v;
 		array = new List[v];
-		for (int i = 0; i < v; ++i)
+		for (int i = 0; i < v; i++)
 		{
 			array[i].head = NULL;
 			array[i].name = names[i];
@@ -75,7 +75,7 @@ public:
 		newNode->score = score;
 		newNode->next = NULL;
 		int count = 0;
-		while (array[count].name != winner || count < v)
+		while (array[count].name != winner && count < v)
 			count++;
 		if (count >= v)
 			cout << "cannot find source";

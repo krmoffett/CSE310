@@ -17,7 +17,7 @@ int main(int argc, char *argv[])
 	string command, fill, start, finish, edge, winner, wScore, loser, lScore;
 	int begin, end;
 	Graph g1;
-	bool nameInArray(string name, string array[]);
+	bool nameInArray(string name, string array[], int size);
 	void sortArray(string names[], int size);
 
 	while (command != "quit")
@@ -49,7 +49,8 @@ int main(int argc, char *argv[])
 				begin = stoi(start);
 				end = stoi(finish);
 				numEdges = end - begin + 1;
-				string nodes[100], nameStage;
+				string * nodes = new string[numEdges];
+				string nameStage;
 				string text[100];
 
 				//	EXTRACT NODE NAMES
@@ -57,25 +58,29 @@ int main(int argc, char *argv[])
 				{
 					getline(edgesFile, fill);
 				}
+
 				int index = 0;
 				for (int i = begin; i <= end; i++)
 				{
 
 					getline(edgesFile, nameStage, ',');
-					if (nameInArray(nameStage, nodes) == false)
+					if (nameInArray(nameStage, nodes, numEdges) == false)
 					{
 						nodes[index] = nameStage;
 						index++;
 					}
-					else
-						end--;
+					/*else
+						end--;*/
+
 					getline(edgesFile, fill);
 				}
 				string * nodesToInsert = new string[index];
+				
 				for (int i = 0; i < index; i++)
 				{
 					nodesToInsert[i] = nodes[i];
 				}
+				
 				sortArray(nodesToInsert, index);
 				g1.buildGraph(index, nodesToInsert);
 				// EXTRACT EDGES
@@ -104,9 +109,9 @@ int main(int argc, char *argv[])
 	return 0;
 }
 
-bool nameInArray(string name, string array[])
+bool nameInArray(string name, string array[], int size)
 {
-	for (int i = 0; i < 100; i++)
+	for (int i = 0; i < size; i++)
 	{
 		if (name == array[i])
 			return true;
