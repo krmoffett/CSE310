@@ -11,6 +11,7 @@ using namespace std;
 struct Node {
 	string loser;
 	string score;
+	string color;
 	Node * next;
 	void printNode()
 	{
@@ -125,6 +126,18 @@ public:
 			array[i].head = NULL;
 			array[i].name = names[i];
 		}
+	}
+
+	void DFS()
+	{
+		string * pi = new string[v];
+		int * disc = new int[v];
+		int * fin = new int[v];
+		int index = 0;
+
+		array[index].head->color = "white";
+		pi[index] = array[index].head->loser;
+
 	}
 
 	void deleteList()

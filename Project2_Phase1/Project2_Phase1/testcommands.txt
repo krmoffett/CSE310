@@ -1,4 +1,7 @@
 print_graph
-graph,0,13
+graph,0,10
+print_graph
+end_graph
+graph,2,25
 print_graph
 quit
