@@ -35,7 +35,7 @@ int main(int argc, char *argv[])
 		}
 		else if (command == "depth_first_search")	// DFS COMMAND
 		{
-
+			g1.DFS();
 		}
 		else		// GRAPH COMMAND
 		{

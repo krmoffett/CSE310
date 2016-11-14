@@ -11,7 +11,6 @@ using namespace std;
 struct Node {
 	string loser;
 	string score;
-	string color;
 	Node * next;
 	void printNode()
 	{
@@ -24,6 +23,9 @@ struct Node {
 
 struct List {
 	string name;
+	string color;
+	List * parent;
+	int d, f;
 	Node * head;
 	List()
 	{
@@ -52,6 +54,7 @@ class Graph
 private:
 	int v;
 	List * array;
+	int time;
 public:
 	Graph()
 	{
@@ -130,14 +133,46 @@ public:
 
 	void DFS()
 	{
-		string * pi = new string[v];
-		int * disc = new int[v];
-		int * fin = new int[v];
-		int index = 0;
+		List * u = array;
+		for (int i = 0; i < v; i++)		// Initialize all nodes to white and NULL parent
+		{
+			u[i].color = "white";
+			u[i].parent = NULL;
+		}
 
-		array[index].head->color = "white";
-		pi[index] = array[index].head->loser;
+		time = 0;
+		for (int i = 0; i < v; i++)		// Perform visit on undiscovered edges
+		{
+			if (u[i].color == "white")
+				DFSVISIT(&u[i]);
+		}
 
+	}
+
+	void DFSVISIT(List * u)
+	{
+		u->color = "gray";
+		time++;
+		u->d = time;
+		Node * vee = u->head;
+		int count = 0;
+		do
+		{
+			List node = u[count];
+			while (node.name != vee->loser && count < v)
+			{
+				count++;
+				node = u[count];
+			}
+			if (node.color == "white")
+			{
+				node.parent = u;
+				DFSVISIT(&node);
+			}
+		} while (vee->next != NULL);
+		u->color = "black";
+		time++;
+		u->f = time;
 	}
 
 	void deleteList()
