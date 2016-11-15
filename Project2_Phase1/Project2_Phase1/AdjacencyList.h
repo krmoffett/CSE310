@@ -82,7 +82,7 @@ public:
 		time = 0;
 	}
 
-	void addEdge(string winner, string loser, string score) // Add edge pointing away from winner towards loser
+	void graphInsertEdge(string winner, string loser, string score) // Add edge pointing away from winner towards loser
 	{
 		Edge * newEdge = new Edge;
 		newEdge->loser = loser;
@@ -131,7 +131,7 @@ public:
 		}
 	}
 
-	void buildGraph(int v, string names[]) // Adds nodes to graph structure
+	void graphInsertNode(int v, string names[]) // Adds nodes to graph structure
 	{
 		this->v = v;
 		array = new Node[v];
@@ -142,7 +142,7 @@ public:
 		}
 	}
 
-	void DFS() // Depth First Search
+	void depthFirstSearch() // Depth First Search
 	{
 		Node * u = array;
 		for (int i = 0; i < v; i++)		// Initialize all Edges to white and NULL parent

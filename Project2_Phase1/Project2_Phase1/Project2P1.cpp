@@ -18,7 +18,7 @@ int main(int argc, char *argv[])
 	int begin, end;
 	Graph g1;
 	bool nameInArray(string name, string array[], int size);
-	void sortArray(string names[], int size);
+	void alphaArray(string names[], int size);
 
 	while (command != "quit")
 	{
@@ -35,7 +35,7 @@ int main(int argc, char *argv[])
 		}
 		else if (command == "depth_first_search")	// DFS COMMAND
 		{
-			g1.DFS();
+			g1.depthFirstSearch();
 		}
 		else		// GRAPH COMMAND
 		{
@@ -91,8 +91,8 @@ int main(int argc, char *argv[])
 					EdgesToInsert[i] = nodeNames[i];
 				}
 				
-				sortArray(EdgesToInsert, index);
-				g1.buildGraph(index, EdgesToInsert);
+				alphaArray(EdgesToInsert, index);
+				g1.graphInsertNode(index, EdgesToInsert);
 
 				// EXTRACT EDGES
 				edgesFile.clear();
@@ -111,7 +111,7 @@ int main(int argc, char *argv[])
 						getline(edgesFile, lScore);
 
 						string scoreStr = "(" + wScore + "-" + lScore + ")";
-						g1.addEdge(winner, loser, scoreStr);
+						g1.graphInsertEdge(winner, loser, scoreStr);
 					}
 				}
 			}
@@ -131,24 +131,19 @@ bool nameInArray(string name, string array[], int size) // Check if a name is al
 	return false;
 }
 
-void sortArray(string names[], int size) // Sort array alphabetically
+void alphaArray(string names[], int size) // Sort array alphabetically
 {
-
 	bool check;
-
 	do
 	{
 		check = 0;
-		for (int count = 0; count < (size - 1); count++)
+		for (int i = 0; i < (size - 1); i++)
 		{
-			if (names[count] > names[count + 1])
+			if (names[i] > names[i + 1])
 			{
-				names[count].swap(names[count + 1]);
+				names[i].swap(names[i + 1]);
 				check = 1;
-
 			}
-
 		}
-
 	} while (check == 1);
 }
