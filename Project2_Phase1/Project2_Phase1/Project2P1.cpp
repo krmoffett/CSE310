@@ -23,7 +23,7 @@ int main(int argc, char *argv[])
 	while (command != "quit")
 	{
 		getline(commandsFile, command);
-		cout << "next command: " << command << endl;
+		cout << "\nnext command: " << command << endl;
 
 		if (command == "print_graph")	// PRINT COMAND
 		{
@@ -31,7 +31,7 @@ int main(int argc, char *argv[])
 		}
 		else if (command == "end_graph")	// FREE MEMORY
 		{
-
+			g1.~Graph();
 		}
 		else if (command == "depth_first_search")	// DFS COMMAND
 		{
@@ -54,6 +54,8 @@ int main(int argc, char *argv[])
 				string text[100];
 
 				//	EXTRACT NODE NAMES
+				edgesFile.clear();
+				edgesFile.seekg(0, ios::beg);
 				for (int i = 0; i < begin; i++)
 				{
 					getline(edgesFile, fill);
@@ -62,22 +64,24 @@ int main(int argc, char *argv[])
 				int index = 0;
 				for (int i = begin; i <= end; i++)
 				{
-
-					getline(edgesFile, nameStage1, ',');
-					getline(edgesFile, fill, ',');
-					getline(edgesFile, nameStage2, ',');
-					if (nameInArray(nameStage1, nodeNames, index) == false)
+					if (edgesFile.eof() == false)
 					{
-						nodeNames[index] = nameStage1;
-						index++;
-					}
-					if (nameInArray(nameStage2, nodeNames, index) == false)
-					{
-						nodeNames[index] = nameStage2;
-						index++;
-					}
+						getline(edgesFile, nameStage1, ',');
+						getline(edgesFile, fill, ',');
+						getline(edgesFile, nameStage2, ',');
+						if (nameInArray(nameStage1, nodeNames, index) == false)
+						{
+							nodeNames[index] = nameStage1;
+							index++;
+						}
+						if (nameInArray(nameStage2, nodeNames, index) == false)
+						{
+							nodeNames[index] = nameStage2;
+							index++;
+						}
 
-					getline(edgesFile, fill);
+						getline(edgesFile, fill);
+					}
 				}
 				string * EdgesToInsert = new string[index];
 				
@@ -98,23 +102,20 @@ int main(int argc, char *argv[])
 				}
 				for (int i = begin; i <= end; i++)
 				{
-					getline(edgesFile, winner, ',');
-					getline(edgesFile, wScore, ',');
-					getline(edgesFile, loser, ',');
-					getline(edgesFile, lScore);
+					if (edgesFile.eof() == false)
+					{
+						getline(edgesFile, winner, ',');
+						getline(edgesFile, wScore, ',');
+						getline(edgesFile, loser, ',');
+						getline(edgesFile, lScore);
 
-					string scoreStr = "(" + wScore + "-" + lScore + ")";
-					g1.addEdge(winner, loser, scoreStr);
+						string scoreStr = "(" + wScore + "-" + lScore + ")";
+						g1.addEdge(winner, loser, scoreStr);
+					}
 				}
 			}
 		}
 	}
-	
-	
-
-	
-
-
 	system("pause");
 	return 0;
 }

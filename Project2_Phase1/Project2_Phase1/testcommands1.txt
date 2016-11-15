@@ -1,0 +1,8 @@
+print_graph
+graph,2,13
+print_graph
+depth_first_search
+end_graph
+graph,0,25
+print_graph
+quit

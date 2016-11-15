@@ -18,6 +18,10 @@ struct Edge {
 		if (next != NULL)
 			cout << ", ";
 	}
+	void printName()
+	{
+		cout << loser << endl;
+	}
 
 };
 
@@ -71,6 +75,12 @@ public:
 			array[i].name = names[i];
 		}
 	}
+	~Graph()
+	{
+		v = 0;
+		delete[] array;
+		time = 0;
+	}
 
 	void addEdge(string winner, string loser, string score)
 	{
@@ -108,6 +118,7 @@ public:
 
 	void printGraph()
 	{
+		cout << "\nGraph (Adjacency Node) contents\n" << endl;
 		if (v == 0)
 			cout << "graph is empty" << endl;
 		else
@@ -149,7 +160,9 @@ public:
 				DFSVISIT(&u[i]);
 			}
 		}
-
+		printPi();
+		printD();
+		printF();
 	}
 
 	void DFSVISIT(Node * u)
@@ -183,10 +196,34 @@ public:
 		time++;
 		u->f = time;
 	}
-
-	void deleteNode()
+	void printPi()
 	{
+		cout << "\nThe array pi contents:\n" << endl;
+		for (int i = 0; i < v; i++)
+		{
+			cout << "pi[" << array[i].name << "] = ";
+			if (array[i].parent == NULL)
+				cout << "none" << endl;
+			else
+				cout << array[i].parent->name << endl;
+		}
 	}
 
+	void printD()
+	{
+		cout << "\nThe array discoverTime contents:\n" << endl;
+		for (int i = 0; i < v; i++)
+		{
+			cout << "discoverTime[" << array[i].name << "] = number " << array[i].d << endl;
+		}
+	}
 
+	void printF()
+	{
+		cout << "\nThe array finishTime contents:\n" << endl;
+		for (int i = 0; i < v; i++)
+		{
+			cout << "finishTime[" << array[i].name << "] = number " << array[i].f << endl;
+		}
+	}
 };

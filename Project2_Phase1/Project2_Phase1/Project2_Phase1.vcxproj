@@ -151,6 +151,7 @@
     <Text Include="edges2.txt" />
     <Text Include="output1.txt" />
     <Text Include="testcommands.txt" />
+    <Text Include="testcommands1.txt" />
     <Text Include="testedges.txt" />
   </ItemGroup>
   <ItemGroup>

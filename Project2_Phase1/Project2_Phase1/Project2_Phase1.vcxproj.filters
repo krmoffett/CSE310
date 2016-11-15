@@ -41,6 +41,9 @@
     <Text Include="testcommands.txt">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="testcommands1.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AdjacencyList.h">
