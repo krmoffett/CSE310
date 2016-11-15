@@ -46,8 +46,10 @@ int main(int argc, char *argv[])
 			{
 				getline(ss, start, ',');
 				getline(ss, finish);
-				begin = stoi(start);
-				end = stoi(finish);
+				istringstream(start) >> begin;
+				istringstream(finish) >> end;
+				//begin = stoi(start);
+				//end = stoi(finish);
 				numEdges = end - begin + 1;
 				string * nodeNames = new string[10000];
 				string nameStage1, nameStage2;
