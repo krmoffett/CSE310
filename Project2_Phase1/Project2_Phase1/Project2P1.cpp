@@ -49,11 +49,11 @@ int main(int argc, char *argv[])
 				begin = stoi(start);
 				end = stoi(finish);
 				numEdges = end - begin + 1;
-				string * Edges = new string[numEdges];
+				string * nodeNames = new string[100];
 				string nameStage1, nameStage2;
 				string text[100];
 
-				//	EXTRACT Edge NAMES
+				//	EXTRACT NODE NAMES
 				for (int i = 0; i < begin; i++)
 				{
 					getline(edgesFile, fill);
@@ -66,21 +66,15 @@ int main(int argc, char *argv[])
 					getline(edgesFile, nameStage1, ',');
 					getline(edgesFile, fill, ',');
 					getline(edgesFile, nameStage2, ',');
-					if (nameInArray(nameStage1, Edges, index) == false)
+					if (nameInArray(nameStage1, nodeNames, index) == false)
 					{
-						Edges[index] = nameStage1;
+						nodeNames[index] = nameStage1;
 						index++;
 					}
-					if (nameInArray(nameStage2, Edges, index) == false)
+					if (nameInArray(nameStage2, nodeNames, index) == false)
 					{
-						Edges[index] = nameStage2;
+						nodeNames[index] = nameStage2;
 						index++;
-						string * temp = new string[numEdges + 1];
-						for (int i = 0; i < numEdges; i++)
-						{
-							temp[i] = Edges[i];
-						}
-						Edges = temp;
 					}
 
 					getline(edgesFile, fill);
@@ -89,7 +83,7 @@ int main(int argc, char *argv[])
 				
 				for (int i = 0; i < index; i++)
 				{
-					EdgesToInsert[i] = Edges[i];
+					EdgesToInsert[i] = nodeNames[i];
 				}
 				
 				sortArray(EdgesToInsert, index);
@@ -98,7 +92,11 @@ int main(int argc, char *argv[])
 				// EXTRACT EDGES
 				edgesFile.clear();
 				edgesFile.seekg(0, ios::beg);
-				for (int i = 0; i < numEdges; i++)
+				for (int i = 0; i < begin; i++)
+				{
+					getline(edgesFile, fill);
+				}
+				for (int i = begin; i <= end; i++)
 				{
 					getline(edgesFile, winner, ',');
 					getline(edgesFile, wScore, ',');

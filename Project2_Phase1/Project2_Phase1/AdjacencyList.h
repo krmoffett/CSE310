@@ -179,8 +179,6 @@ public:
 			} while (edge != NULL);
 		}
 
-		cout << "check";
-
 		u->color = "black";
 		time++;
 		u->f = time;

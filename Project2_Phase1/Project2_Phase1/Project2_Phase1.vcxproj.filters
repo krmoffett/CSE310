@@ -35,10 +35,10 @@
     <Text Include="output1.txt">
       <Filter>Resource Files</Filter>
     </Text>
-    <Text Include="testcommands.txt">
+    <Text Include="testedges.txt">
       <Filter>Resource Files</Filter>
     </Text>
-    <Text Include="testedges.txt">
+    <Text Include="testcommands.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
