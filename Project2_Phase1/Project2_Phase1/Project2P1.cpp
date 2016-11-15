@@ -1,7 +1,7 @@
 // Project 2 Phase 1
 // Name: Kyle Moffett
 // ASU Email Address: krmoffet@asu.edu
-// Description:
+// Description: Driver file for Adjacency List. Takes arguments for 2 file names.
 
 #include <iostream>	
 #include <string>
@@ -49,9 +49,8 @@ int main(int argc, char *argv[])
 				begin = stoi(start);
 				end = stoi(finish);
 				numEdges = end - begin + 1;
-				string * nodeNames = new string[100];
+				string * nodeNames = new string[10000];
 				string nameStage1, nameStage2;
-				string text[100];
 
 				//	EXTRACT NODE NAMES
 				edgesFile.clear();
@@ -120,7 +119,7 @@ int main(int argc, char *argv[])
 	return 0;
 }
 
-bool nameInArray(string name, string array[], int size)
+bool nameInArray(string name, string array[], int size) // Check if a name is already within a given array
 {
 	for (int i = 0; i < size; i++)
 	{
@@ -130,24 +129,24 @@ bool nameInArray(string name, string array[], int size)
 	return false;
 }
 
-void sortArray(string names[], int size)
+void sortArray(string names[], int size) // Sort array alphabetically
 {
 
-	bool flag;
+	bool check;
 
 	do
 	{
-		flag = 0;
+		check = 0;
 		for (int count = 0; count < (size - 1); count++)
 		{
 			if (names[count] > names[count + 1])
 			{
 				names[count].swap(names[count + 1]);
-				flag = 1;
+				check = 1;
 
 			}
 
 		}
 
-	} while (flag == 1);
+	} while (check == 1);
 }

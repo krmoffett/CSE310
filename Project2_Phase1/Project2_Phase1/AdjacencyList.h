@@ -1,7 +1,7 @@
 // Project 2 Phase 1
 // Name: Kyle Moffett
 // ASU Email Address: krmoffet@asu.edu
-// Description:
+// Description: Defines the Graph class with structs for nodes and edges
 
 #include <iostream>
 #include <string>
@@ -60,12 +60,12 @@ private:
 	Node * array;
 	int time;
 public:
-	Graph()
+	Graph()		// Constructor
 	{
 		v = 0;
 		array = NULL;
 	}
-	Graph(int v, string names[])
+	Graph(int v, string names[])	// Overloaded Constructor
 	{
 		this->v = v;
 		array = new Node[v];
@@ -75,14 +75,14 @@ public:
 			array[i].name = names[i];
 		}
 	}
-	~Graph()
+	~Graph()	// Destructor
 	{
 		v = 0;
 		delete[] array;
 		time = 0;
 	}
 
-	void addEdge(string winner, string loser, string score)
+	void addEdge(string winner, string loser, string score) // Add edge pointing away from winner towards loser
 	{
 		Edge * newEdge = new Edge;
 		newEdge->loser = loser;
@@ -131,7 +131,7 @@ public:
 		}
 	}
 
-	void buildGraph(int v, string names[])
+	void buildGraph(int v, string names[]) // Adds nodes to graph structure
 	{
 		this->v = v;
 		array = new Node[v];
@@ -142,7 +142,7 @@ public:
 		}
 	}
 
-	void DFS()
+	void DFS() // Depth First Search
 	{
 		Node * u = array;
 		for (int i = 0; i < v; i++)		// Initialize all Edges to white and NULL parent
@@ -165,7 +165,7 @@ public:
 		printF();
 	}
 
-	void DFSVISIT(Node * u)
+	void DFSVISIT(Node * u)		// Helper function for DFS
 	{
 		u->color = "gray";
 		time++;
@@ -196,7 +196,8 @@ public:
 		time++;
 		u->f = time;
 	}
-	void printPi()
+
+	void printPi()	// Prints the array of pi values for each node
 	{
 		cout << "\nThe array pi contents:\n" << endl;
 		for (int i = 0; i < v; i++)
@@ -209,7 +210,7 @@ public:
 		}
 	}
 
-	void printD()
+	void printD()	// Prints the discover time for each node
 	{
 		cout << "\nThe array discoverTime contents:\n" << endl;
 		for (int i = 0; i < v; i++)
@@ -218,7 +219,7 @@ public:
 		}
 	}
 
-	void printF()
+	void printF()	// Prints the finish time for each node
 	{
 		cout << "\nThe array finishTime contents:\n" << endl;
 		for (int i = 0; i < v; i++)

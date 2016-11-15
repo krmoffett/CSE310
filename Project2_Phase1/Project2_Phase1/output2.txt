@@ -1,0 +1,2725 @@
+
+next command: graph,500,900
+
+next command: print_graph
+
+Graph (Adjacency Node) contents
+
+Air Force beat: Army(23-6), Colorado State(27-24), Nevada(45-38), Nevada-Las Vegas(48-21), Western Michigan(38-24)
+
+Akron beat: Massachusetts(30-6)
+
+Alabama beat: Auburn(55-44), Louisiana State(20-13), Mississippi State(25-20), Missouri(42-13), Western Carolina(48-14)
+
+Alabama-Birmingham beat: Florida Atlantic(31-28), Southern Mississippi(45-24)
+
+Appalachian State beat: Arkansas State(37-32), Georgia State(44-0), Idaho(45-28), Louisiana-Lafayette(35-16), Louisiana-Monroe(31-29)
+
+Arizona beat: Arizona State(42-35), Colorado(38-20), Utah(42-10), Washington(27-26)
+
+Arizona State beat: Duke(36-31), Notre Dame(55-31), Utah(19-16), Washington(24-10), Washington State(52-31)
+
+Arkansas beat: Alabama-Birmingham(45-17), Louisiana State(17-0), Mississippi(30-0), Texas(31-7)
+
+Arkansas State beat: Idaho(44-28), New Mexico State(68-35), South Alabama(45-10)
+
+Army beat: Connecticut(35-21), Fordham(42-31)
+
+Auburn beat: Mississippi(35-31), Samford(31-7), South Carolina(42-35)
+
+Ball State beat: Akron(35-21), Bowling Green State(41-24), Eastern Michigan(45-30)
+
+Baylor beat: Kansas(60-14), Kansas State(38-27), Oklahoma(48-14), Oklahoma State(49-28), Texas Tech(48-46)
+
+Boise State beat: Arizona(38-30), Fresno State(28-14), New Mexico(60-49), San Diego State(38-29), Utah State(50-19), Wyoming(63-14)
+
+Boston College beat: Syracuse(28-7), Virginia Tech(33-31), Wake Forest(23-17)
+
+Bowling Green State beat: Akron(27-10), Kent State(30-20), South Alabama(33-28)
+
+Brigham Young beat: California(42-35), Middle Tennessee State(27-7), Nevada-Las Vegas(42-23), Savannah State(64-0)
+
+Buffalo beat: Akron(55-24), Massachusetts(41-21)
+
+California beat: Oregon State(45-31)
+
+Central Florida beat: East Carolina(32-30), South Florida(16-0), Southern Methodist(53-7), Temple(34-14), Tulsa(31-7)
+
+Central Michigan beat: Buffalo(20-14), Eastern Michigan(38-7), Miami (OH)(34-27)
+
+Charleston Southern beat: none
+
+Cincinnati beat: Connecticut(41-0), East Carolina(54-46), Houston(38-31), Temple(14-6), Tulane(38-14)
+
+Clemson beat: Georgia State(28-0), Oklahoma(40-6), South Carolina(35-17), Syracuse(16-6), Wake Forest(34-20)
+
+Colorado beat: none
+
+Colorado State beat: Hawaii(49-22), New Mexico(58-20), San Jose State(38-31), Wyoming(45-31)
+
+Connecticut beat: Central Florida(37-29)
+
+Duke beat: Pittsburgh(51-48), Syracuse(27-10), Wake Forest(41-21)
+
+East Carolina beat: Tulane(34-6), Tulsa(49-32)
+
+Eastern Kentucky beat: none
+
+Eastern Michigan beat: none
+
+Florida beat: East Carolina(28-20), Eastern Kentucky(52-3), Georgia(38-20), Vanderbilt(34-10)
+
+Florida Atlantic beat: none
+
+Florida International beat: Middle Tennessee State(38-28)
+
+Florida State beat: Boston College(20-17), Florida(24-19), Georgia Tech(37-35), Louisville(42-31), Miami (FL)(30-26), Virginia(34-20)
+
+Fordham beat: none
+
+Fresno State beat: Hawaii(28-21), Nevada(40-20), San Jose State(38-24)
+
+Georgia beat: Auburn(34-7), Charleston Southern(55-9), Kentucky(63-31), Louisville(37-14)
+
+Georgia Southern beat: Georgia State(69-31), Louisiana-Monroe(22-16), Texas State(28-25), Troy(42-10)
+
+Georgia State beat: none
+
+Georgia Tech beat: Clemson(28-6), Georgia(30-24), Mississippi State(49-34), North Carolina State(56-23), Pittsburgh(56-28), Virginia(35-10)
+
+Hawaii beat: Nevada-Las Vegas(37-35), San Jose State(13-0)
+
+Houston beat: Pittsburgh(35-34), South Florida(27-3), Southern Methodist(35-9), Tulsa(38-28)
+
+Idaho beat: none
+
+Illinois beat: Minnesota(28-24), Northwestern(47-33), Penn State(16-14)
+
+Indiana beat: Purdue(23-16)
+
+Iowa beat: Illinois(30-14), Northwestern(48-7)
+
+Iowa State beat: none
+
+Kansas beat: Iowa State(34-14)
+
+Kansas State beat: Kansas(51-13), Oklahoma State(48-14), Texas(23-0), West Virginia(26-20)
+
+Kent State beat: Akron(27-24)
+
+Kentucky beat: none
+
+Louisiana State beat: Mississippi(10-7), Texas A&M(23-17)
+
+Louisiana Tech beat: Alabama-Birmingham(40-24), Illinois(35-18), Rice(76-31), Southern Mississippi(31-20), Western Kentucky(59-10)
+
+Louisiana-Lafayette beat: Louisiana-Monroe(34-27), Nevada(16-3), New Mexico State(44-16), South Alabama(19-9), Troy(42-23)
+
+Louisiana-Monroe beat: New Mexico State(30-17)
+
+Louisville beat: Boston College(38-19), Kentucky(44-40), Notre Dame(31-28)
+
+Marshall beat: Alabama-Birmingham(23-18), Florida Atlantic(35-16), Louisiana Tech(26-23), Northern Illinois(52-23), Rice(41-14), Southern Mississippi(63-17)
+
+Maryland beat: Michigan(23-16), Penn State(20-19)
+
+Massachusetts beat: Ball State(24-10)
+
+Memphis beat: Brigham Young(55-48), Connecticut(41-10), South Florida(31-20), Southern Methodist(48-10), Temple(16-13), Tulane(38-7), Tulsa(40-20)
+
+Miami (FL) beat: North Carolina(47-20)
+
+Miami (OH) beat: Kent State(10-3)
+
+Michigan beat: Indiana(34-10), Northwestern(10-9)
+
+Michigan State beat: Baylor(42-41), Maryland(37-15), Michigan(35-11), Penn State(34-10), Rutgers(45-3)
+
+Middle Tennessee State beat: Florida Atlantic(35-34)
+
+Minnesota beat: Iowa(51-14), Nebraska(28-24)
+
+Mississippi beat: Mississippi State(31-17), Presbyterian(48-0)
+
+Mississippi State beat: Arkansas(17-10), Kentucky(45-31), Tennessee-Martin(45-16), Vanderbilt(51-0)
+
+Missouri beat: Arkansas(21-14), Kentucky(20-10), Minnesota(33-17), Tennessee(29-21), Texas A&M(34-27), Vanderbilt(24-14)
+
+Navy beat: Army(17-10), Georgia Southern(52-19), San Diego State(17-16), San Jose State(41-31), South Alabama(42-40)
+
+Nebraska beat: Iowa(37-34), Purdue(35-14), Rutgers(42-24)
+
+Nevada beat: Hawaii(26-18), Nevada-Las Vegas(49-27), San Diego State(30-14)
+
+Nevada-Las Vegas beat: none
+
+New Mexico beat: Nevada-Las Vegas(31-28), Wyoming(36-30)
+
+New Mexico State beat: none
+
+North Carolina beat: Duke(45-20), Pittsburgh(40-35), Virginia(28-27)
+
+North Carolina State beat: Central Florida(34-27), North Carolina(35-7), Syracuse(24-17), Wake Forest(42-13)
+
+North Texas beat: Florida Atlantic(31-10), Florida International(17-14)
+
+Northern Illinois beat: Ball State(35-21), Bowling Green State(51-17), Eastern Michigan(28-17), Ohio(21-14), Toledo(27-24), Western Michigan(31-21)
+
+Northwestern beat: Notre Dame(43-40), Notre Dame(43-40), Notre Dame(43-40), Purdue(38-14)
+
+Notre Dame beat: Louisiana State(31-28), Navy(49-39)
+
+Ohio beat: Buffalo(37-14), Miami (OH)(24-21)
+
+Ohio State beat: Alabama(42-35), Illinois(55-14), Indiana(42-27), Michigan(42-28), Michigan State(49-37), Minnesota(31-24), Oregon(42-20), Penn State(31-24), Wisconsin(59-0)
+
+Oklahoma beat: Iowa State(59-14), Kansas(44-7), Texas Tech(42-30)
+
+Oklahoma State beat: Oklahoma(38-35), Washington(30-22)
+
+Old Dominion beat: Florida Atlantic(31-28), Florida International(38-35), Louisiana Tech(30-27)
+
+Oregon beat: Arizona(51-13), Colorado(44-10), Florida State(59-20), Oregon State(47-19), Stanford(45-16), Utah(51-27)
+
+Oregon State beat: Arizona State(35-27)
+
+Penn State beat: Boston College(31-30), Indiana(13-7), Temple(30-13)
+
+Pittsburgh beat: Miami (FL)(35-23), Syracuse(30-7)
+
+Presbyterian beat: none
+
+Purdue beat: none
+
+Rice beat: Florida International(31-17), Fresno State(30-6), North Texas(41-21), Texas-El Paso(31-13), Texas-San Antonio(17-7)
+
+Rutgers beat: Indiana(45-23), Maryland(41-38), North Carolina(40-21)
+
+Samford beat: none
+
+San Diego State beat: Air Force(30-14), Idaho(35-21), San Jose State(38-7)
+
+San Jose State beat: none
+
+Savannah State beat: none
+
+South Alabama beat: Texas State(24-20)
+
+South Carolina beat: Florida(23-20), Miami (FL)(24-21), South Alabama(37-12)
+
+South Florida beat: Southern Methodist(14-13)
+
+Southern California beat: California(38-30), Nebraska(45-42), Notre Dame(49-14), Washington State(44-17)
+
+Southern Methodist beat: Connecticut(27-20)
+
+Southern Mississippi beat: none
+
+Stanford beat: California(38-17), Maryland(45-21), Oregon State(38-14), UCLA(31-10)
+
+Syracuse beat: none
+
+Temple beat: East Carolina(20-10), Tulane(10-3)
+
+Tennessee beat: Iowa(45-28), Kentucky(50-16), South Carolina(45-42), Vanderbilt(24-17)
+
+Tennessee-Martin beat: none
+
+Texas beat: Oklahoma State(28-7), Texas Tech(34-13), West Virginia(33-16)
+
+Texas A&M beat: Auburn(41-38), Louisiana-Monroe(21-16), West Virginia(45-37)
+
+Texas Christian beat: Iowa State(55-3), Kansas(34-30), Kansas State(41-20), Mississippi(42-3), Texas(48-10), Texas Tech(82-27), West Virginia(31-30)
+
+Texas State beat: Arkansas State(45-27), Georgia State(54-31), Louisiana-Monroe(22-18), New Mexico State(37-29)
+
+Texas Tech beat: Iowa State(34-31)
+
+Texas-El Paso beat: Middle Tennessee State(24-21), North Texas(35-17), Southern Mississippi(35-14), Texas-San Antonio(34-0)
+
+Texas-San Antonio beat: North Texas(34-27), Southern Mississippi(12-10)
+
+Toledo beat: Arkansas State(63-44), Bowling Green State(27-20), Eastern Michigan(52-16), Kent State(30-20), Massachusetts(42-35)
+
+Troy beat: Georgia State(45-21), Idaho(34-17)
+
+Tulane beat: Houston(31-24)
+
+Tulsa beat: Southern Methodist(38-28)
+
+UCLA beat: Arizona(17-7), Colorado(40-37), Kansas State(40-35), Southern California(38-20), Washington(44-30)
+
+Utah beat: Colorado(38-34), Colorado State(45-10), Southern California(24-21), Stanford(20-17)
+
+Utah State beat: Hawaii(35-14), Nevada-Las Vegas(34-20), New Mexico(28-21), San Jose State(41-7), Texas-El Paso(21-6), Wyoming(20-3)
+
+Vanderbilt beat: Old Dominion(42-28)
+
+Virginia beat: Miami (FL)(30-13)
+
+Virginia Tech beat: Cincinnati(33-17), Duke(17-16), Virginia(24-20)
+
+Wake Forest beat: Virginia Tech(6-3)
+
+Washington beat: Colorado(38-23), Oregon State(37-13), Washington State(31-13)
+
+Washington State beat: Oregon State(39-32)
+
+West Virginia beat: Iowa State(37-24), Oklahoma State(34-10)
+
+Western Carolina beat: none
+
+Western Kentucky beat: Army(52-24), Central Michigan(49-48), Marshall(67-66), Old Dominion(66-51), Texas-El Paso(35-27), Texas-San Antonio(45-7)
+
+Western Michigan beat: Central Michigan(32-20), Eastern Michigan(51-7), Miami (OH)(41-10), Ohio(42-21)
+
+Wisconsin beat: Auburn(34-31), Iowa(26-24), Maryland(52-7), Minnesota(34-24), Nebraska(59-24), Purdue(34-16), Rutgers(37-0)
+
+Wyoming beat: Fresno State(45-17)
+
+
+next command: depth_first_search
+
+The array pi contents:
+
+pi[Air Force] = none
+pi[Akron] = Buffalo
+pi[Alabama] = none
+pi[Alabama-Birmingham] = Arkansas
+pi[Appalachian State] = none
+pi[Arizona] = UCLA
+pi[Arizona State] = Oregon State
+pi[Arkansas] = Mississippi State
+pi[Arkansas State] = Texas State
+pi[Army] = Air Force
+pi[Auburn] = Alabama
+pi[Ball State] = Massachusetts
+pi[Baylor] = none
+pi[Boise State] = none
+pi[Boston College] = Penn State
+pi[Bowling Green State] = Ball State
+pi[Brigham Young] = none
+pi[Buffalo] = Central Michigan
+pi[California] = Southern California
+pi[Central Florida] = Connecticut
+pi[Central Michigan] = Western Michigan
+pi[Charleston Southern] = Georgia
+pi[Cincinnati] = Virginia Tech
+pi[Clemson] = none
+pi[Colorado] = Washington
+pi[Colorado State] = Air Force
+pi[Connecticut] = Army
+pi[Duke] = North Carolina
+pi[East Carolina] = Central Florida
+pi[Eastern Kentucky] = Florida
+pi[Eastern Michigan] = Ball State
+pi[Florida] = South Carolina
+pi[Florida Atlantic] = Alabama-Birmingham
+pi[Florida International] = Old Dominion
+pi[Florida State] = none
+pi[Fordham] = Army
+pi[Fresno State] = Wyoming
+pi[Georgia] = Florida
+pi[Georgia Southern] = Navy
+pi[Georgia State] = Texas State
+pi[Georgia Tech] = Florida State
+pi[Hawaii] = Colorado State
+pi[Houston] = Tulane
+pi[Idaho] = San Diego State
+pi[Illinois] = Iowa
+pi[Indiana] = Penn State
+pi[Iowa] = Nebraska
+pi[Iowa State] = West Virginia
+pi[Kansas] = Oklahoma
+pi[Kansas State] = UCLA
+pi[Kent State] = Bowling Green State
+pi[Kentucky] = Mississippi State
+pi[Louisiana State] = Arkansas
+pi[Louisiana Tech] = Old Dominion
+pi[Louisiana-Lafayette] = Appalachian State
+pi[Louisiana-Monroe] = Texas State
+pi[Louisville] = Georgia
+pi[Marshall] = Western Kentucky
+pi[Maryland] = Rutgers
+pi[Massachusetts] = Akron
+pi[Memphis] = none
+pi[Miami (FL)] = Pittsburgh
+pi[Miami (OH)] = Central Michigan
+pi[Michigan] = Maryland
+pi[Michigan State] = none
+pi[Middle Tennessee State] = Florida International
+pi[Minnesota] = Illinois
+pi[Mississippi] = Auburn
+pi[Mississippi State] = Mississippi
+pi[Missouri] = Alabama
+pi[Navy] = Notre Dame
+pi[Nebraska] = Southern California
+pi[Nevada] = Fresno State
+pi[Nevada-Las Vegas] = Hawaii
+pi[New Mexico] = Colorado State
+pi[New Mexico State] = Arkansas State
+pi[North Carolina] = Miami (FL)
+pi[North Carolina State] = Georgia Tech
+pi[North Texas] = Rice
+pi[Northern Illinois] = Marshall
+pi[Northwestern] = Illinois
+pi[Notre Dame] = Arizona State
+pi[Ohio] = Western Michigan
+pi[Ohio State] = none
+pi[Oklahoma] = Oklahoma State
+pi[Oklahoma State] = West Virginia
+pi[Old Dominion] = Vanderbilt
+pi[Oregon] = Ohio State
+pi[Oregon State] = Washington
+pi[Penn State] = Illinois
+pi[Pittsburgh] = Houston
+pi[Presbyterian] = Mississippi
+pi[Purdue] = Northwestern
+pi[Rice] = Louisiana Tech
+pi[Rutgers] = Nebraska
+pi[Samford] = Auburn
+pi[San Diego State] = Nevada
+pi[San Jose State] = Hawaii
+pi[Savannah State] = Brigham Young
+pi[South Alabama] = Bowling Green State
+pi[South Carolina] = Auburn
+pi[South Florida] = Houston
+pi[Southern California] = Utah
+pi[Southern Methodist] = South Florida
+pi[Southern Mississippi] = Alabama-Birmingham
+pi[Stanford] = Utah
+pi[Syracuse] = Duke
+pi[Temple] = Cincinnati
+pi[Tennessee] = Missouri
+pi[Tennessee-Martin] = Mississippi State
+pi[Texas] = Kansas State
+pi[Texas A&M] = Louisiana State
+pi[Texas Christian] = none
+pi[Texas State] = South Alabama
+pi[Texas Tech] = Oklahoma
+pi[Texas-El Paso] = Rice
+pi[Texas-San Antonio] = Texas-El Paso
+pi[Toledo] = Northern Illinois
+pi[Troy] = Georgia Southern
+pi[Tulane] = East Carolina
+pi[Tulsa] = Houston
+pi[UCLA] = Stanford
+pi[Utah] = Arizona State
+pi[Utah State] = Boise State
+pi[Vanderbilt] = Mississippi State
+pi[Virginia] = Virginia Tech
+pi[Virginia Tech] = Wake Forest
+pi[Wake Forest] = Duke
+pi[Washington] = Oklahoma State
+pi[Washington State] = Southern California
+pi[West Virginia] = Texas A&M
+pi[Western Carolina] = Alabama
+pi[Western Kentucky] = Louisiana Tech
+pi[Western Michigan] = Air Force
+pi[Wisconsin] = Ohio State
+pi[Wyoming] = New Mexico
+
+The array discoverTime contents:
+
+discoverTime[Air Force] = number 1
+discoverTime[Akron] = number 65
+discoverTime[Alabama] = number 97
+discoverTime[Alabama-Birmingham] = number 102
+discoverTime[Appalachian State] = number 239
+discoverTime[Arizona] = number 166
+discoverTime[Arizona State] = number 124
+discoverTime[Arkansas] = number 101
+discoverTime[Arkansas State] = number 73
+discoverTime[Army] = number 2
+discoverTime[Auburn] = number 98
+discoverTime[Ball State] = number 67
+discoverTime[Baylor] = number 243
+discoverTime[Boise State] = number 245
+discoverTime[Boston College] = number 147
+discoverTime[Bowling Green State] = number 68
+discoverTime[Brigham Young] = number 249
+discoverTime[Buffalo] = number 64
+discoverTime[California] = number 135
+discoverTime[Central Florida] = number 4
+discoverTime[Central Michigan] = number 63
+discoverTime[Charleston Southern] = number 224
+discoverTime[Cincinnati] = number 16
+discoverTime[Clemson] = number 253
+discoverTime[Colorado] = number 121
+discoverTime[Colorado State] = number 42
+discoverTime[Connecticut] = number 3
+discoverTime[Duke] = number 11
+discoverTime[East Carolina] = number 5
+discoverTime[Eastern Kentucky] = number 221
+discoverTime[Eastern Michigan] = number 84
+discoverTime[Florida] = number 220
+discoverTime[Florida Atlantic] = number 103
+discoverTime[Florida International] = number 189
+discoverTime[Florida State] = number 255
+discoverTime[Fordham] = number 39
+discoverTime[Fresno State] = number 51
+discoverTime[Georgia] = number 223
+discoverTime[Georgia Southern] = number 127
+discoverTime[Georgia State] = number 77
+discoverTime[Georgia Tech] = number 256
+discoverTime[Hawaii] = number 43
+discoverTime[Houston] = number 7
+discoverTime[Idaho] = number 54
+discoverTime[Illinois] = number 139
+discoverTime[Indiana] = number 149
+discoverTime[Iowa] = number 138
+discoverTime[Iowa State] = number 111
+discoverTime[Kansas] = number 115
+discoverTime[Kansas State] = number 168
+discoverTime[Kent State] = number 69
+discoverTime[Kentucky] = number 183
+discoverTime[Louisiana State] = number 108
+discoverTime[Louisiana Tech] = number 193
+discoverTime[Louisiana-Lafayette] = number 240
+discoverTime[Louisiana-Monroe] = number 79
+discoverTime[Louisville] = number 226
+discoverTime[Marshall] = number 203
+discoverTime[Maryland] = number 155
+discoverTime[Massachusetts] = number 66
+discoverTime[Memphis] = number 261
+discoverTime[Miami (FL)] = number 9
+discoverTime[Miami (OH)] = number 90
+discoverTime[Michigan] = number 156
+discoverTime[Michigan State] = number 263
+discoverTime[Middle Tennessee State] = number 190
+discoverTime[Minnesota] = number 140
+discoverTime[Mississippi] = number 99
+discoverTime[Mississippi State] = number 100
+discoverTime[Missouri] = number 232
+discoverTime[Navy] = number 126
+discoverTime[Nebraska] = number 137
+discoverTime[Nevada] = number 52
+discoverTime[Nevada-Las Vegas] = number 44
+discoverTime[New Mexico] = number 49
+discoverTime[New Mexico State] = number 74
+discoverTime[North Carolina] = number 10
+discoverTime[North Carolina State] = number 257
+discoverTime[North Texas] = number 195
+discoverTime[Northern Illinois] = number 204
+discoverTime[Northwestern] = number 142
+discoverTime[Notre Dame] = number 125
+discoverTime[Ohio] = number 93
+discoverTime[Ohio State] = number 265
+discoverTime[Oklahoma] = number 114
+discoverTime[Oklahoma State] = number 113
+discoverTime[Old Dominion] = number 188
+discoverTime[Oregon] = number 266
+discoverTime[Oregon State] = number 123
+discoverTime[Penn State] = number 146
+discoverTime[Pittsburgh] = number 8
+discoverTime[Presbyterian] = number 214
+discoverTime[Purdue] = number 143
+discoverTime[Rice] = number 194
+discoverTime[Rutgers] = number 154
+discoverTime[Samford] = number 217
+discoverTime[San Diego State] = number 53
+discoverTime[San Jose State] = number 46
+discoverTime[Savannah State] = number 250
+discoverTime[South Alabama] = number 71
+discoverTime[South Carolina] = number 219
+discoverTime[South Florida] = number 28
+discoverTime[Southern California] = number 134
+discoverTime[Southern Methodist] = number 29
+discoverTime[Southern Mississippi] = number 105
+discoverTime[Stanford] = number 164
+discoverTime[Syracuse] = number 12
+discoverTime[Temple] = number 17
+discoverTime[Tennessee] = number 233
+discoverTime[Tennessee-Martin] = number 185
+discoverTime[Texas] = number 169
+discoverTime[Texas A&M] = number 109
+discoverTime[Texas Christian] = number 271
+discoverTime[Texas State] = number 72
+discoverTime[Texas Tech] = number 117
+discoverTime[Texas-El Paso] = number 197
+discoverTime[Texas-San Antonio] = number 198
+discoverTime[Toledo] = number 205
+discoverTime[Troy] = number 128
+discoverTime[Tulane] = number 6
+discoverTime[Tulsa] = number 32
+discoverTime[UCLA] = number 165
+discoverTime[Utah] = number 133
+discoverTime[Utah State] = number 246
+discoverTime[Vanderbilt] = number 187
+discoverTime[Virginia] = number 20
+discoverTime[Virginia Tech] = number 15
+discoverTime[Wake Forest] = number 14
+discoverTime[Washington] = number 120
+discoverTime[Washington State] = number 161
+discoverTime[West Virginia] = number 110
+discoverTime[Western Carolina] = number 236
+discoverTime[Western Kentucky] = number 202
+discoverTime[Western Michigan] = number 62
+discoverTime[Wisconsin] = number 268
+discoverTime[Wyoming] = number 50
+
+The array finishTime contents:
+
+finishTime[Air Force] = number 96
+finishTime[Akron] = number 88
+finishTime[Alabama] = number 238
+finishTime[Alabama-Birmingham] = number 107
+finishTime[Appalachian State] = number 242
+finishTime[Arizona] = number 167
+finishTime[Arizona State] = number 175
+finishTime[Arkansas] = number 182
+finishTime[Arkansas State] = number 76
+finishTime[Army] = number 41
+finishTime[Auburn] = number 231
+finishTime[Ball State] = number 86
+finishTime[Baylor] = number 244
+finishTime[Boise State] = number 248
+finishTime[Boston College] = number 148
+finishTime[Bowling Green State] = number 83
+finishTime[Brigham Young] = number 252
+finishTime[Buffalo] = number 89
+finishTime[California] = number 136
+finishTime[Central Florida] = number 37
+finishTime[Central Michigan] = number 92
+finishTime[Charleston Southern] = number 225
+finishTime[Cincinnati] = number 19
+finishTime[Clemson] = number 254
+finishTime[Colorado] = number 122
+finishTime[Colorado State] = number 61
+finishTime[Connecticut] = number 38
+finishTime[Duke] = number 24
+finishTime[East Carolina] = number 36
+finishTime[Eastern Kentucky] = number 222
+finishTime[Eastern Michigan] = number 85
+finishTime[Florida] = number 229
+finishTime[Florida Atlantic] = number 104
+finishTime[Florida International] = number 192
+finishTime[Florida State] = number 260
+finishTime[Fordham] = number 40
+finishTime[Fresno State] = number 58
+finishTime[Georgia] = number 228
+finishTime[Georgia Southern] = number 130
+finishTime[Georgia State] = number 78
+finishTime[Georgia Tech] = number 259
+finishTime[Hawaii] = number 48
+finishTime[Houston] = number 34
+finishTime[Idaho] = number 55
+finishTime[Illinois] = number 152
+finishTime[Indiana] = number 150
+finishTime[Iowa] = number 153
+finishTime[Iowa State] = number 112
+finishTime[Kansas] = number 116
+finishTime[Kansas State] = number 171
+finishTime[Kent State] = number 70
+finishTime[Kentucky] = number 184
+finishTime[Louisiana State] = number 181
+finishTime[Louisiana Tech] = number 210
+finishTime[Louisiana-Lafayette] = number 241
+finishTime[Louisiana-Monroe] = number 80
+finishTime[Louisville] = number 227
+finishTime[Marshall] = number 208
+finishTime[Maryland] = number 158
+finishTime[Massachusetts] = number 87
+finishTime[Memphis] = number 262
+finishTime[Miami (FL)] = number 26
+finishTime[Miami (OH)] = number 91
+finishTime[Michigan] = number 157
+finishTime[Michigan State] = number 264
+finishTime[Middle Tennessee State] = number 191
+finishTime[Minnesota] = number 141
+finishTime[Mississippi] = number 216
+finishTime[Mississippi State] = number 213
+finishTime[Missouri] = number 235
+finishTime[Navy] = number 131
+finishTime[Nebraska] = number 160
+finishTime[Nevada] = number 57
+finishTime[Nevada-Las Vegas] = number 45
+finishTime[New Mexico] = number 60
+finishTime[New Mexico State] = number 75
+finishTime[North Carolina] = number 25
+finishTime[North Carolina State] = number 258
+finishTime[North Texas] = number 196
+finishTime[Northern Illinois] = number 207
+finishTime[Northwestern] = number 145
+finishTime[Notre Dame] = number 132
+finishTime[Ohio] = number 94
+finishTime[Ohio State] = number 270
+finishTime[Oklahoma] = number 119
+finishTime[Oklahoma State] = number 178
+finishTime[Old Dominion] = number 211
+finishTime[Oregon] = number 267
+finishTime[Oregon State] = number 176
+finishTime[Penn State] = number 151
+finishTime[Pittsburgh] = number 27
+finishTime[Presbyterian] = number 215
+finishTime[Purdue] = number 144
+finishTime[Rice] = number 201
+finishTime[Rutgers] = number 159
+finishTime[Samford] = number 218
+finishTime[San Diego State] = number 56
+finishTime[San Jose State] = number 47
+finishTime[Savannah State] = number 251
+finishTime[South Alabama] = number 82
+finishTime[South Carolina] = number 230
+finishTime[South Florida] = number 31
+finishTime[Southern California] = number 163
+finishTime[Southern Methodist] = number 30
+finishTime[Southern Mississippi] = number 106
+finishTime[Stanford] = number 173
+finishTime[Syracuse] = number 13
+finishTime[Temple] = number 18
+finishTime[Tennessee] = number 234
+finishTime[Tennessee-Martin] = number 186
+finishTime[Texas] = number 170
+finishTime[Texas A&M] = number 180
+finishTime[Texas Christian] = number 272
+finishTime[Texas State] = number 81
+finishTime[Texas Tech] = number 118
+finishTime[Texas-El Paso] = number 200
+finishTime[Texas-San Antonio] = number 199
+finishTime[Toledo] = number 206
+finishTime[Troy] = number 129
+finishTime[Tulane] = number 35
+finishTime[Tulsa] = number 33
+finishTime[UCLA] = number 172
+finishTime[Utah] = number 174
+finishTime[Utah State] = number 247
+finishTime[Vanderbilt] = number 212
+finishTime[Virginia] = number 21
+finishTime[Virginia Tech] = number 22
+finishTime[Wake Forest] = number 23
+finishTime[Washington] = number 177
+finishTime[Washington State] = number 162
+finishTime[West Virginia] = number 179
+finishTime[Western Carolina] = number 237
+finishTime[Western Kentucky] = number 209
+finishTime[Western Michigan] = number 95
+finishTime[Wisconsin] = number 269
+finishTime[Wyoming] = number 59
+
+next command: end_graph
+
+next command: graph,100,459
+
+next command: print_graph
+
+Graph (Adjacency Node) contents
+
+Abilene Christian beat: Troy(38-35)
+
+Air Force beat: Boise State(28-14), Georgia State(48-38), Navy(30-21), New Mexico(35-31)
+
+Akron beat: Eastern Michigan(31-6), Miami (OH)(29-19), Pittsburgh(21-10)
+
+Alabama beat: Arkansas(14-13), Florida(42-21), Southern Mississippi(52-12), Texas A&M(59-0)
+
+Alabama A&M beat: none
+
+Alabama-Birmingham beat: Alabama A&M(41-14), North Texas(56-21), Western Kentucky(42-39)
+
+Alcorn State beat: none
+
+Appalachian State beat: Troy(53-14)
+
+Arizona beat: California(49-45), Nevada(35-28), Oregon(31-24)
+
+Arizona State beat: Colorado(38-24), Southern California(38-34), Stanford(26-10)
+
+Arkansas beat: Northern Illinois(52-14), Texas Tech(49-28)
+
+Arkansas State beat: Georgia State(52-10), Louisiana-Monroe(28-14), Utah State(21-14)
+
+Army beat: Ball State(33-24)
+
+Auburn beat: Kansas State(20-14), Louisiana State(41-7), Louisiana Tech(45-17)
+
+Ball State beat: Central Michigan(32-29)
+
+Baylor beat: Buffalo(63-21), Iowa State(49-28), Texas(28-7), Texas Christian(61-58)
+
+Bethune-Cookman beat: none
+
+Boise State beat: Connecticut(38-21), Fresno State(37-27), Louisiana-Lafayette(34-9), Nevada(51-46)
+
+Boston College beat: Maine(40-10), North Carolina State(30-14), Southern California(37-31)
+
+Bowling Green State beat: Buffalo(36-35), Indiana(45-42), Massachusetts(47-42), Ohio(31-13)
+
+Brigham Young beat: Houston(33-25), Virginia(41-33)
+
+Buffalo beat: Miami (OH)(35-27), Norfolk State(36-7)
+
+California beat: Colorado(59-56), Washington State(60-59)
+
+California-Davis beat: none
+
+Central Florida beat: Bethune-Cookman(41-7), Brigham Young(31-24), Houston(17-12), Tulane(20-13)
+
+Central Michigan beat: Northern Illinois(34-17), Ohio(28-10)
+
+Charleston Southern beat: none
+
+Chattanooga beat: none
+
+Cincinnati beat: Miami (OH)(31-24), Southern Methodist(41-3), Toledo(58-34)
+
+Citadel beat: none
+
+Clemson beat: Boston College(17-13), Louisville(23-17), North Carolina(50-35), North Carolina State(41-0)
+
+Colorado beat: Hawaii(21-12), Massachusetts(41-38)
+
+Colorado State beat: Boston College(24-21), California-Davis(49-21), Nevada(31-24), Tulsa(42-17), Utah State(16-13)
+
+Connecticut beat: Stony Brook(19-16)
+
+Delaware State beat: none
+
+Duke beat: Georgia Tech(31-25), Kansas(41-3), Troy(34-17), Tulane(47-13), Virginia(20-13)
+
+East Carolina beat: North Carolina(70-41), South Florida(28-17), Southern Methodist(45-24), Virginia Tech(28-21)
+
+Eastern Illinois beat: none
+
+Eastern Kentucky beat: Miami (OH)(17-10)
+
+Eastern Michigan beat: Buffalo(37-27)
+
+Eastern Washington beat: none
+
+Florida beat: Eastern Michigan(65-0), Kentucky(36-30), Tennessee(10-9)
+
+Florida A&M beat: none
+
+Florida Atlantic beat: Texas-San Antonio(41-37), Tulsa(50-21), Western Kentucky(45-38)
+
+Florida International beat: Alabama-Birmingham(34-20), Florida Atlantic(38-10), Wagner(34-3)
+
+Florida State beat: Citadel(37-12), Clemson(23-17), North Carolina State(56-41), Notre Dame(31-27), Syracuse(38-20), Wake Forest(43-3)
+
+Fresno State beat: New Mexico(35-24), San Diego State(24-13), Southern Utah(56-16)
+
+Gardner-Webb beat: none
+
+Georgia beat: Arkansas(45-32), Missouri(34-0), Tennessee(35-32), Troy(66-0), Vanderbilt(44-17)
+
+Georgia Southern beat: Appalachian State(34-14), Idaho(47-24), New Mexico State(36-28), Savannah State(83-9), South Alabama(28-6)
+
+Georgia State beat: none
+
+Georgia Tech beat: Georgia Southern(42-38), Miami (FL)(28-17), Tulane(38-21), Virginia Tech(27-24)
+
+Grambling State beat: none
+
+Hawaii beat: Northern Iowa(27-24), Wyoming(38-28)
+
+Houston beat: Grambling State(47-0), Memphis(28-24), Nevada-Las Vegas(47-14), Temple(31-10)
+
+Howard beat: none
+
+Idaho beat: New Mexico State(29-17)
+
+Idaho State beat: none
+
+Illinois beat: Texas State(42-35), Western Kentucky(42-34)
+
+Indiana beat: Missouri(31-27), North Texas(49-24)
+
+Indiana State beat: Ball State(27-20)
+
+Iowa beat: Ball State(17-13), Indiana(45-29), Pittsburgh(24-20), Purdue(24-10)
+
+Iowa State beat: Iowa(20-17), Toledo(37-30)
+
+Kansas beat: Central Michigan(24-10), Southeast Missouri State(34-28)
+
+Kansas State beat: Iowa State(32-28), Oklahoma(31-30), Texas Tech(45-13), Texas-El Paso(58-28)
+
+Kent State beat: Army(39-17)
+
+Kentucky beat: Louisiana-Monroe(48-14), Ohio(20-3), South Carolina(45-38), Vanderbilt(17-7)
+
+Lamar beat: none
+
+Liberty beat: Appalachian State(55-48)
+
+Louisiana State beat: Florida(30-27), Kentucky(41-3), Louisiana-Monroe(31-0), New Mexico State(63-7), Sam Houston State(56-0)
+
+Louisiana Tech beat: Louisiana-Lafayette(48-20), North Texas(42-21), Texas-El Paso(55-3)
+
+Louisiana-Lafayette beat: Georgia State(34-31), Texas State(34-10)
+
+Louisiana-Monroe beat: Idaho(38-31), Troy(22-20)
+
+Louisville beat: Florida International(34-3), Murray State(66-21), Syracuse(28-6), Wake Forest(20-10)
+
+Maine beat: none
+
+Marshall beat: Akron(48-17), Middle Tennessee State(49-24), Ohio(44-14), Old Dominion(56-14), Rhode Island(48-7)
+
+Maryland beat: Indiana(37-15), South Florida(24-17), Syracuse(34-20)
+
+Massachusetts beat: Kent State(40-17)
+
+McNeese State beat: none
+
+Memphis beat: Cincinnati(41-14), Middle Tennessee State(36-17)
+
+Miami (FL) beat: Arkansas State(41-20), Cincinnati(55-34), Duke(22-10), Florida A&M(41-7)
+
+Miami (OH) beat: Massachusetts(42-41)
+
+Michigan beat: Miami (OH)(34-10), Penn State(18-13)
+
+Michigan State beat: Eastern Michigan(73-14), Nebraska(27-22), Purdue(45-31), Wyoming(56-14)
+
+Middle Tennessee State beat: Old Dominion(41-28), Southern Mississippi(37-31), Western Kentucky(50-47)
+
+Minnesota beat: Michigan(30-14), Middle Tennessee State(35-24), Northwestern(24-17), San Jose State(24-7)
+
+Mississippi beat: Alabama(23-17), Louisiana-Lafayette(56-15), Memphis(24-3), Texas A&M(35-20), Vanderbilt(41-3)
+
+Mississippi State beat: Alabama-Birmingham(47-34), Auburn(38-23), Louisiana State(34-29), South Alabama(35-3), Texas A&M(48-31)
+
+Missouri beat: Central Florida(38-10), South Carolina(21-20), Toledo(49-24)
+
+Missouri State beat: none
+
+Murray State beat: none
+
+Navy beat: Temple(31-24), Texas State(35-21), Virginia Military Institute(51-14)
+
+Nebraska beat: Fresno State(55-19), Illinois(45-14), McNeese State(31-24), Miami (FL)(41-31)
+
+Nevada beat: San Jose State(21-10)
+
+Nevada-Las Vegas beat: Fresno State(30-27), Northern Colorado(13-12)
+
+New Mexico beat: New Mexico State(38-35), Texas-San Antonio(21-9)
+
+New Mexico State beat: Georgia State(34-31)
+
+Nicholls State beat: none
+
+Norfolk State beat: none
+
+North Carolina beat: San Diego State(31-27)
+
+North Carolina State beat: Old Dominion(46-34), Presbyterian(42-0), South Florida(49-17)
+
+North Texas beat: Nicholls State(77-3), Southern Methodist(43-6)
+
+Northern Colorado beat: none
+
+Northern Illinois beat: Kent State(17-14), Nevada-Las Vegas(48-34), Northwestern(23-15)
+
+Northern Iowa beat: none
+
+Northwestern beat: Penn State(29-6), Western Illinois(24-7), Wisconsin(20-14)
+
+Northwestern State beat: Louisiana Tech(30-27)
+
+Notre Dame beat: Michigan(31-0), North Carolina(50-43), Purdue(30-14), Stanford(17-14), Syracuse(31-15)
+
+Ohio beat: Eastern Illinois(34-19), Idaho(36-24)
+
+Ohio State beat: Cincinnati(50-28), Kent State(66-0), Maryland(52-24)
+
+Oklahoma beat: Tennessee(34-10), Texas(31-26), Tulsa(52-7), West Virginia(45-33)
+
+Oklahoma State beat: Iowa State(37-20), Kansas(27-20), Missouri State(40-23), Texas Tech(45-35), Texas-San Antonio(43-13)
+
+Old Dominion beat: Eastern Michigan(17-3), Rice(45-42)
+
+Oregon beat: Michigan State(46-27), UCLA(42-30), Washington State(38-31), Wyoming(48-14)
+
+Oregon State beat: Colorado(36-31), Hawaii(38-30), San Diego State(28-7)
+
+Penn State beat: Akron(21-3), Massachusetts(48-7), Rutgers(13-10)
+
+Pittsburgh beat: Florida International(42-25), Virginia Tech(21-16)
+
+Portland State beat: none
+
+Presbyterian beat: none
+
+Purdue beat: Illinois(38-27), Southern Illinois(35-13)
+
+Rhode Island beat: none
+
+Rice beat: Army(41-21), Hawaii(28-14), Southern Mississippi(41-23)
+
+Richmond beat: none
+
+Rutgers beat: Howard(38-25), Michigan(26-24), Navy(31-24), Tulane(31-6)
+
+Sam Houston State beat: none
+
+San Diego State beat: Nevada-Las Vegas(34-17), New Mexico(24-14)
+
+San Jose State beat: Nevada-Las Vegas(33-10)
+
+Savannah State beat: none
+
+South Alabama beat: Appalachian State(47-21), Idaho(34-10), Kent State(23-13)
+
+South Carolina beat: East Carolina(33-23), Georgia(38-35), Vanderbilt(48-34)
+
+South Florida beat: Connecticut(17-14)
+
+Southeast Missouri State beat: none
+
+Southeastern Louisiana beat: none
+
+Southern California beat: Arizona(28-26), Oregon State(35-10), Stanford(13-10)
+
+Southern Illinois beat: none
+
+Southern Methodist beat: none
+
+Southern Mississippi beat: Alcorn State(26-20), Appalachian State(21-20)
+
+Southern Utah beat: none
+
+Stanford beat: Army(35-0), Washington(20-13), Washington State(34-17)
+
+Stony Brook beat: none
+
+Syracuse beat: Central Michigan(40-3)
+
+Temple beat: Connecticut(36-10), Delaware State(59-0), Tulsa(35-24)
+
+Tennessee beat: Arkansas State(34-19), Chattanooga(45-10)
+
+Texas beat: Kansas(23-0)
+
+Texas A&M beat: Arkansas(35-28), Lamar(73-3), Rice(38-10), Southern Methodist(58-6)
+
+Texas Christian beat: Minnesota(30-7), Oklahoma(37-33), Southern Methodist(56-0)
+
+Texas State beat: Idaho(35-30), Tulsa(37-34)
+
+Texas Tech beat: Texas-El Paso(30-26)
+
+Texas-El Paso beat: New Mexico State(42-24), Old Dominion(42-35)
+
+Texas-San Antonio beat: Florida International(16-13)
+
+Toledo beat: Ball State(34-23), Central Michigan(42-28), Western Michigan(20-19)
+
+Towson beat: none
+
+Troy beat: New Mexico State(41-24)
+
+Tulane beat: Connecticut(12-3), Southeastern Louisiana(35-20)
+
+Tulsa beat: none
+
+UCLA beat: Arizona State(62-27), Memphis(42-35), Texas(20-17)
+
+Utah beat: Fresno State(59-27), Michigan(26-10), Oregon State(29-23), UCLA(30-28)
+
+Utah State beat: Air Force(34-16), Brigham Young(35-20), Idaho State(40-20), Wake Forest(36-24)
+
+Vanderbilt beat: Charleston Southern(21-20), Massachusetts(34-31)
+
+Virginia beat: Kent State(45-13), Louisville(23-21), Pittsburgh(24-19), Richmond(45-13)
+
+Virginia Military Institute beat: none
+
+Virginia Tech beat: North Carolina(34-17), Ohio State(35-21), Western Michigan(35-17)
+
+Wagner beat: none
+
+Wake Forest beat: Army(24-21), Gardner-Webb(23-7)
+
+Washington beat: California(31-7), Eastern Washington(59-52), Georgia State(45-14), Illinois(44-19)
+
+Washington State beat: Portland State(59-21), Utah(28-27)
+
+West Virginia beat: Kansas(33-14), Maryland(40-37), Texas Tech(37-34), Towson(54-0)
+
+Western Illinois beat: none
+
+Western Kentucky beat: Navy(36-27)
+
+Western Michigan beat: Ball State(42-38), Idaho(45-33), Murray State(45-14)
+
+Wisconsin beat: Bowling Green State(68-17), Illinois(38-28), South Florida(27-10), Western Illinois(37-3)
+
+Wyoming beat: Air Force(17-13), Florida Atlantic(20-19)
+
+Yale beat: Army(49-43)
+
+
+next command: depth_first_search
+
+The array pi contents:
+
+pi[Abilene Christian] = none
+pi[Air Force] = none
+pi[Akron] = none
+pi[Alabama] = none
+pi[Alabama A&M] = Alabama-Birmingham
+pi[Alabama-Birmingham] = Florida International
+pi[Alcorn State] = Southern Mississippi
+pi[Appalachian State] = Southern Mississippi
+pi[Arizona] = none
+pi[Arizona State] = UCLA
+pi[Arkansas] = Georgia
+pi[Arkansas State] = Tennessee
+pi[Army] = Kent State
+pi[Auburn] = none
+pi[Ball State] = Army
+pi[Baylor] = none
+pi[Bethune-Cookman] = Central Florida
+pi[Boise State] = Air Force
+pi[Boston College] = none
+pi[Bowling Green State] = Wisconsin
+pi[Brigham Young] = Central Florida
+pi[Buffalo] = Eastern Michigan
+pi[California] = Arizona
+pi[California-Davis] = none
+pi[Central Florida] = Missouri
+pi[Central Michigan] = Ball State
+pi[Charleston Southern] = Vanderbilt
+pi[Chattanooga] = Tennessee
+pi[Cincinnati] = Memphis
+pi[Citadel] = none
+pi[Clemson] = none
+pi[Colorado] = California
+pi[Colorado State] = none
+pi[Connecticut] = Boise State
+pi[Delaware State] = Temple
+pi[Duke] = Miami (FL)
+pi[East Carolina] = South Carolina
+pi[Eastern Illinois] = Ohio
+pi[Eastern Kentucky] = none
+pi[Eastern Michigan] = Akron
+pi[Eastern Washington] = Washington
+pi[Florida] = Alabama
+pi[Florida A&M] = Miami (FL)
+pi[Florida Atlantic] = Florida International
+pi[Florida International] = Texas-San Antonio
+pi[Florida State] = none
+pi[Fresno State] = Boise State
+pi[Gardner-Webb] = Wake Forest
+pi[Georgia] = South Carolina
+pi[Georgia Southern] = Georgia Tech
+pi[Georgia State] = New Mexico State
+pi[Georgia Tech] = Duke
+pi[Grambling State] = Houston
+pi[Hawaii] = Rice
+pi[Houston] = Brigham Young
+pi[Howard] = Rutgers
+pi[Idaho] = Texas State
+pi[Idaho State] = Utah State
+pi[Illinois] = Wisconsin
+pi[Indiana] = Bowling Green State
+pi[Indiana State] = none
+pi[Iowa] = Iowa State
+pi[Iowa State] = Kansas State
+pi[Kansas] = Texas
+pi[Kansas State] = Auburn
+pi[Kent State] = Massachusetts
+pi[Kentucky] = Florida
+pi[Lamar] = Texas A&M
+pi[Liberty] = none
+pi[Louisiana State] = Auburn
+pi[Louisiana Tech] = Auburn
+pi[Louisiana-Lafayette] = Boise State
+pi[Louisiana-Monroe] = Arkansas State
+pi[Louisville] = Virginia
+pi[Maine] = Boston College
+pi[Marshall] = none
+pi[Maryland] = Ohio State
+pi[Massachusetts] = Miami (OH)
+pi[McNeese State] = Nebraska
+pi[Memphis] = Houston
+pi[Miami (FL)] = Nebraska
+pi[Miami (OH)] = Buffalo
+pi[Michigan] = Rutgers
+pi[Michigan State] = Oregon
+pi[Middle Tennessee State] = Memphis
+pi[Minnesota] = Texas Christian
+pi[Mississippi] = none
+pi[Mississippi State] = none
+pi[Missouri] = Indiana
+pi[Missouri State] = none
+pi[Murray State] = Western Michigan
+pi[Navy] = Western Kentucky
+pi[Nebraska] = Michigan State
+pi[Nevada] = Boise State
+pi[Nevada-Las Vegas] = San Diego State
+pi[New Mexico] = Fresno State
+pi[New Mexico State] = Troy
+pi[Nicholls State] = North Texas
+pi[Norfolk State] = Buffalo
+pi[North Carolina] = Virginia Tech
+pi[North Carolina State] = Boston College
+pi[North Texas] = Alabama-Birmingham
+pi[Northern Colorado] = Nevada-Las Vegas
+pi[Northern Illinois] = Central Michigan
+pi[Northern Iowa] = Hawaii
+pi[Northwestern] = Northern Illinois
+pi[Northwestern State] = none
+pi[Notre Dame] = Florida State
+pi[Ohio] = Bowling Green State
+pi[Ohio State] = Virginia Tech
+pi[Oklahoma] = Kansas State
+pi[Oklahoma State] = none
+pi[Old Dominion] = Middle Tennessee State
+pi[Oregon] = Arizona
+pi[Oregon State] = Utah
+pi[Penn State] = Northwestern
+pi[Pittsburgh] = Virginia
+pi[Portland State] = Washington State
+pi[Presbyterian] = North Carolina State
+pi[Purdue] = Michigan State
+pi[Rhode Island] = Marshall
+pi[Rice] = Old Dominion
+pi[Richmond] = Virginia
+pi[Rutgers] = Penn State
+pi[Sam Houston State] = Louisiana State
+pi[San Diego State] = Fresno State
+pi[San Jose State] = Nevada
+pi[Savannah State] = Georgia Southern
+pi[South Alabama] = Georgia Southern
+pi[South Carolina] = Missouri
+pi[South Florida] = Maryland
+pi[Southeast Missouri State] = Kansas
+pi[Southeastern Louisiana] = Tulane
+pi[Southern California] = Arizona State
+pi[Southern Illinois] = Purdue
+pi[Southern Methodist] = North Texas
+pi[Southern Mississippi] = Rice
+pi[Southern Utah] = Fresno State
+pi[Stanford] = Southern California
+pi[Stony Brook] = Connecticut
+pi[Syracuse] = Louisville
+pi[Temple] = Navy
+pi[Tennessee] = Georgia
+pi[Texas] = UCLA
+pi[Texas A&M] = Alabama
+pi[Texas Christian] = Baylor
+pi[Texas State] = Navy
+pi[Texas Tech] = Arkansas
+pi[Texas-El Paso] = Texas Tech
+pi[Texas-San Antonio] = New Mexico
+pi[Toledo] = Cincinnati
+pi[Towson] = West Virginia
+pi[Troy] = Abilene Christian
+pi[Tulane] = Rutgers
+pi[Tulsa] = Temple
+pi[UCLA] = Utah
+pi[Utah] = Washington State
+pi[Utah State] = Arkansas State
+pi[Vanderbilt] = Georgia
+pi[Virginia] = Brigham Young
+pi[Virginia Military Institute] = Navy
+pi[Virginia Tech] = Pittsburgh
+pi[Wagner] = Florida International
+pi[Wake Forest] = Louisville
+pi[Washington] = Stanford
+pi[Washington State] = California
+pi[West Virginia] = Oklahoma
+pi[Western Illinois] = Northwestern
+pi[Western Kentucky] = Alabama-Birmingham
+pi[Western Michigan] = Toledo
+pi[Wisconsin] = Northwestern
+pi[Wyoming] = Hawaii
+pi[Yale] = none
+
+The array discoverTime contents:
+
+discoverTime[Abilene Christian] = number 1
+discoverTime[Air Force] = number 9
+discoverTime[Akron] = number 69
+discoverTime[Alabama] = number 211
+discoverTime[Alabama A&M] = number 20
+discoverTime[Alabama-Birmingham] = number 19
+discoverTime[Alcorn State] = number 124
+discoverTime[Appalachian State] = number 126
+discoverTime[Arizona] = number 221
+discoverTime[Arizona State] = number 232
+discoverTime[Arkansas] = number 164
+discoverTime[Arkansas State] = number 171
+discoverTime[Army] = number 75
+discoverTime[Auburn] = number 279
+discoverTime[Ball State] = number 76
+discoverTime[Baylor] = number 299
+discoverTime[Bethune-Cookman] = number 99
+discoverTime[Boise State] = number 10
+discoverTime[Boston College] = number 305
+discoverTime[Bowling Green State] = number 95
+discoverTime[Brigham Young] = number 101
+discoverTime[Buffalo] = number 71
+discoverTime[California] = number 222
+discoverTime[California-Davis] = number 313
+discoverTime[Central Florida] = number 98
+discoverTime[Central Michigan] = number 77
+discoverTime[Charleston Southern] = number 183
+discoverTime[Chattanooga] = number 179
+discoverTime[Cincinnati] = number 106
+discoverTime[Citadel] = number 315
+discoverTime[Clemson] = number 317
+discoverTime[Colorado] = number 223
+discoverTime[Colorado State] = number 319
+discoverTime[Connecticut] = number 11
+discoverTime[Delaware State] = number 31
+discoverTime[Duke] = number 258
+discoverTime[East Carolina] = number 161
+discoverTime[Eastern Illinois] = number 191
+discoverTime[Eastern Kentucky] = number 321
+discoverTime[Eastern Michigan] = number 70
+discoverTime[Eastern Washington] = number 236
+discoverTime[Florida] = number 212
+discoverTime[Florida A&M] = number 268
+discoverTime[Florida Atlantic] = number 45
+discoverTime[Florida International] = number 18
+discoverTime[Florida State] = number 323
+discoverTime[Fresno State] = number 15
+discoverTime[Gardner-Webb] = number 139
+discoverTime[Georgia] = number 163
+discoverTime[Georgia Southern] = number 260
+discoverTime[Georgia State] = number 4
+discoverTime[Georgia Tech] = number 259
+discoverTime[Grambling State] = number 103
+discoverTime[Hawaii] = number 117
+discoverTime[Houston] = number 102
+discoverTime[Howard] = number 82
+discoverTime[Idaho] = number 37
+discoverTime[Idaho State] = number 175
+discoverTime[Illinois] = number 195
+discoverTime[Indiana] = number 96
+discoverTime[Indiana State] = number 327
+discoverTime[Iowa] = number 282
+discoverTime[Iowa State] = number 281
+discoverTime[Kansas] = number 243
+discoverTime[Kansas State] = number 280
+discoverTime[Kent State] = number 74
+discoverTime[Kentucky] = number 213
+discoverTime[Lamar] = number 217
+discoverTime[Liberty] = number 329
+discoverTime[Louisiana State] = number 292
+discoverTime[Louisiana Tech] = number 296
+discoverTime[Louisiana-Lafayette] = number 61
+discoverTime[Louisiana-Monroe] = number 172
+discoverTime[Louisville] = number 135
+discoverTime[Maine] = number 306
+discoverTime[Marshall] = number 331
+discoverTime[Maryland] = number 148
+discoverTime[Massachusetts] = number 73
+discoverTime[McNeese State] = number 255
+discoverTime[Memphis] = number 105
+discoverTime[Miami (FL)] = number 257
+discoverTime[Miami (OH)] = number 72
+discoverTime[Michigan] = number 84
+discoverTime[Michigan State] = number 253
+discoverTime[Middle Tennessee State] = number 114
+discoverTime[Minnesota] = number 301
+discoverTime[Mississippi] = number 335
+discoverTime[Mississippi State] = number 337
+discoverTime[Missouri] = number 97
+discoverTime[Missouri State] = number 339
+discoverTime[Murray State] = number 109
+discoverTime[Navy] = number 29
+discoverTime[Nebraska] = number 254
+discoverTime[Nevada] = number 63
+discoverTime[Nevada-Las Vegas] = number 53
+discoverTime[New Mexico] = number 16
+discoverTime[New Mexico State] = number 3
+discoverTime[Nicholls State] = number 23
+discoverTime[Norfolk State] = number 206
+discoverTime[North Carolina] = number 145
+discoverTime[North Carolina State] = number 308
+discoverTime[North Texas] = number 22
+discoverTime[Northern Colorado] = number 54
+discoverTime[Northern Illinois] = number 78
+discoverTime[Northern Iowa] = number 118
+discoverTime[Northwestern] = number 79
+discoverTime[Northwestern State] = number 341
+discoverTime[Notre Dame] = number 324
+discoverTime[Ohio] = number 190
+discoverTime[Ohio State] = number 147
+discoverTime[Oklahoma] = number 285
+discoverTime[Oklahoma State] = number 343
+discoverTime[Old Dominion] = number 115
+discoverTime[Oregon] = number 252
+discoverTime[Oregon State] = number 229
+discoverTime[Penn State] = number 80
+discoverTime[Pittsburgh] = number 143
+discoverTime[Portland State] = number 226
+discoverTime[Presbyterian] = number 309
+discoverTime[Purdue] = number 272
+discoverTime[Rhode Island] = number 332
+discoverTime[Rice] = number 116
+discoverTime[Richmond] = number 155
+discoverTime[Rutgers] = number 81
+discoverTime[Sam Houston State] = number 293
+discoverTime[San Diego State] = number 52
+discoverTime[San Jose State] = number 64
+discoverTime[Savannah State] = number 261
+discoverTime[South Alabama] = number 263
+discoverTime[South Carolina] = number 160
+discoverTime[South Florida] = number 149
+discoverTime[Southeast Missouri State] = number 244
+discoverTime[Southeastern Louisiana] = number 87
+discoverTime[Southern California] = number 233
+discoverTime[Southern Illinois] = number 273
+discoverTime[Southern Methodist] = number 25
+discoverTime[Southern Mississippi] = number 123
+discoverTime[Southern Utah] = number 58
+discoverTime[Stanford] = number 234
+discoverTime[Stony Brook] = number 12
+discoverTime[Syracuse] = number 136
+discoverTime[Temple] = number 30
+discoverTime[Tennessee] = number 170
+discoverTime[Texas] = number 242
+discoverTime[Texas A&M] = number 216
+discoverTime[Texas Christian] = number 300
+discoverTime[Texas State] = number 36
+discoverTime[Texas Tech] = number 165
+discoverTime[Texas-El Paso] = number 166
+discoverTime[Texas-San Antonio] = number 17
+discoverTime[Toledo] = number 107
+discoverTime[Towson] = number 287
+discoverTime[Troy] = number 2
+discoverTime[Tulane] = number 86
+discoverTime[Tulsa] = number 33
+discoverTime[UCLA] = number 231
+discoverTime[Utah] = number 228
+discoverTime[Utah State] = number 174
+discoverTime[Vanderbilt] = number 182
+discoverTime[Virginia] = number 134
+discoverTime[Virginia Military Institute] = number 40
+discoverTime[Virginia Tech] = number 144
+discoverTime[Wagner] = number 47
+discoverTime[Wake Forest] = number 138
+discoverTime[Washington] = number 235
+discoverTime[Washington State] = number 225
+discoverTime[West Virginia] = number 286
+discoverTime[Western Illinois] = number 92
+discoverTime[Western Kentucky] = number 28
+discoverTime[Western Michigan] = number 108
+discoverTime[Wisconsin] = number 94
+discoverTime[Wyoming] = number 120
+discoverTime[Yale] = number 345
+
+The array finishTime contents:
+
+finishTime[Abilene Christian] = number 8
+finishTime[Air Force] = number 68
+finishTime[Akron] = number 210
+finishTime[Alabama] = number 220
+finishTime[Alabama A&M] = number 21
+finishTime[Alabama-Birmingham] = number 44
+finishTime[Alcorn State] = number 125
+finishTime[Appalachian State] = number 127
+finishTime[Arizona] = number 278
+finishTime[Arizona State] = number 241
+finishTime[Arkansas] = number 169
+finishTime[Arkansas State] = number 178
+finishTime[Army] = number 202
+finishTime[Auburn] = number 298
+finishTime[Ball State] = number 201
+finishTime[Baylor] = number 304
+finishTime[Bethune-Cookman] = number 100
+finishTime[Boise State] = number 67
+finishTime[Boston College] = number 312
+finishTime[Bowling Green State] = number 194
+finishTime[Brigham Young] = number 158
+finishTime[Buffalo] = number 208
+finishTime[California] = number 251
+finishTime[California-Davis] = number 314
+finishTime[Central Florida] = number 159
+finishTime[Central Michigan] = number 200
+finishTime[Charleston Southern] = number 184
+finishTime[Chattanooga] = number 180
+finishTime[Cincinnati] = number 113
+finishTime[Citadel] = number 316
+finishTime[Clemson] = number 318
+finishTime[Colorado] = number 224
+finishTime[Colorado State] = number 320
+finishTime[Connecticut] = number 14
+finishTime[Delaware State] = number 32
+finishTime[Duke] = number 267
+finishTime[East Carolina] = number 162
+finishTime[Eastern Illinois] = number 192
+finishTime[Eastern Kentucky] = number 322
+finishTime[Eastern Michigan] = number 209
+finishTime[Eastern Washington] = number 237
+finishTime[Florida] = number 215
+finishTime[Florida A&M] = number 269
+finishTime[Florida Atlantic] = number 46
+finishTime[Florida International] = number 49
+finishTime[Florida State] = number 326
+finishTime[Fresno State] = number 60
+finishTime[Gardner-Webb] = number 140
+finishTime[Georgia] = number 186
+finishTime[Georgia Southern] = number 265
+finishTime[Georgia State] = number 5
+finishTime[Georgia Tech] = number 266
+finishTime[Grambling State] = number 104
+finishTime[Hawaii] = number 122
+finishTime[Houston] = number 133
+finishTime[Howard] = number 83
+finishTime[Idaho] = number 38
+finishTime[Idaho State] = number 176
+finishTime[Illinois] = number 196
+finishTime[Indiana] = number 189
+finishTime[Indiana State] = number 328
+finishTime[Iowa] = number 283
+finishTime[Iowa State] = number 284
+finishTime[Kansas] = number 246
+finishTime[Kansas State] = number 291
+finishTime[Kent State] = number 203
+finishTime[Kentucky] = number 214
+finishTime[Lamar] = number 218
+finishTime[Liberty] = number 330
+finishTime[Louisiana State] = number 295
+finishTime[Louisiana Tech] = number 297
+finishTime[Louisiana-Lafayette] = number 62
+finishTime[Louisiana-Monroe] = number 173
+finishTime[Louisville] = number 142
+finishTime[Maine] = number 307
+finishTime[Marshall] = number 334
+finishTime[Maryland] = number 151
+finishTime[Massachusetts] = number 204
+finishTime[McNeese State] = number 256
+finishTime[Memphis] = number 132
+finishTime[Miami (FL)] = number 270
+finishTime[Miami (OH)] = number 205
+finishTime[Michigan] = number 85
+finishTime[Michigan State] = number 276
+finishTime[Middle Tennessee State] = number 131
+finishTime[Minnesota] = number 302
+finishTime[Mississippi] = number 336
+finishTime[Mississippi State] = number 338
+finishTime[Missouri] = number 188
+finishTime[Missouri State] = number 340
+finishTime[Murray State] = number 110
+finishTime[Navy] = number 42
+finishTime[Nebraska] = number 271
+finishTime[Nevada] = number 66
+finishTime[Nevada-Las Vegas] = number 56
+finishTime[New Mexico] = number 51
+finishTime[New Mexico State] = number 6
+finishTime[Nicholls State] = number 24
+finishTime[Norfolk State] = number 207
+finishTime[North Carolina] = number 146
+finishTime[North Carolina State] = number 311
+finishTime[North Texas] = number 27
+finishTime[Northern Colorado] = number 55
+finishTime[Northern Illinois] = number 199
+finishTime[Northern Iowa] = number 119
+finishTime[Northwestern] = number 198
+finishTime[Northwestern State] = number 342
+finishTime[Notre Dame] = number 325
+finishTime[Ohio] = number 193
+finishTime[Ohio State] = number 152
+finishTime[Oklahoma] = number 290
+finishTime[Oklahoma State] = number 344
+finishTime[Old Dominion] = number 130
+finishTime[Oregon] = number 277
+finishTime[Oregon State] = number 230
+finishTime[Penn State] = number 91
+finishTime[Pittsburgh] = number 154
+finishTime[Portland State] = number 227
+finishTime[Presbyterian] = number 310
+finishTime[Purdue] = number 275
+finishTime[Rhode Island] = number 333
+finishTime[Rice] = number 129
+finishTime[Richmond] = number 156
+finishTime[Rutgers] = number 90
+finishTime[Sam Houston State] = number 294
+finishTime[San Diego State] = number 57
+finishTime[San Jose State] = number 65
+finishTime[Savannah State] = number 262
+finishTime[South Alabama] = number 264
+finishTime[South Carolina] = number 187
+finishTime[South Florida] = number 150
+finishTime[Southeast Missouri State] = number 245
+finishTime[Southeastern Louisiana] = number 88
+finishTime[Southern California] = number 240
+finishTime[Southern Illinois] = number 274
+finishTime[Southern Methodist] = number 26
+finishTime[Southern Mississippi] = number 128
+finishTime[Southern Utah] = number 59
+finishTime[Stanford] = number 239
+finishTime[Stony Brook] = number 13
+finishTime[Syracuse] = number 137
+finishTime[Temple] = number 35
+finishTime[Tennessee] = number 181
+finishTime[Texas] = number 247
+finishTime[Texas A&M] = number 219
+finishTime[Texas Christian] = number 303
+finishTime[Texas State] = number 39
+finishTime[Texas Tech] = number 168
+finishTime[Texas-El Paso] = number 167
+finishTime[Texas-San Antonio] = number 50
+finishTime[Toledo] = number 112
+finishTime[Towson] = number 288
+finishTime[Troy] = number 7
+finishTime[Tulane] = number 89
+finishTime[Tulsa] = number 34
+finishTime[UCLA] = number 248
+finishTime[Utah] = number 249
+finishTime[Utah State] = number 177
+finishTime[Vanderbilt] = number 185
+finishTime[Virginia] = number 157
+finishTime[Virginia Military Institute] = number 41
+finishTime[Virginia Tech] = number 153
+finishTime[Wagner] = number 48
+finishTime[Wake Forest] = number 141
+finishTime[Washington] = number 238
+finishTime[Washington State] = number 250
+finishTime[West Virginia] = number 289
+finishTime[Western Illinois] = number 93
+finishTime[Western Kentucky] = number 43
+finishTime[Western Michigan] = number 111
+finishTime[Wisconsin] = number 197
+finishTime[Wyoming] = number 121
+finishTime[Yale] = number 346
+
+next command: print_graph
+
+Graph (Adjacency Node) contents
+
+Abilene Christian beat: Troy(38-35)
+
+Air Force beat: Boise State(28-14), Georgia State(48-38), Navy(30-21), New Mexico(35-31)
+
+Akron beat: Eastern Michigan(31-6), Miami (OH)(29-19), Pittsburgh(21-10)
+
+Alabama beat: Arkansas(14-13), Florida(42-21), Southern Mississippi(52-12), Texas A&M(59-0)
+
+Alabama A&M beat: none
+
+Alabama-Birmingham beat: Alabama A&M(41-14), North Texas(56-21), Western Kentucky(42-39)
+
+Alcorn State beat: none
+
+Appalachian State beat: Troy(53-14)
+
+Arizona beat: California(49-45), Nevada(35-28), Oregon(31-24)
+
+Arizona State beat: Colorado(38-24), Southern California(38-34), Stanford(26-10)
+
+Arkansas beat: Northern Illinois(52-14), Texas Tech(49-28)
+
+Arkansas State beat: Georgia State(52-10), Louisiana-Monroe(28-14), Utah State(21-14)
+
+Army beat: Ball State(33-24)
+
+Auburn beat: Kansas State(20-14), Louisiana State(41-7), Louisiana Tech(45-17)
+
+Ball State beat: Central Michigan(32-29)
+
+Baylor beat: Buffalo(63-21), Iowa State(49-28), Texas(28-7), Texas Christian(61-58)
+
+Bethune-Cookman beat: none
+
+Boise State beat: Connecticut(38-21), Fresno State(37-27), Louisiana-Lafayette(34-9), Nevada(51-46)
+
+Boston College beat: Maine(40-10), North Carolina State(30-14), Southern California(37-31)
+
+Bowling Green State beat: Buffalo(36-35), Indiana(45-42), Massachusetts(47-42), Ohio(31-13)
+
+Brigham Young beat: Houston(33-25), Virginia(41-33)
+
+Buffalo beat: Miami (OH)(35-27), Norfolk State(36-7)
+
+California beat: Colorado(59-56), Washington State(60-59)
+
+California-Davis beat: none
+
+Central Florida beat: Bethune-Cookman(41-7), Brigham Young(31-24), Houston(17-12), Tulane(20-13)
+
+Central Michigan beat: Northern Illinois(34-17), Ohio(28-10)
+
+Charleston Southern beat: none
+
+Chattanooga beat: none
+
+Cincinnati beat: Miami (OH)(31-24), Southern Methodist(41-3), Toledo(58-34)
+
+Citadel beat: none
+
+Clemson beat: Boston College(17-13), Louisville(23-17), North Carolina(50-35), North Carolina State(41-0)
+
+Colorado beat: Hawaii(21-12), Massachusetts(41-38)
+
+Colorado State beat: Boston College(24-21), California-Davis(49-21), Nevada(31-24), Tulsa(42-17), Utah State(16-13)
+
+Connecticut beat: Stony Brook(19-16)
+
+Delaware State beat: none
+
+Duke beat: Georgia Tech(31-25), Kansas(41-3), Troy(34-17), Tulane(47-13), Virginia(20-13)
+
+East Carolina beat: North Carolina(70-41), South Florida(28-17), Southern Methodist(45-24), Virginia Tech(28-21)
+
+Eastern Illinois beat: none
+
+Eastern Kentucky beat: Miami (OH)(17-10)
+
+Eastern Michigan beat: Buffalo(37-27)
+
+Eastern Washington beat: none
+
+Florida beat: Eastern Michigan(65-0), Kentucky(36-30), Tennessee(10-9)
+
+Florida A&M beat: none
+
+Florida Atlantic beat: Texas-San Antonio(41-37), Tulsa(50-21), Western Kentucky(45-38)
+
+Florida International beat: Alabama-Birmingham(34-20), Florida Atlantic(38-10), Wagner(34-3)
+
+Florida State beat: Citadel(37-12), Clemson(23-17), North Carolina State(56-41), Notre Dame(31-27), Syracuse(38-20), Wake Forest(43-3)
+
+Fresno State beat: New Mexico(35-24), San Diego State(24-13), Southern Utah(56-16)
+
+Gardner-Webb beat: none
+
+Georgia beat: Arkansas(45-32), Missouri(34-0), Tennessee(35-32), Troy(66-0), Vanderbilt(44-17)
+
+Georgia Southern beat: Appalachian State(34-14), Idaho(47-24), New Mexico State(36-28), Savannah State(83-9), South Alabama(28-6)
+
+Georgia State beat: none
+
+Georgia Tech beat: Georgia Southern(42-38), Miami (FL)(28-17), Tulane(38-21), Virginia Tech(27-24)
+
+Grambling State beat: none
+
+Hawaii beat: Northern Iowa(27-24), Wyoming(38-28)
+
+Houston beat: Grambling State(47-0), Memphis(28-24), Nevada-Las Vegas(47-14), Temple(31-10)
+
+Howard beat: none
+
+Idaho beat: New Mexico State(29-17)
+
+Idaho State beat: none
+
+Illinois beat: Texas State(42-35), Western Kentucky(42-34)
+
+Indiana beat: Missouri(31-27), North Texas(49-24)
+
+Indiana State beat: Ball State(27-20)
+
+Iowa beat: Ball State(17-13), Indiana(45-29), Pittsburgh(24-20), Purdue(24-10)
+
+Iowa State beat: Iowa(20-17), Toledo(37-30)
+
+Kansas beat: Central Michigan(24-10), Southeast Missouri State(34-28)
+
+Kansas State beat: Iowa State(32-28), Oklahoma(31-30), Texas Tech(45-13), Texas-El Paso(58-28)
+
+Kent State beat: Army(39-17)
+
+Kentucky beat: Louisiana-Monroe(48-14), Ohio(20-3), South Carolina(45-38), Vanderbilt(17-7)
+
+Lamar beat: none
+
+Liberty beat: Appalachian State(55-48)
+
+Louisiana State beat: Florida(30-27), Kentucky(41-3), Louisiana-Monroe(31-0), New Mexico State(63-7), Sam Houston State(56-0)
+
+Louisiana Tech beat: Louisiana-Lafayette(48-20), North Texas(42-21), Texas-El Paso(55-3)
+
+Louisiana-Lafayette beat: Georgia State(34-31), Texas State(34-10)
+
+Louisiana-Monroe beat: Idaho(38-31), Troy(22-20)
+
+Louisville beat: Florida International(34-3), Murray State(66-21), Syracuse(28-6), Wake Forest(20-10)
+
+Maine beat: none
+
+Marshall beat: Akron(48-17), Middle Tennessee State(49-24), Ohio(44-14), Old Dominion(56-14), Rhode Island(48-7)
+
+Maryland beat: Indiana(37-15), South Florida(24-17), Syracuse(34-20)
+
+Massachusetts beat: Kent State(40-17)
+
+McNeese State beat: none
+
+Memphis beat: Cincinnati(41-14), Middle Tennessee State(36-17)
+
+Miami (FL) beat: Arkansas State(41-20), Cincinnati(55-34), Duke(22-10), Florida A&M(41-7)
+
+Miami (OH) beat: Massachusetts(42-41)
+
+Michigan beat: Miami (OH)(34-10), Penn State(18-13)
+
+Michigan State beat: Eastern Michigan(73-14), Nebraska(27-22), Purdue(45-31), Wyoming(56-14)
+
+Middle Tennessee State beat: Old Dominion(41-28), Southern Mississippi(37-31), Western Kentucky(50-47)
+
+Minnesota beat: Michigan(30-14), Middle Tennessee State(35-24), Northwestern(24-17), San Jose State(24-7)
+
+Mississippi beat: Alabama(23-17), Louisiana-Lafayette(56-15), Memphis(24-3), Texas A&M(35-20), Vanderbilt(41-3)
+
+Mississippi State beat: Alabama-Birmingham(47-34), Auburn(38-23), Louisiana State(34-29), South Alabama(35-3), Texas A&M(48-31)
+
+Missouri beat: Central Florida(38-10), South Carolina(21-20), Toledo(49-24)
+
+Missouri State beat: none
+
+Murray State beat: none
+
+Navy beat: Temple(31-24), Texas State(35-21), Virginia Military Institute(51-14)
+
+Nebraska beat: Fresno State(55-19), Illinois(45-14), McNeese State(31-24), Miami (FL)(41-31)
+
+Nevada beat: San Jose State(21-10)
+
+Nevada-Las Vegas beat: Fresno State(30-27), Northern Colorado(13-12)
+
+New Mexico beat: New Mexico State(38-35), Texas-San Antonio(21-9)
+
+New Mexico State beat: Georgia State(34-31)
+
+Nicholls State beat: none
+
+Norfolk State beat: none
+
+North Carolina beat: San Diego State(31-27)
+
+North Carolina State beat: Old Dominion(46-34), Presbyterian(42-0), South Florida(49-17)
+
+North Texas beat: Nicholls State(77-3), Southern Methodist(43-6)
+
+Northern Colorado beat: none
+
+Northern Illinois beat: Kent State(17-14), Nevada-Las Vegas(48-34), Northwestern(23-15)
+
+Northern Iowa beat: none
+
+Northwestern beat: Penn State(29-6), Western Illinois(24-7), Wisconsin(20-14)
+
+Northwestern State beat: Louisiana Tech(30-27)
+
+Notre Dame beat: Michigan(31-0), North Carolina(50-43), Purdue(30-14), Stanford(17-14), Syracuse(31-15)
+
+Ohio beat: Eastern Illinois(34-19), Idaho(36-24)
+
+Ohio State beat: Cincinnati(50-28), Kent State(66-0), Maryland(52-24)
+
+Oklahoma beat: Tennessee(34-10), Texas(31-26), Tulsa(52-7), West Virginia(45-33)
+
+Oklahoma State beat: Iowa State(37-20), Kansas(27-20), Missouri State(40-23), Texas Tech(45-35), Texas-San Antonio(43-13)
+
+Old Dominion beat: Eastern Michigan(17-3), Rice(45-42)
+
+Oregon beat: Michigan State(46-27), UCLA(42-30), Washington State(38-31), Wyoming(48-14)
+
+Oregon State beat: Colorado(36-31), Hawaii(38-30), San Diego State(28-7)
+
+Penn State beat: Akron(21-3), Massachusetts(48-7), Rutgers(13-10)
+
+Pittsburgh beat: Florida International(42-25), Virginia Tech(21-16)
+
+Portland State beat: none
+
+Presbyterian beat: none
+
+Purdue beat: Illinois(38-27), Southern Illinois(35-13)
+
+Rhode Island beat: none
+
+Rice beat: Army(41-21), Hawaii(28-14), Southern Mississippi(41-23)
+
+Richmond beat: none
+
+Rutgers beat: Howard(38-25), Michigan(26-24), Navy(31-24), Tulane(31-6)
+
+Sam Houston State beat: none
+
+San Diego State beat: Nevada-Las Vegas(34-17), New Mexico(24-14)
+
+San Jose State beat: Nevada-Las Vegas(33-10)
+
+Savannah State beat: none
+
+South Alabama beat: Appalachian State(47-21), Idaho(34-10), Kent State(23-13)
+
+South Carolina beat: East Carolina(33-23), Georgia(38-35), Vanderbilt(48-34)
+
+South Florida beat: Connecticut(17-14)
+
+Southeast Missouri State beat: none
+
+Southeastern Louisiana beat: none
+
+Southern California beat: Arizona(28-26), Oregon State(35-10), Stanford(13-10)
+
+Southern Illinois beat: none
+
+Southern Methodist beat: none
+
+Southern Mississippi beat: Alcorn State(26-20), Appalachian State(21-20)
+
+Southern Utah beat: none
+
+Stanford beat: Army(35-0), Washington(20-13), Washington State(34-17)
+
+Stony Brook beat: none
+
+Syracuse beat: Central Michigan(40-3)
+
+Temple beat: Connecticut(36-10), Delaware State(59-0), Tulsa(35-24)
+
+Tennessee beat: Arkansas State(34-19), Chattanooga(45-10)
+
+Texas beat: Kansas(23-0)
+
+Texas A&M beat: Arkansas(35-28), Lamar(73-3), Rice(38-10), Southern Methodist(58-6)
+
+Texas Christian beat: Minnesota(30-7), Oklahoma(37-33), Southern Methodist(56-0)
+
+Texas State beat: Idaho(35-30), Tulsa(37-34)
+
+Texas Tech beat: Texas-El Paso(30-26)
+
+Texas-El Paso beat: New Mexico State(42-24), Old Dominion(42-35)
+
+Texas-San Antonio beat: Florida International(16-13)
+
+Toledo beat: Ball State(34-23), Central Michigan(42-28), Western Michigan(20-19)
+
+Towson beat: none
+
+Troy beat: New Mexico State(41-24)
+
+Tulane beat: Connecticut(12-3), Southeastern Louisiana(35-20)
+
+Tulsa beat: none
+
+UCLA beat: Arizona State(62-27), Memphis(42-35), Texas(20-17)
+
+Utah beat: Fresno State(59-27), Michigan(26-10), Oregon State(29-23), UCLA(30-28)
+
+Utah State beat: Air Force(34-16), Brigham Young(35-20), Idaho State(40-20), Wake Forest(36-24)
+
+Vanderbilt beat: Charleston Southern(21-20), Massachusetts(34-31)
+
+Virginia beat: Kent State(45-13), Louisville(23-21), Pittsburgh(24-19), Richmond(45-13)
+
+Virginia Military Institute beat: none
+
+Virginia Tech beat: North Carolina(34-17), Ohio State(35-21), Western Michigan(35-17)
+
+Wagner beat: none
+
+Wake Forest beat: Army(24-21), Gardner-Webb(23-7)
+
+Washington beat: California(31-7), Eastern Washington(59-52), Georgia State(45-14), Illinois(44-19)
+
+Washington State beat: Portland State(59-21), Utah(28-27)
+
+West Virginia beat: Kansas(33-14), Maryland(40-37), Texas Tech(37-34), Towson(54-0)
+
+Western Illinois beat: none
+
+Western Kentucky beat: Navy(36-27)
+
+Western Michigan beat: Ball State(42-38), Idaho(45-33), Murray State(45-14)
+
+Wisconsin beat: Bowling Green State(68-17), Illinois(38-28), South Florida(27-10), Western Illinois(37-3)
+
+Wyoming beat: Air Force(17-13), Florida Atlantic(20-19)
+
+Yale beat: Army(49-43)
+
+
+next command: graph,200,2000
+
+next command: depth_first_search
+
+The array pi contents:
+
+pi[Air Force] = none
+pi[Akron] = Ball State
+pi[Alabama] = Mississippi
+pi[Alabama-Birmingham] = Florida International
+pi[Appalachian State] = Southern Mississippi
+pi[Arizona] = UCLA
+pi[Arizona State] = Oregon State
+pi[Arkansas] = Missouri
+pi[Arkansas State] = Appalachian State
+pi[Army] = Air Force
+pi[Auburn] = Alabama
+pi[Ball State] = Army
+pi[Baylor] = West Virginia
+pi[Bethune-Cookman] = Central Florida
+pi[Boise State] = Air Force
+pi[Boston College] = Clemson
+pi[Bowling Green State] = Northern Illinois
+pi[Brigham Young] = Central Florida
+pi[Buffalo] = Eastern Michigan
+pi[California] = Brigham Young
+pi[Central Florida] = Connecticut
+pi[Central Michigan] = Kansas
+pi[Charleston Southern] = Vanderbilt
+pi[Chattanooga] = Tennessee
+pi[Cincinnati] = Memphis
+pi[Clemson] = Georgia Tech
+pi[Colorado] = California
+pi[Colorado State] = Utah
+pi[Connecticut] = Southern Methodist
+pi[Delaware State] = Temple
+pi[Duke] = Arizona State
+pi[East Carolina] = Florida
+pi[Eastern Illinois] = Ohio
+pi[Eastern Kentucky] = Florida
+pi[Eastern Michigan] = Akron
+pi[Florida] = South Carolina
+pi[Florida Atlantic] = Alabama-Birmingham
+pi[Florida International] = Pittsburgh
+pi[Florida State] = Oregon
+pi[Fordham] = Army
+pi[Fresno State] = Nevada-Las Vegas
+pi[Furman] = South Carolina
+pi[Georgia] = Florida
+pi[Georgia Southern] = Navy
+pi[Georgia State] = Arkansas State
+pi[Georgia Tech] = Duke
+pi[Hawaii] = Colorado
+pi[Houston] = Tulane
+pi[Idaho] = Arkansas State
+pi[Illinois] = Louisiana Tech
+pi[Indiana] = Iowa
+pi[Iowa] = Minnesota
+pi[Iowa State] = Kansas
+pi[Kansas] = Kansas State
+pi[Kansas State] = Auburn
+pi[Kent State] = Massachusetts
+pi[Kentucky] = Louisville
+pi[Liberty] = none
+pi[Louisiana State] = Arkansas
+pi[Louisiana Tech] = Old Dominion
+pi[Louisiana-Lafayette] = Appalachian State
+pi[Louisiana-Monroe] = Arkansas State
+pi[Louisville] = Virginia
+pi[Maine] = Boston College
+pi[Marshall] = Western Kentucky
+pi[Maryland] = Stanford
+pi[Massachusetts] = Buffalo
+pi[Memphis] = Houston
+pi[Miami (FL)] = Florida State
+pi[Miami (OH)] = Buffalo
+pi[Michigan] = Utah
+pi[Michigan State] = none
+pi[Middle Tennessee State] = Memphis
+pi[Minnesota] = Illinois
+pi[Mississippi] = Louisiana State
+pi[Mississippi State] = Alabama
+pi[Missouri] = Indiana
+pi[Murray State] = Western Michigan
+pi[Navy] = Notre Dame
+pi[Nebraska] = Southern California
+pi[Nevada] = Fresno State
+pi[Nevada-Las Vegas] = Hawaii
+pi[New Mexico] = San Diego State
+pi[New Mexico State] = Idaho
+pi[Nicholls State] = North Texas
+pi[Norfolk State] = Buffalo
+pi[North Carolina] = North Carolina State
+pi[North Carolina State] = Boston College
+pi[North Texas] = Texas-San Antonio
+pi[Northern Illinois] = Central Michigan
+pi[Northwestern] = Michigan
+pi[Northwestern State] = none
+pi[Notre Dame] = Northwestern
+pi[Ohio] = Bowling Green State
+pi[Ohio State] = none
+pi[Oklahoma] = Kansas State
+pi[Oklahoma State] = Texas
+pi[Old Dominion] = Middle Tennessee State
+pi[Oregon] = Arizona
+pi[Oregon State] = California
+pi[Penn State] = Maryland
+pi[Pittsburgh] = Akron
+pi[Portland State] = Washington State
+pi[Presbyterian] = Mississippi
+pi[Purdue] = Nebraska
+pi[Rice] = Texas A&M
+pi[Rutgers] = Nebraska
+pi[Samford] = Auburn
+pi[San Diego State] = Nevada
+pi[San Jose State] = San Diego State
+pi[Savannah State] = Brigham Young
+pi[South Alabama] = Arkansas State
+pi[South Carolina] = Kentucky
+pi[South Florida] = East Carolina
+pi[Southeastern Louisiana] = Tulane
+pi[Southern California] = UCLA
+pi[Southern Illinois] = Purdue
+pi[Southern Methodist] = Tulsa
+pi[Southern Mississippi] = Texas-San Antonio
+pi[Southern Utah] = Fresno State
+pi[Stanford] = Notre Dame
+pi[Syracuse] = Maryland
+pi[Temple] = Cincinnati
+pi[Tennessee] = Alabama
+pi[Tennessee-Martin] = Mississippi State
+pi[Texas] = Oklahoma
+pi[Texas A&M] = Mississippi State
+pi[Texas Christian] = Baylor
+pi[Texas State] = South Alabama
+pi[Texas Tech] = Oklahoma State
+pi[Texas-El Paso] = Utah State
+pi[Texas-San Antonio] = Florida Atlantic
+pi[Toledo] = Northern Illinois
+pi[Troy] = Louisiana-Monroe
+pi[Tulane] = East Carolina
+pi[Tulsa] = Texas State
+pi[UCLA] = Stanford
+pi[Utah] = Washington State
+pi[Utah State] = Colorado State
+pi[Vanderbilt] = Mississippi State
+pi[Virginia] = North Carolina
+pi[Virginia Military Institute] = Navy
+pi[Virginia Tech] = Wake Forest
+pi[Wake Forest] = Utah State
+pi[Washington] = Oklahoma State
+pi[Washington State] = Washington
+pi[West Virginia] = Texas
+pi[Western Carolina] = Alabama
+pi[Western Illinois] = Northwestern
+pi[Western Kentucky] = Louisiana Tech
+pi[Western Michigan] = Toledo
+pi[Wisconsin] = Northwestern
+pi[Wyoming] = New Mexico
+pi[Yale] = none
+
+The array discoverTime contents:
+
+discoverTime[Air Force] = number 1
+discoverTime[Akron] = number 4
+discoverTime[Alabama] = number 107
+discoverTime[Alabama-Birmingham] = number 19
+discoverTime[Appalachian State] = number 27
+discoverTime[Arizona] = number 167
+discoverTime[Arizona State] = number 70
+discoverTime[Arkansas] = number 104
+discoverTime[Arkansas State] = number 28
+discoverTime[Army] = number 2
+discoverTime[Auburn] = number 108
+discoverTime[Ball State] = number 3
+discoverTime[Baylor] = number 199
+discoverTime[Bethune-Cookman] = number 45
+discoverTime[Boise State] = number 296
+discoverTime[Boston College] = number 74
+discoverTime[Bowling Green State] = number 113
+discoverTime[Brigham Young] = number 47
+discoverTime[Buffalo] = number 6
+discoverTime[California] = number 48
+discoverTime[Central Florida] = number 44
+discoverTime[Central Michigan] = number 111
+discoverTime[Charleston Southern] = number 218
+discoverTime[Chattanooga] = number 223
+discoverTime[Cincinnati] = number 90
+discoverTime[Clemson] = number 73
+discoverTime[Colorado] = number 49
+discoverTime[Colorado State] = number 140
+discoverTime[Connecticut] = number 43
+discoverTime[Delaware State] = number 92
+discoverTime[Duke] = number 71
+discoverTime[East Carolina] = number 84
+discoverTime[Eastern Illinois] = number 115
+discoverTime[Eastern Kentucky] = number 252
+discoverTime[Eastern Michigan] = number 5
+discoverTime[Florida] = number 83
+discoverTime[Florida Atlantic] = number 20
+discoverTime[Florida International] = number 18
+discoverTime[Florida State] = number 169
+discoverTime[Fordham] = number 293
+discoverTime[Fresno State] = number 52
+discoverTime[Furman] = number 257
+discoverTime[Georgia] = number 254
+discoverTime[Georgia Southern] = number 154
+discoverTime[Georgia State] = number 29
+discoverTime[Georgia Tech] = number 72
+discoverTime[Hawaii] = number 50
+discoverTime[Houston] = number 88
+discoverTime[Idaho] = number 31
+discoverTime[Illinois] = number 99
+discoverTime[Indiana] = number 102
+discoverTime[Iowa] = number 101
+discoverTime[Iowa State] = number 127
+discoverTime[Kansas] = number 110
+discoverTime[Kansas State] = number 109
+discoverTime[Kent State] = number 8
+discoverTime[Kentucky] = number 81
+discoverTime[Liberty] = number 299
+discoverTime[Louisiana State] = number 105
+discoverTime[Louisiana Tech] = number 98
+discoverTime[Louisiana-Lafayette] = number 282
+discoverTime[Louisiana-Monroe] = number 35
+discoverTime[Louisville] = number 80
+discoverTime[Maine] = number 75
+discoverTime[Marshall] = number 240
+discoverTime[Maryland] = number 160
+discoverTime[Massachusetts] = number 7
+discoverTime[Memphis] = number 89
+discoverTime[Miami (FL)] = number 170
+discoverTime[Miami (OH)] = number 11
+discoverTime[Michigan] = number 150
+discoverTime[Michigan State] = number 301
+discoverTime[Middle Tennessee State] = number 96
+discoverTime[Minnesota] = number 100
+discoverTime[Mississippi] = number 106
+discoverTime[Mississippi State] = number 210
+discoverTime[Missouri] = number 103
+discoverTime[Murray State] = number 121
+discoverTime[Navy] = number 153
+discoverTime[Nebraska] = number 176
+discoverTime[Nevada] = number 53
+discoverTime[Nevada-Las Vegas] = number 51
+discoverTime[New Mexico] = number 55
+discoverTime[New Mexico State] = number 32
+discoverTime[Nicholls State] = number 23
+discoverTime[Norfolk State] = number 13
+discoverTime[North Carolina] = number 78
+discoverTime[North Carolina State] = number 77
+discoverTime[North Texas] = number 22
+discoverTime[Northern Illinois] = number 112
+discoverTime[Northwestern] = number 151
+discoverTime[Northwestern State] = number 303
+discoverTime[Notre Dame] = number 152
+discoverTime[Ohio] = number 114
+discoverTime[Ohio State] = number 305
+discoverTime[Oklahoma] = number 130
+discoverTime[Oklahoma State] = number 132
+discoverTime[Old Dominion] = number 97
+discoverTime[Oregon] = number 168
+discoverTime[Oregon State] = number 69
+discoverTime[Penn State] = number 161
+discoverTime[Pittsburgh] = number 17
+discoverTime[Portland State] = number 137
+discoverTime[Presbyterian] = number 229
+discoverTime[Purdue] = number 177
+discoverTime[Rice] = number 214
+discoverTime[Rutgers] = number 181
+discoverTime[Samford] = number 207
+discoverTime[San Diego State] = number 54
+discoverTime[San Jose State] = number 59
+discoverTime[Savannah State] = number 272
+discoverTime[South Alabama] = number 39
+discoverTime[South Carolina] = number 82
+discoverTime[South Florida] = number 85
+discoverTime[Southeastern Louisiana] = number 248
+discoverTime[Southern California] = number 175
+discoverTime[Southern Illinois] = number 178
+discoverTime[Southern Methodist] = number 42
+discoverTime[Southern Mississippi] = number 26
+discoverTime[Southern Utah] = number 63
+discoverTime[Stanford] = number 159
+discoverTime[Syracuse] = number 163
+discoverTime[Temple] = number 91
+discoverTime[Tennessee] = number 222
+discoverTime[Tennessee-Martin] = number 211
+discoverTime[Texas] = number 131
+discoverTime[Texas A&M] = number 213
+discoverTime[Texas Christian] = number 200
+discoverTime[Texas State] = number 40
+discoverTime[Texas Tech] = number 133
+discoverTime[Texas-El Paso] = number 142
+discoverTime[Texas-San Antonio] = number 21
+discoverTime[Toledo] = number 119
+discoverTime[Troy] = number 36
+discoverTime[Tulane] = number 87
+discoverTime[Tulsa] = number 41
+discoverTime[UCLA] = number 166
+discoverTime[Utah] = number 139
+discoverTime[Utah State] = number 141
+discoverTime[Vanderbilt] = number 217
+discoverTime[Virginia] = number 79
+discoverTime[Virginia Military Institute] = number 156
+discoverTime[Virginia Tech] = number 145
+discoverTime[Wake Forest] = number 144
+discoverTime[Washington] = number 135
+discoverTime[Washington State] = number 136
+discoverTime[West Virginia] = number 198
+discoverTime[Western Carolina] = number 226
+discoverTime[Western Illinois] = number 188
+discoverTime[Western Kentucky] = number 239
+discoverTime[Western Michigan] = number 120
+discoverTime[Wisconsin] = number 190
+discoverTime[Wyoming] = number 56
+discoverTime[Yale] = number 307
+
+The array finishTime contents:
+
+finishTime[Air Force] = number 298
+finishTime[Akron] = number 291
+finishTime[Alabama] = number 228
+finishTime[Alabama-Birmingham] = number 288
+finishTime[Appalachian State] = number 284
+finishTime[Arizona] = number 174
+finishTime[Arizona State] = number 269
+finishTime[Arkansas] = number 233
+finishTime[Arkansas State] = number 281
+finishTime[Army] = number 295
+finishTime[Auburn] = number 209
+finishTime[Ball State] = number 292
+finishTime[Baylor] = number 202
+finishTime[Bethune-Cookman] = number 46
+finishTime[Boise State] = number 297
+finishTime[Boston College] = number 265
+finishTime[Bowling Green State] = number 118
+finishTime[Brigham Young] = number 274
+finishTime[Buffalo] = number 15
+finishTime[California] = number 271
+finishTime[Central Florida] = number 275
+finishTime[Central Michigan] = number 126
+finishTime[Charleston Southern] = number 219
+finishTime[Chattanooga] = number 224
+finishTime[Cincinnati] = number 95
+finishTime[Clemson] = number 266
+finishTime[Colorado] = number 68
+finishTime[Colorado State] = number 149
+finishTime[Connecticut] = number 276
+finishTime[Delaware State] = number 93
+finishTime[Duke] = number 268
+finishTime[East Carolina] = number 251
+finishTime[Eastern Illinois] = number 116
+finishTime[Eastern Kentucky] = number 253
+finishTime[Eastern Michigan] = number 16
+finishTime[Florida] = number 256
+finishTime[Florida Atlantic] = number 287
+finishTime[Florida International] = number 289
+finishTime[Florida State] = number 172
+finishTime[Fordham] = number 294
+finishTime[Fresno State] = number 65
+finishTime[Furman] = number 258
+finishTime[Georgia] = number 255
+finishTime[Georgia Southern] = number 155
+finishTime[Georgia State] = number 30
+finishTime[Georgia Tech] = number 267
+finishTime[Hawaii] = number 67
+finishTime[Houston] = number 247
+finishTime[Idaho] = number 34
+finishTime[Illinois] = number 238
+finishTime[Indiana] = number 235
+finishTime[Iowa] = number 236
+finishTime[Iowa State] = number 128
+finishTime[Kansas] = number 129
+finishTime[Kansas State] = number 206
+finishTime[Kent State] = number 9
+finishTime[Kentucky] = number 260
+finishTime[Liberty] = number 300
+finishTime[Louisiana State] = number 232
+finishTime[Louisiana Tech] = number 243
+finishTime[Louisiana-Lafayette] = number 283
+finishTime[Louisiana-Monroe] = number 38
+finishTime[Louisville] = number 261
+finishTime[Maine] = number 76
+finishTime[Marshall] = number 241
+finishTime[Maryland] = number 165
+finishTime[Massachusetts] = number 10
+finishTime[Memphis] = number 246
+finishTime[Miami (FL)] = number 171
+finishTime[Miami (OH)] = number 12
+finishTime[Michigan] = number 193
+finishTime[Michigan State] = number 302
+finishTime[Middle Tennessee State] = number 245
+finishTime[Minnesota] = number 237
+finishTime[Mississippi] = number 231
+finishTime[Mississippi State] = number 221
+finishTime[Missouri] = number 234
+finishTime[Murray State] = number 122
+finishTime[Navy] = number 158
+finishTime[Nebraska] = number 183
+finishTime[Nevada] = number 62
+finishTime[Nevada-Las Vegas] = number 66
+finishTime[New Mexico] = number 58
+finishTime[New Mexico State] = number 33
+finishTime[Nicholls State] = number 24
+finishTime[Norfolk State] = number 14
+finishTime[North Carolina] = number 263
+finishTime[North Carolina State] = number 264
+finishTime[North Texas] = number 25
+finishTime[Northern Illinois] = number 125
+finishTime[Northwestern] = number 192
+finishTime[Northwestern State] = number 304
+finishTime[Notre Dame] = number 187
+finishTime[Ohio] = number 117
+finishTime[Ohio State] = number 306
+finishTime[Oklahoma] = number 205
+finishTime[Oklahoma State] = number 197
+finishTime[Old Dominion] = number 244
+finishTime[Oregon] = number 173
+finishTime[Oregon State] = number 270
+finishTime[Penn State] = number 162
+finishTime[Pittsburgh] = number 290
+finishTime[Portland State] = number 138
+finishTime[Presbyterian] = number 230
+finishTime[Purdue] = number 180
+finishTime[Rice] = number 215
+finishTime[Rutgers] = number 182
+finishTime[Samford] = number 208
+finishTime[San Diego State] = number 61
+finishTime[San Jose State] = number 60
+finishTime[Savannah State] = number 273
+finishTime[South Alabama] = number 280
+finishTime[South Carolina] = number 259
+finishTime[South Florida] = number 86
+finishTime[Southeastern Louisiana] = number 249
+finishTime[Southern California] = number 184
+finishTime[Southern Illinois] = number 179
+finishTime[Southern Methodist] = number 277
+finishTime[Southern Mississippi] = number 285
+finishTime[Southern Utah] = number 64
+finishTime[Stanford] = number 186
+finishTime[Syracuse] = number 164
+finishTime[Temple] = number 94
+finishTime[Tennessee] = number 225
+finishTime[Tennessee-Martin] = number 212
+finishTime[Texas] = number 204
+finishTime[Texas A&M] = number 216
+finishTime[Texas Christian] = number 201
+finishTime[Texas State] = number 279
+finishTime[Texas Tech] = number 134
+finishTime[Texas-El Paso] = number 143
+finishTime[Texas-San Antonio] = number 286
+finishTime[Toledo] = number 124
+finishTime[Troy] = number 37
+finishTime[Tulane] = number 250
+finishTime[Tulsa] = number 278
+finishTime[UCLA] = number 185
+finishTime[Utah] = number 194
+finishTime[Utah State] = number 148
+finishTime[Vanderbilt] = number 220
+finishTime[Virginia] = number 262
+finishTime[Virginia Military Institute] = number 157
+finishTime[Virginia Tech] = number 146
+finishTime[Wake Forest] = number 147
+finishTime[Washington] = number 196
+finishTime[Washington State] = number 195
+finishTime[West Virginia] = number 203
+finishTime[Western Carolina] = number 227
+finishTime[Western Illinois] = number 189
+finishTime[Western Kentucky] = number 242
+finishTime[Western Michigan] = number 123
+finishTime[Wisconsin] = number 191
+finishTime[Wyoming] = number 57
+finishTime[Yale] = number 308
+
+next command: print_graph
+
+Graph (Adjacency Node) contents
+
+Air Force beat: Army(23-6), Boise State(28-14), Colorado State(27-24), Navy(30-21), Nevada(45-38), Nevada-Las Vegas(48-21), New Mexico(35-31), Western Michigan(38-24)
+
+Akron beat: Eastern Michigan(31-6), Massachusetts(30-6), Miami (OH)(29-19), Pittsburgh(21-10)
+
+Alabama beat: Arkansas(14-13), Auburn(55-44), Florida(42-21), Louisiana State(20-13), Mississippi State(25-20), Missouri(42-13), Tennessee(34-20), Texas A&M(59-0), Western Carolina(48-14)
+
+Alabama-Birmingham beat: Florida Atlantic(31-28), North Texas(56-21), Southern Mississippi(45-24), Western Kentucky(42-39)
+
+Appalachian State beat: Arkansas State(37-32), Georgia State(44-0), Idaho(45-28), Louisiana-Lafayette(35-16), Louisiana-Monroe(31-29), Troy(53-14)
+
+Arizona beat: Arizona State(42-35), California(49-45), Colorado(38-20), Oregon(31-24), Utah(42-10), Washington(27-26), Washington State(59-37)
+
+Arizona State beat: Duke(36-31), Notre Dame(55-31), Southern California(38-34), Stanford(26-10), Utah(19-16), Washington(24-10), Washington State(52-31)
+
+Arkansas beat: Alabama-Birmingham(45-17), Louisiana State(17-0), Mississippi(30-0), Northern Illinois(52-14), Texas(31-7)
+
+Arkansas State beat: Georgia State(52-10), Idaho(44-28), Louisiana-Monroe(28-14), New Mexico State(68-35), South Alabama(45-10), Utah State(21-14)
+
+Army beat: Ball State(33-24), Connecticut(35-21), Fordham(42-31)
+
+Auburn beat: Kansas State(20-14), Louisiana State(41-7), Louisiana Tech(45-17), Mississippi(35-31), Samford(31-7), South Carolina(42-35)
+
+Ball State beat: Akron(35-21), Bowling Green State(41-24), Central Michigan(32-29), Eastern Michigan(45-30)
+
+Baylor beat: Iowa State(49-28), Kansas(60-14), Kansas State(38-27), Oklahoma(48-14), Oklahoma State(49-28), Texas(28-7), Texas Christian(61-58), Texas Tech(48-46)
+
+Bethune-Cookman beat: none
+
+Boise State beat: Arizona(38-30), Brigham Young(55-30), Fresno State(28-14), Fresno State(37-27), Louisiana-Lafayette(34-9), Nevada(51-46), New Mexico(60-49), San Diego State(38-29), Utah State(50-19), Wyoming(63-14)
+
+Boston College beat: Maine(40-10), North Carolina State(30-14), Syracuse(28-7), Virginia Tech(33-31), Wake Forest(23-17)
+
+Bowling Green State beat: Akron(27-10), Buffalo(36-35), Kent State(30-20), Massachusetts(47-42), Ohio(31-13), South Alabama(33-28)
+
+Brigham Young beat: California(42-35), Middle Tennessee State(27-7), Nevada-Las Vegas(42-23), Savannah State(64-0), Virginia(41-33)
+
+Buffalo beat: Akron(55-24), Massachusetts(41-21), Miami (OH)(35-27), Norfolk State(36-7)
+
+California beat: Colorado(59-56), Oregon State(45-31), Washington State(60-59)
+
+Central Florida beat: Bethune-Cookman(41-7), Brigham Young(31-24), East Carolina(32-30), Houston(17-12), South Florida(16-0), Southern Methodist(53-7), Temple(34-14), Tulane(20-13), Tulsa(31-7)
+
+Central Michigan beat: Buffalo(20-14), Eastern Michigan(38-7), Miami (OH)(34-27), Northern Illinois(34-17), Ohio(28-10)
+
+Charleston Southern beat: none
+
+Chattanooga beat: none
+
+Cincinnati beat: Connecticut(41-0), East Carolina(54-46), Houston(38-31), Miami (OH)(31-24), South Florida(34-17), Southern Methodist(41-3), Temple(14-6), Tulane(38-14)
+
+Clemson beat: Boston College(17-13), Georgia State(28-0), Louisville(23-17), North Carolina(50-35), North Carolina State(41-0), Oklahoma(40-6), South Carolina(35-17), Syracuse(16-6), Wake Forest(34-20)
+
+Colorado beat: Hawaii(21-12)
+
+Colorado State beat: Boston College(24-21), Hawaii(49-22), Nevada(31-24), New Mexico(58-20), San Jose State(38-31), Tulsa(42-17), Utah State(16-13), Wyoming(45-31)
+
+Connecticut beat: Central Florida(37-29)
+
+Delaware State beat: none
+
+Duke beat: Georgia Tech(31-25), Pittsburgh(51-48), Syracuse(27-10), Tulane(47-13), Virginia(20-13), Wake Forest(41-21)
+
+East Carolina beat: Connecticut(31-21), North Carolina(70-41), South Florida(28-17), Southern Methodist(45-24), Tulane(34-6), Tulsa(49-32)
+
+Eastern Illinois beat: none
+
+Eastern Kentucky beat: none
+
+Eastern Michigan beat: Buffalo(37-27)
+
+Florida beat: East Carolina(28-20), Eastern Kentucky(52-3), Georgia(38-20), Tennessee(10-9), Vanderbilt(34-10)
+
+Florida Atlantic beat: Texas-San Antonio(41-37), Western Kentucky(45-38)
+
+Florida International beat: Alabama-Birmingham(34-20), Florida Atlantic(38-10), Middle Tennessee State(38-28)
+
+Florida State beat: Boston College(20-17), Clemson(23-17), Florida(24-19), Georgia Tech(37-35), Louisville(42-31), Miami (FL)(30-26), North Carolina State(56-41), Notre Dame(31-27), Syracuse(38-20), Virginia(34-20), Wake Forest(43-3)
+
+Fordham beat: none
+
+Fresno State beat: Hawaii(28-21), Nevada(40-20), New Mexico(35-24), San Diego State(24-13), San Jose State(38-24), Southern Utah(56-16)
+
+Furman beat: none
+
+Georgia beat: Arkansas(45-32), Auburn(34-7), Charleston Southern(55-9), Kentucky(63-31), Louisville(37-14), Missouri(34-0), Tennessee(35-32), Troy(66-0), Vanderbilt(44-17)
+
+Georgia Southern beat: Appalachian State(34-14), Georgia State(69-31), Idaho(47-24), Louisiana-Monroe(22-16), New Mexico State(36-28), South Alabama(28-6), Texas State(28-25), Troy(42-10)
+
+Georgia State beat: none
+
+Georgia Tech beat: Clemson(28-6), Georgia(30-24), Miami (FL)(28-17), Mississippi State(49-34), North Carolina State(56-23), Pittsburgh(56-28), Virginia(35-10), Virginia Tech(27-24)
+
+Hawaii beat: Nevada-Las Vegas(37-35), San Jose State(13-0), Wyoming(38-28)
+
+Houston beat: Memphis(28-24), Nevada-Las Vegas(47-14), Pittsburgh(35-34), South Florida(27-3), Southern Methodist(35-9), Temple(31-10), Tulsa(38-28)
+
+Idaho beat: New Mexico State(29-17)
+
+Illinois beat: Minnesota(28-24), Northwestern(47-33), Penn State(16-14), Texas State(42-35)
+
+Indiana beat: Missouri(31-27), North Texas(49-24), Purdue(23-16)
+
+Iowa beat: Illinois(30-14), Indiana(45-29), Northwestern(48-7), Pittsburgh(24-20), Purdue(24-10)
+
+Iowa State beat: Toledo(37-30)
+
+Kansas beat: Central Michigan(24-10), Iowa State(34-14)
+
+Kansas State beat: Kansas(51-13), Oklahoma(31-30), Oklahoma State(48-14), Texas(23-0), Texas Tech(45-13), Texas-El Paso(58-28), West Virginia(26-20)
+
+Kent State beat: Akron(27-24), Army(39-17)
+
+Kentucky beat: Louisiana-Monroe(48-14), South Carolina(45-38), Vanderbilt(17-7)
+
+Liberty beat: Appalachian State(55-48)
+
+Louisiana State beat: Florida(30-27), Kentucky(41-3), Mississippi(10-7), New Mexico State(63-7), Texas A&M(23-17)
+
+Louisiana Tech beat: Alabama-Birmingham(40-24), Illinois(35-18), Rice(76-31), Southern Mississippi(31-20), Texas-El Paso(55-3), Texas-San Antonio(27-20), Western Kentucky(59-10)
+
+Louisiana-Lafayette beat: Arkansas State(55-40), Georgia State(34-31), Louisiana-Monroe(34-27), Nevada(16-3), New Mexico State(44-16), South Alabama(19-9), Texas State(34-10), Troy(42-23)
+
+Louisiana-Monroe beat: New Mexico State(30-17), Troy(22-20)
+
+Louisville beat: Boston College(38-19), Florida International(34-3), Kentucky(44-40), North Carolina State(30-18), Notre Dame(31-28), Syracuse(28-6), Wake Forest(20-10)
+
+Maine beat: none
+
+Marshall beat: Akron(48-17), Alabama-Birmingham(23-18), Florida Atlantic(35-16), Florida International(45-13), Louisiana Tech(26-23), Middle Tennessee State(49-24), Northern Illinois(52-23), Old Dominion(56-14), Rice(41-14), Southern Mississippi(63-17)
+
+Maryland beat: Indiana(37-15), Iowa(38-31), Michigan(23-16), Penn State(20-19), Syracuse(34-20)
+
+Massachusetts beat: Ball State(24-10), Eastern Michigan(36-14), Kent State(40-17)
+
+Memphis beat: Brigham Young(55-48), Cincinnati(41-14), Connecticut(41-10), Middle Tennessee State(36-17), South Florida(31-20), Southern Methodist(48-10), Temple(16-13), Tulane(38-7), Tulsa(40-20)
+
+Miami (FL) beat: Cincinnati(55-34), Duke(22-10), North Carolina(47-20), Virginia Tech(30-6)
+
+Miami (OH) beat: Kent State(10-3), Massachusetts(42-41)
+
+Michigan beat: Indiana(34-10), Northwestern(10-9), Penn State(18-13)
+
+Michigan State beat: Baylor(42-41), Eastern Michigan(73-14), Indiana(56-17), Maryland(37-15), Michigan(35-11), Nebraska(27-22), Penn State(34-10), Purdue(45-31), Rutgers(45-3), Wyoming(56-14)
+
+Middle Tennessee State beat: Alabama-Birmingham(34-22), Florida Atlantic(35-34), Old Dominion(41-28), Southern Mississippi(37-31)
+
+Minnesota beat: Iowa(51-14), Michigan(30-14), Nebraska(28-24), Northwestern(24-17), Purdue(39-38), San Jose State(24-7)
+
+Mississippi beat: Alabama(23-17), Memphis(24-3), Mississippi State(31-17), Presbyterian(48-0), Tennessee(34-3), Texas A&M(35-20)
+
+Mississippi State beat: Arkansas(17-10), Auburn(38-23), Kentucky(45-31), Louisiana State(34-29), Tennessee-Martin(45-16), Texas A&M(48-31), Vanderbilt(51-0)
+
+Missouri beat: Arkansas(21-14), Florida(42-13), Kentucky(20-10), Minnesota(33-17), South Carolina(21-20), Tennessee(29-21), Texas A&M(34-27), Vanderbilt(24-14)
+
+Murray State beat: none
+
+Navy beat: Army(17-10), Georgia Southern(52-19), San Diego State(17-16), San Jose State(41-31), South Alabama(42-40), Virginia Military Institute(51-14)
+
+Nebraska beat: Illinois(45-14), Iowa(37-34), Miami (FL)(41-31), Northwestern(38-17), Purdue(35-14), Rutgers(42-24)
+
+Nevada beat: Brigham Young(42-35), Hawaii(26-18), Nevada-Las Vegas(49-27), San Diego State(30-14), San Jose State(21-10)
+
+Nevada-Las Vegas beat: Fresno State(30-27)
+
+New Mexico beat: Nevada-Las Vegas(31-28), New Mexico State(38-35), Texas-San Antonio(21-9), Wyoming(36-30)
+
+New Mexico State beat: none
+
+Nicholls State beat: none
+
+Norfolk State beat: none
+
+North Carolina beat: Duke(45-20), Georgia Tech(48-43), Pittsburgh(40-35), Virginia(28-27)
+
+North Carolina State beat: Central Florida(34-27), North Carolina(35-7), Presbyterian(42-0), Syracuse(24-17), Wake Forest(42-13)
+
+North Texas beat: Florida Atlantic(31-10), Florida International(17-14), Nicholls State(77-3)
+
+Northern Illinois beat: Ball State(35-21), Bowling Green State(51-17), Eastern Michigan(28-17), Kent State(17-14), Miami (OH)(51-41), Ohio(21-14), Toledo(27-24), Western Michigan(31-21)
+
+Northwestern beat: Notre Dame(43-40), Notre Dame(43-40), Notre Dame(43-40), Penn State(29-6), Purdue(38-14), Western Illinois(24-7), Wisconsin(20-14)
+
+Northwestern State beat: Louisiana Tech(30-27)
+
+Notre Dame beat: Louisiana State(31-28), Navy(49-39), North Carolina(50-43), Stanford(17-14), Syracuse(31-15)
+
+Ohio beat: Akron(23-20), Buffalo(37-14), Eastern Illinois(34-19), Idaho(36-24), Miami (OH)(24-21)
+
+Ohio State beat: Alabama(42-35), Cincinnati(50-28), Illinois(55-14), Indiana(42-27), Maryland(52-24), Michigan(42-28), Michigan State(49-37), Minnesota(31-24), Oregon(42-20), Penn State(31-24), Rutgers(56-17), Wisconsin(59-0)
+
+Oklahoma beat: Iowa State(59-14), Kansas(44-7), Texas(31-26), Texas Tech(42-30), West Virginia(45-33)
+
+Oklahoma State beat: Iowa State(37-20), Kansas(27-20), Oklahoma(38-35), Texas Tech(45-35), Washington(30-22)
+
+Old Dominion beat: Florida Atlantic(31-28), Florida International(38-35), Louisiana Tech(30-27), Rice(45-42)
+
+Oregon beat: Arizona(51-13), California(59-41), Colorado(44-10), Florida State(59-20), Oregon State(47-19), Stanford(45-16), UCLA(42-30), Utah(51-27), Washington(45-20), Washington State(38-31)
+
+Oregon State beat: Arizona State(35-27), Colorado(36-31), San Diego State(28-7)
+
+Penn State beat: Boston College(31-30), Indiana(13-7), Massachusetts(48-7), Temple(30-13)
+
+Pittsburgh beat: Florida International(42-25), Miami (FL)(35-23), Syracuse(30-7), Virginia Tech(21-16)
+
+Portland State beat: none
+
+Presbyterian beat: none
+
+Purdue beat: Illinois(38-27), Southern Illinois(35-13)
+
+Rice beat: Army(41-21), Florida International(31-17), Fresno State(30-6), Hawaii(28-14), North Texas(41-21), Southern Mississippi(41-23), Texas-El Paso(31-13), Texas-San Antonio(17-7)
+
+Rutgers beat: Indiana(45-23), Maryland(41-38), Michigan(26-24), Navy(31-24), North Carolina(40-21), Tulane(31-6)
+
+Samford beat: none
+
+San Diego State beat: Air Force(30-14), Hawaii(20-10), Idaho(35-21), Nevada-Las Vegas(34-17), New Mexico(24-14), San Jose State(38-7)
+
+San Jose State beat: Nevada-Las Vegas(33-10), Wyoming(27-20)
+
+Savannah State beat: none
+
+South Alabama beat: Appalachian State(47-21), Georgia State(30-27), Idaho(34-10), Texas State(24-20), Troy(27-13)
+
+South Carolina beat: Florida(23-20), Furman(41-10), Georgia(38-35), Miami (FL)(24-21), South Alabama(37-12), Vanderbilt(48-34)
+
+South Florida beat: Connecticut(17-14), Southern Methodist(14-13), Tulsa(38-30)
+
+Southeastern Louisiana beat: none
+
+Southern California beat: Arizona(28-26), California(38-30), Colorado(56-28), Nebraska(45-42), Notre Dame(49-14), Oregon State(35-10), Washington State(44-17)
+
+Southern Illinois beat: none
+
+Southern Methodist beat: Connecticut(27-20)
+
+Southern Mississippi beat: Appalachian State(21-20), North Texas(30-20)
+
+Southern Utah beat: none
+
+Stanford beat: Army(35-0), California(38-17), Maryland(45-21), Oregon State(38-14), UCLA(31-10), Washington(20-13), Washington State(34-17)
+
+Syracuse beat: Central Michigan(40-3), Wake Forest(30-7)
+
+Temple beat: Connecticut(36-10), Delaware State(59-0), East Carolina(20-10), Tulane(10-3), Tulsa(35-24)
+
+Tennessee beat: Chattanooga(45-10), Iowa(45-28), Kentucky(50-16), South Carolina(45-42), Vanderbilt(24-17)
+
+Tennessee-Martin beat: none
+
+Texas beat: Iowa State(48-45), Kansas(23-0), Oklahoma State(28-7), Texas Tech(34-13), West Virginia(33-16)
+
+Texas A&M beat: Arkansas(35-28), Auburn(41-38), Louisiana-Monroe(21-16), Rice(38-10), Southern Methodist(58-6), West Virginia(45-37)
+
+Texas Christian beat: Iowa State(55-3), Kansas(34-30), Kansas State(41-20), Minnesota(30-7), Mississippi(42-3), Oklahoma(37-33), Oklahoma State(42-9), Southern Methodist(56-0), Texas(48-10), Texas Tech(82-27), West Virginia(31-30)
+
+Texas State beat: Arkansas State(45-27), Georgia State(54-31), Idaho(35-30), Louisiana-Monroe(22-18), New Mexico State(37-29), Tulsa(37-34)
+
+Texas Tech beat: Iowa State(34-31), Kansas(34-21)
+
+Texas-El Paso beat: Middle Tennessee State(24-21), New Mexico State(42-24), North Texas(35-17), Old Dominion(42-35), Southern Mississippi(35-14), Texas-San Antonio(34-0)
+
+Texas-San Antonio beat: Florida International(16-13), North Texas(34-27), Southern Mississippi(12-10)
+
+Toledo beat: Arkansas State(63-44), Ball State(34-23), Bowling Green State(27-20), Central Michigan(42-28), Eastern Michigan(52-16), Kent State(30-20), Massachusetts(42-35), Western Michigan(20-19)
+
+Troy beat: Georgia State(45-21), Idaho(34-17), New Mexico State(41-24)
+
+Tulane beat: Connecticut(12-3), Houston(31-24), Southeastern Louisiana(35-20)
+
+Tulsa beat: Southern Methodist(38-28)
+
+UCLA beat: Arizona(17-7), Arizona State(62-27), California(36-34), Colorado(40-37), Kansas State(40-35), Southern California(38-20), Texas(20-17), Washington(44-30)
+
+Utah beat: Colorado(38-34), Colorado State(45-10), Michigan(26-10), Oregon State(29-23), Southern California(24-21), Stanford(20-17), UCLA(30-28)
+
+Utah State beat: Air Force(34-16), Brigham Young(35-20), Hawaii(35-14), Nevada-Las Vegas(34-20), New Mexico(28-21), San Jose State(41-7), Texas-El Paso(21-6), Wake Forest(36-24), Wyoming(20-3)
+
+Vanderbilt beat: Charleston Southern(21-20), Massachusetts(34-31), Old Dominion(42-28)
+
+Virginia beat: Kent State(45-13), Louisville(23-21), Miami (FL)(30-13), Pittsburgh(24-19)
+
+Virginia Military Institute beat: none
+
+Virginia Tech beat: Cincinnati(33-17), Duke(17-16), North Carolina(34-17), Virginia(24-20), Western Michigan(35-17)
+
+Wake Forest beat: Army(24-21), Virginia Tech(6-3)
+
+Washington beat: California(31-7), Colorado(38-23), Georgia State(45-14), Illinois(44-19), Oregon State(37-13), Washington State(31-13)
+
+Washington State beat: Oregon State(39-32), Portland State(59-21), Utah(28-27)
+
+West Virginia beat: Baylor(41-27), Iowa State(37-24), Kansas(33-14), Maryland(40-37), Oklahoma State(34-10), Texas Tech(37-34)
+
+Western Carolina beat: none
+
+Western Illinois beat: none
+
+Western Kentucky beat: Army(52-24), Central Michigan(49-48), Marshall(67-66), Navy(36-27), Old Dominion(66-51), Texas-El Paso(35-27), Texas-San Antonio(45-7)
+
+Western Michigan beat: Ball State(42-38), Bowling Green State(26-14), Central Michigan(32-20), Eastern Michigan(51-7), Idaho(45-33), Miami (OH)(41-10), Murray State(45-14), Ohio(42-21)
+
+Wisconsin beat: Auburn(34-31), Bowling Green State(68-17), Illinois(38-28), Iowa(26-24), Maryland(52-7), Minnesota(34-24), Nebraska(59-24), Purdue(34-16), Rutgers(37-0), South Florida(27-10)
+
+Wyoming beat: Florida Atlantic(20-19), Fresno State(45-17)
+
+Yale beat: Army(49-43)
+
+
+next command: quit
+Press any key to continue . . . 
