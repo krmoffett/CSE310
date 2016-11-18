@@ -1,0 +1,15 @@
+Arizona State,29,UCLA,19
+UCLA,33,Southern California,10
+Southern California,40,Arizona State,35
+Arizona State,23,Florida State,15
+Arizona State,43,California,34
+Florida State,22,Oregon,11
+Oregon,35,Texas A&M,12
+Texas A&M,55,Washington State,45
+Arizona,21,Florida State,20
+Arizona,21,Colorado State,12
+Colorado State,29,Florida State,25
+Colorado State,47,Oregon,43
+Washington State,38,Colorado State,25
+California,43,Arizona,33
+Arizona,56,California,35

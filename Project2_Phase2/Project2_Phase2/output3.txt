@@ -1,0 +1,102 @@
+
+next command: graph,3,14
+
+
+next command: print_graph
+
+Graph (Adjacency List) content
+
+Arizona beat: California(56-35), Colorado State(21-12), Florida State(21-20)
+
+Arizona State beat: California(43-34), Florida State(23-15)
+
+California beat: Arizona(43-33)
+
+Colorado State beat: Florida State(29-25), Oregon(47-43)
+
+Florida State beat: Oregon(22-11)
+
+Oregon beat: Texas A&M(35-12)
+
+Texas A&M beat: Washington State(55-45)
+
+Washington State beat: Colorado State(38-25)
+
+
+
+next command: compute_transpose
+
+Transpose graph content
+
+Arizona is beaten by: California(43-33)
+
+Arizona State beat by: none
+
+California is beaten by: Arizona(56-35), Arizona State(43-34)
+
+Colorado State is beaten by: Arizona(21-12), Washington State(38-25)
+
+Florida State is beaten by: Arizona(21-20), Arizona State(23-15), Colorado State(29-25)
+
+Oregon is beaten by: Colorado State(47-43), Florida State(22-11)
+
+Texas A&M is beaten by: Oregon(35-12)
+
+Washington State is beaten by: Texas A&M(55-45)
+
+
+
+next command: find_cycles
+
+
+
+Cycle group 0 size: 2
+Arizona, California
+Cycle group 1 size: 5
+Colorado State, Washington State, Texas A&M, Oregon, Florida State
+
+next command: end_graph
+
+
+next command: graph,0,12
+
+
+next command: print_graph
+
+Graph (Adjacency List) content
+
+Arizona beat: Colorado State(21-12), Florida State(21-20)
+
+Arizona State beat: California(43-34), Florida State(23-15), UCLA(29-19)
+
+California beat: none
+
+Colorado State beat: Florida State(29-25), Oregon(47-43)
+
+Florida State beat: Oregon(22-11)
+
+Oregon beat: Texas A&M(35-12)
+
+Southern California beat: Arizona State(40-35)
+
+Texas A&M beat: Washington State(55-45)
+
+UCLA beat: Southern California(33-10)
+
+Washington State beat: Colorado State(38-25)
+
+
+
+next command: find_cycles
+
+
+
+Cycle group 0 size: 3
+Arizona State, Southern California, UCLA
+Cycle group 1 size: 5
+Colorado State, Washington State, Texas A&M, Oregon, Florida State
+
+next command: end_graph
+
+
+next command: quit
