@@ -227,4 +227,10 @@ public:
 			cout << "finishTime[" << array[i].name << "] = number " << array[i].f << endl;
 		}
 	}
+
+	void computeTranspose(Graph graph)
+	{
+		string * nodeNames = new string[v];
+
+	}
 };

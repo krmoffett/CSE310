@@ -14,9 +14,9 @@ using namespace std;
 int main(int argc, char *argv[])
 {
 	ifstream commandsFile(argv[1]), edgesFile(argv[2]);
-	string command, fill, start, finish, edge, winner, wScore, loser, lScore;
+	string command = "", fill, start, finish, edge, winner, wScore, loser, lScore;
 	int begin, end;
-	Graph g1;
+	Graph g1, g1t;
 	bool nameInArray(string name, string array[], int size);
 	void alphaArray(string names[], int size);
 
@@ -36,6 +36,10 @@ int main(int argc, char *argv[])
 		else if (command == "depth_first_search")	// DFS COMMAND
 		{
 			g1.depthFirstSearch();
+		}
+		else if (command == "compute_transpose")
+		{
+			g1.computeTranspose(g1t);
 		}
 		else		// GRAPH COMMAND
 		{
