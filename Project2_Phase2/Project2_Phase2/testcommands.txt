@@ -1,6 +1,0 @@
-graph,3,14
-print_graph
-end_graph
-graph,0,12
-print_graph
-quit
